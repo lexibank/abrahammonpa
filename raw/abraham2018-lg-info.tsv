@@ -1,32 +1,32 @@
-Language	Speaker number	Glottolog	Source	Concept_number	Latitude	Longitude	Country	Language_family	Language_subroups	Notes
-Monpa Kalaktang	h	tsha1247	abraham2018	307	27.104162	92.113017	India/China	Sino-Tibetan	Tshanglic	
-Monpa Balemu	p	tsha1245	abraham2018	307	26.964717	92.164581	India/China	Sino-Tibetan	Tshanglic	Approximate geo-coordinates
-Monpa Tomko	q	tsha1245	abraham2018	307	27.16536	92.23077	India/China	Sino-Tibetan	Tshanglic	
-Monpa Namsu	t	tsha1245	abraham2018	307	27.359505	92.34921	India/China	Sino-Tibetan	Tshanglic	
-Monpa Tembang	u	tsha1245	abraham2018	307	27.333876	92.40513	India/China	Sino-Tibetan	Tshanglic	
-Monpa Dirang Dum	k	tsha1245	abraham2018	307	27.334341	92.293734	India/China	Sino-Tibetan	Tshanglic	
-Monpa Sangti	n	tsha1245	abraham2018	307	27.402266	92.314934	India/China	Sino-Tibetan	Tshanglic	
-Monpa Dirang	o	tsha1245	abraham2018	307	27.34959	92.27914	India/China	Sino-Tibetan	Tshanglic	
-Monpa Tawang Monstery	f	dakp1242	abraham2018	307	27.586829	91.85796	India/China	Sino-Tibetan	Takpa	
-Monpa Zimithang	r	dakp1242	abraham2018	307	27.335901	92.306528	India/China	Sino-Tibetan	Takpa	
-Monpa Changprong	s	dakp1242	abraham2018	307	27.578928	91.876393	India/China	Sino-Tibetan	Takpa	Approximate geo-coordinates
-Sartang Khoitam	b	khoi1252	abraham2018	307	27.358518	92.438415	India/China	Sino-Tibetan	Khobwa	
-Chug Parchu	c	 chug1252	abraham2018	307	27.420054	92.234173	India/China	Sino-Tibetan	Khobwa	
-Sartang Darbu 1	d	sart1249	abraham2018	307	27.329171	92.358727	India/China	Sino-Tibetan	Khobwa	
-Miji Nafra	e	miji1239	abraham2018	307	27.373776	92.546071	India/China	Sino-Tibetan	Khobwa	
-Lish Lish	g	lish1235	abraham2018	307	27.368692	92.249809	India/China	Sino-Tibetan	Khobwa	
-Sherdukpen Rupa	i	sher1256	abraham2018	307	27.203981	92.398629	India/China	Sino-Tibetan	Khobwa	
-Hruso Aka Jamiri	j	hrus1242	abraham2018	307	27.184929	92.599114	India/China	Sino-Tibetan	Khobwa	
-Sartang Darbu 2	l	sart1249	abraham2018	307	27.329171	92.358727	India/China	Sino-Tibetan	Khobwa	
-Sartang Khoina	m	khoi1253	abraham2018	307	27.337381	92.529683	India/China	Sino-Tibetan	Khobwa	
-Bugun Singchung	v	sing1271	abraham2018	307	27.195773	92.473437	India/China	Sino-Tibetan	Khobwa	
-Bugun Wangho	w	wang1301	abraham2018	307	27.231398	92.436886	India/China	Sino-Tibetan	Khobwa	
-Bugun Bichom	x	bich1234	abraham2018	307	27.272159	92.574219	India/China	Sino-Tibetan	Khobwa	
-Bugun Kaspi	y	kasp1234	abraham2018	307	27.204143	92.549541	India/China	Sino-Tibetan	Khobwa	
-Bugun Namphri	z	namp1239	abraham2018	307	27.196633	92.504931	India/China	Sino-Tibetan	Khobwa	Approximate geo-coordinates
-Namrei Nabolang	A	hrus1242	abraham2018	307	27.546333	92.797975	India/China	Sino-Tibetan	Khobwa	
-Namrei Bisai	B	hrus1242	abraham2018	307	27.682796	92.700031	India/China	Sino-Tibetan	Khobwa	
-Dammai Rurang	C	hrus1242	abraham2018	307	27.368455	92.500637	India/China	Sino-Tibetan	Khobwa	
-Dammai Dibin	D	hrus1242	abraham2018	307	27.437363	92.531354	India/China	Sino-Tibetan	Khobwa	
-Sherdukpen Shergaon	E	sher1256	abraham2018	307	27.104558	92.27076	India/China	Sino-Tibetan	Khobwa	
-Koro Aka Pisang	F	koro1316	abraham2018	307	27.179389	92.63451	India/China	Sino-Tibetan	Khobwa	Approximate geo-coordinates
+Language	Speaker number	Glottolog	Source	Concept_number	Latitude	Longitude	Country	Language_family	Language_subroups	Notes	Macy_notes
+Monpa Kalaktang	h	tsha1247	abraham2018	307	27.104162	92.113017	India/China	Sino-Tibetan	Tshanglic		suggest “kala1376”. Kalaktang Monpa
+Monpa Balemu	p	tsha1245	abraham2018	307	26.964717	92.164581	India/China	Sino-Tibetan	Tshanglic	Approximate geo-coordinates	Kalaktang Monpa
+Monpa Tomko	q	tsha1245	abraham2018	307	27.16536	92.23077	India/China	Sino-Tibetan	Tshanglic		Kalaktang Monpa
+Monpa Namsu	t	tsha1245	abraham2018	307	27.359505	92.34921	India/China	Sino-Tibetan	Tshanglic		Kalaktang Monpa
+Monpa Tembang	u	tsha1245	abraham2018	307	27.333876	92.40513	India/China	Sino-Tibetan	Tshanglic		Dirang Monpa
+Monpa Dirang Dum	k	tsha1245	abraham2018	307	27.334341	92.293734	India/China	Sino-Tibetan	Tshanglic		Dirang Monpa
+Monpa Sangti	n	tsha1245	abraham2018	307	27.402266	92.314934	India/China	Sino-Tibetan	Tshanglic		Dirang Monpa. a dialect of Tshangla
+Monpa Dirang	o	tsha1245	abraham2018	307	27.34959	92.27914	India/China	Sino-Tibetan	Tshanglic		Dirang Monpa. a dialect of Tshangla
+Monpa Tawang Monstery	f	dakp1242	abraham2018	307	27.586829	91.85796	India/China	Sino-Tibetan	Takpa		Tawang Monpa
+Monpa Zimithang	r	dakp1242	abraham2018	307	27.335901	92.306528	India/China	Sino-Tibetan	Takpa		Tawang Monpa
+Monpa Changprong	s	dakp1242	abraham2018	307	27.578928	91.876393	India/China	Sino-Tibetan	Takpa	Approximate geo-coordinates	Tawang Monpa
+Sartang Khoitam	b	khoi1252	abraham2018	307	27.358518	92.438415	India/China	Sino-Tibetan	Khobwa		Sartang
+Chug Parchu	c	chug1252	abraham2018	307	27.420054	92.234173	India/China	Sino-Tibetan	Khobwa		Chug Monpa
+Sartang Darbu 1	d	sart1249	abraham2018	307	27.329171	92.358727	India/China	Sino-Tibetan	Khobwa		Sartang
+Miji Nafra	e	miji1239	abraham2018	307	27.373776	92.546071	India/China	Sino-Tibetan	Khobwa		Miji
+Lish Lish	g	lish1235	abraham2018	307	27.368692	92.249809	India/China	Sino-Tibetan	Khobwa		Lish Monpa
+Sherdukpen Rupa	i	sher1256	abraham2018	307	27.203981	92.398629	India/China	Sino-Tibetan	Khobwa		Sherdukpen
+Hruso Aka Jamiri	j	hrus1242	abraham2018	307	27.184929	92.599114	India/China	Sino-Tibetan	Khobwa		Hruso
+Sartang Darbu 2	l	sart1249	abraham2018	307	27.329171	92.358727	India/China	Sino-Tibetan	Khobwa		Sartang
+Sartang Khoina	m	khoi1253	abraham2018	307	27.337381	92.529683	India/China	Sino-Tibetan	Khobwa		Sartang
+Bugun Singchung	v	sing1271	abraham2018	307	27.195773	92.473437	India/China	Sino-Tibetan	Khobwa		Bugun
+Bugun Wangho	w	wang1301	abraham2018	307	27.231398	92.436886	India/China	Sino-Tibetan	Khobwa		Bugun
+Bugun Bichom	x	bich1234	abraham2018	307	27.272159	92.574219	India/China	Sino-Tibetan	Khobwa		Bugun
+Bugun Kaspi	y	kasp1234	abraham2018	307	27.204143	92.549541	India/China	Sino-Tibetan	Khobwa		Bugun
+Bugun Namphri	z	namp1239	abraham2018	307	27.196633	92.504931	India/China	Sino-Tibetan	Khobwa	Approximate geo-coordinates	Bugun
+Namrei Nabolang	A	hrus1242	abraham2018	307	27.546333	92.797975	India/China	Sino-Tibetan	Khobwa		suggest “miji1239”. a dialect of Miji, see page 9, table 2
+Namrei Bisai	B	hrus1242	abraham2018	307	27.682796	92.700031	India/China	Sino-Tibetan	Khobwa		suggest “miji1239”. a dialect of Miji, see page 9, table 2
+Dammai Rurang	C	hrus1242	abraham2018	307	27.368455	92.500637	India/China	Sino-Tibetan	Khobwa		suggest “miji1239”. a dialect of Miji, see page 9, table 2
+Dammai Dibin	D	hrus1242	abraham2018	307	27.437363	92.531354	India/China	Sino-Tibetan	Khobwa		suggest “miji1239”. a dialect of Miji, see page 9, table 2
+Sherdukpen Shergaon	E	sher1256	abraham2018	307	27.104558	92.27076	India/China	Sino-Tibetan	Khobwa		Sherdukpen
+Koro Aka Pisang	F	koro1316	abraham2018	307	27.179389	92.63451	India/China	Sino-Tibetan	Khobwa	Approximate geo-coordinates	Hruso
