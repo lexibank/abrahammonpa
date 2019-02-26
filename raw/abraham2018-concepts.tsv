@@ -1,10 +1,10 @@
 NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 1	1st pl.		1212	WE	
 2	1st sg. (I)		1209	I	
-3	2nd pl. (familiar)		1213	YOU	
-4	2nd pl. (honorific)		1213	YOU	
-5	2nd sg. (familiar)		1215	THOU	
-6	2nd sg. (honorific)		1215	THOU	
+3	2nd pl. (familiar)		1213	YOU	perhaps overspecified
+4	2nd pl. (honorific)				I emptied this as it seems overspecified
+5	2nd sg. (familiar)		1215	THOU	perhaps overspecified
+6	2nd sg. (honorific)				I emptied this as it seems overspecified
 7	3rd pl.		817	THEY	
 8	3rd sg. (female)		1834	SHE	
 9	3rd sg. (generic male)		1211	HE	
@@ -14,7 +14,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 13	arrow		977	ARROW	
 14	ashes		646	ASH	
 15	axe		677	AXE	
-16	back		1291	BACK	
+16	back		1291	BACK	backside of body? or opposite of in front?
 17	bad		1292	BAD	
 18	bamboo		1927	BAMBOO	
 19	banana		868	BANANA	
@@ -34,7 +34,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 33	bone		1394	BONE	
 34	bow		994	BOW	
 35	branch		1531	BRANCH	
-36	broken		588	BROKEN	
+36	broken		588	BROKEN	broken apart or not working? BROKEN is the hyperonym of both
 37	broom		245	BROOM	
 38	buffalo		934	BUFFALO	
 39	cabbage		774	CABBAGE	
@@ -49,13 +49,13 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 48	cloud		1489	CLOUD	
 49	cockroach		1575	COCKROACH	
 50	coconut (ripe)		970	COCONUT	
-51	cold		1287	COLD	
+51	cold		1287	COLD	wheather or in general? and noun or verb?
 52	cooked rice		1191	COOKED RICE	
 53	corn		506	MAIZE	
 54	cow		1007	COW	
 55	crocodile		1857	CROCODILE	
 56	daughter		1357	DAUGHTER	
-57	day		1260	DAY (24 HOURS)	
+57	day		1260	DAY (24 HOURS)	or opposite of night? night is also in the list
 58	deep		1593	DEEP	
 59	deer		1936	DEER	
 60	different		2504	DIFFERENT	
@@ -70,7 +70,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 69	eight		1705	EIGHT	
 70	elbow		981	ELBOW	
 71	elder brother (gen)		1759	OLDER BROTHER	
-72	elder sister (gen)			???	
+72	elder sister (gen)		1758	OLDER SISTER	"added this one - do you know what ""gen"" stands for?"
 73	elephant		1290	ELEPHANT	
 74	eleven		1706	ELEVEN	
 75	empty		1624	EMPTY	
@@ -79,7 +79,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 78	face		1560	FACE	
 79	far		1406	FAR	
 80	fast		1631	FAST	
-81	fat		323	FAT (ORGANIC SUBSTANCE)	
+81	fat		323	FAT (ORGANIC SUBSTANCE)	certain about this and the next?
 82	fat		1279	FAT (OBESE)	
 83	father		1217	FATHER	
 84	few		1242	FEW	
@@ -89,10 +89,10 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 88	fish		227	FISH	
 89	five		493	FIVE	
 90	flower		239	FLOWER	
-91	fly		1441	FLY (MOVE THROUGH AIR)	
+91	fly		1504	FLY (INSECT)	since to fly is also in the list, I moved this to the noun
 92	foot		1301	FOOT	
 93	four		1500	FOUR	
-94	friend (male)		1325	FRIEND	
+94	friend (male)		1325	FRIEND	seems a bit too overspecified
 95	frog		503	FROG	
 96	fruit		1507	FRUIT	
 97	full		1429	FULL	
@@ -101,24 +101,24 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 100	gold		1369	GOLD	
 101	good		1035	GOOD	
 102	green		1425	GREEN	
-103	hair		2648	HAIR (HEAD)	
+103	hair		2648	HAIR (HEAD)	or any hair?
 104	hammer		1481	HAMMER	
 105	hand		1277	HAND	
 106	head		1256	HEAD	
 107	heart (organ)		1223	HEART	
 108	heavy		1210	HEAVY	
-109	horn (of buffalo)		1393	HORN (ANATOMY)	
+109	horn (of buffalo)		1393	HORN (ANATOMY)	overspecified?
 110	hot		1286	HOT	
 111	house		1252	HOUSE	
-112	house lizard (gecko)		632	LIZARD	
+112	house lizard (gecko)		2355	GECKO	LIZARD is too broad, so I changed it
 113	how many		822	HOW MANY	
 114	hundred		1634	HUNDRED	
 115	hungry		1533	BE HUNGRY	
 116	husband		1200	HUSBAND	
 117	insect		620	INSECT	
-118	jack fruit			???	
+118	jack fruit		2655	JACKFRUIT	added this one
 119	knee		1371	KNEE	
-120	knife (to cut meat)		1352	KNIFE	
+120	knife (to cut meat)		1352	KNIFE	KITCHEN KNIFE might be a better fit
 121	leaf		628	LEAF	
 122	left		244	LEFT	
 123	light (not heavy)		1052	LIGHT (WEIGHT)	
@@ -129,7 +129,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 128	man		1554	MAN	
 129	mango		2398	MANGO	
 130	many		1198	MANY	
-131	meat		2615	FLESH OR MEAT	
+131	meat		634	MEAT	
 132	medicine		1372	MEDICINE	
 133	milk		635	MILK	
 134	monkey		1350	MONKEY	
@@ -144,7 +144,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 143	name		1405	NAME	
 144	narrow		1267	NARROW	
 145	near		1942	NEAR	
-146	neck		1333	NECK	
+146	neck		1333	NECK	backside or whole neck?
 147	needle		1382	NEEDLE (FOR SEWING)	
 148	new		1231	NEW	
 149	night		1233	NIGHT	
@@ -155,7 +155,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 154	old		2112	OLD (AGED)	
 155	one		1493	ONE	
 156	onion		2366	ONION	
-157	paddy rice		2026	RICE PLANT	
+157	paddy rice		2026	RICE PLANT	isn't this rather about the rice itself and not the whole plant?
 158	palm		1183	PALM OF HAND	
 159	paper		648	PAPER	
 160	path		2252	PATH	
@@ -165,7 +165,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 164	pillow		1044	PILLOW	
 165	potato		593	POTATO	
 166	rabbit		1136	RABBIT	
-167	rain		2018	RAINING OR RAIN	
+167	rain		658	RAIN (PRECIPITATION)	since verbs in this list seem to start with to, I moved this to the noun
 168	rainbow		1733	RAINBOW	
 169	rat		1490	RAT	
 170	red		156	RED	
@@ -177,7 +177,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 176	road		667	ROAD	
 177	roof		769	ROOF	
 178	root		670	ROOT	
-179	rotten (fruit)		1728	ROTTEN	
+179	rotten (fruit)		1728	ROTTEN	might be slightly overspecified
 180	salt		1274	SALT	
 181	same		200	SAME	
 182	sand		671	SAND	
@@ -192,7 +192,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 191	sky		1732	SKY	
 192	slow		701	SLOW	
 193	small		1246	SMALL	
-194	smoke		778	SMOKE (EXHAUST)	
+194	smoke		778	SMOKE (EXHAUST)	certain?
 195	snake		730	SNAKE	
 196	soil ground		1228	EARTH (SOIL)	
 197	some		1241	SOME	
@@ -211,28 +211,28 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 210	tail		1220	TAIL	
 211	ten		1515	TEN	
 212	that thing		78	THAT	
-213	these things		1214	THIS	
-214	thin		2249	THIN (OF SHAPE OF OBJECT)	
+213	these things		1214	THIS	do we link different concepts of the same list to the same concept set?
+214	thin		2249	THIN (OF SHAPE OF OBJECT)	certain that it does not refer to people? fat is also in the list
 215	thirsty		847	THIRSTY	
 216	this thing		1214	THIS	
 217	thorn		124	THORN	
-218	those things		78	THAT	
+218	those things		78	THAT	do we link different concepts of the same list to the same concept set?
 219	thousand		1843	THOUSAND	
 220	thread		1161	THREAD	
 221	three		492	THREE	
 222	thunder		1150	THUNDER	
 223	tiger		846	TIGER	
 224	to bite		1403	BITE	
-225	to boil (water)		792	BOIL (OF LIQUID)	
-226	to burn		2102	BURN	
+225	to boil (water)		792	BOIL (OF LIQUID)	are we certain that this should be the intransitive boil?
+226	to burn		2102	BURN	this would be the hyponym of both transitive and intransitive boil
 227	to buy		1869	BUY	
 228	to come		1446	COME	
 229	to cook		1100	COOK (SOMETHING)	
-230	to cry		1839	CRY	
+230	to cry		1839	CRY	weep or scream?
 231	to cut something		1432	CUT	
 232	to dance		1879	DANCE	
 233	to die		1494	DIE	
-234	to do make		813	DO	
+234	to do make		2575	DO OR MAKE	changed it to the hyperonym
 235	to dream		1920	DREAM (SOMETHING)	
 236	to drink		1401	DRINK	
 237	to eat		1336	EAT	
@@ -284,7 +284,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 283	twelve		1707	TWELVE	
 284	twenty		1710	TWENTY	
 285	two		1498	TWO	
-286	uncooked rice		926	RICE	
+286	uncooked rice				this should get a hyponym
 287	village		930	VILLAGE	
 288	wall of house		933	WALL (OF HOUSE)	
 289	water		948	WATER	
