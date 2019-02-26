@@ -107,7 +107,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 106	head		1256	HEAD	
 107	heart (organ)		1223	HEART	
 108	heavy		1210	HEAVY	
-109	horn (of buffalo)		1393	HORN (ANATOMY)	overspecified? Yunfan: I don't think so. "(of buffalo)" should just be an example.
+109	horn (of buffalo)		1393	HORN (ANATOMY)	overspecified? Yunfan: I don't think so. (of buffalo) should just be an example.
 110	hot		1286	HOT	
 111	house		1252	HOUSE	
 112	house lizard (gecko)		2355	GECKO	LIZARD is too broad, so I changed it
@@ -212,7 +212,7 @@ NUMBER	ENGLISH		CONCEPTICON_ID	CONCEPTICON_GLOSS	NOTES
 211	ten		1515	TEN	
 212	that thing		78	THAT	
 213	these things				do we link different concepts of the same list to the same concept set? Yunfan: I removed it.
-214	thin		2249	THIN (OF SHAPE OF OBJECT)	certain that it does not refer to people? fat is also in the list. Yunfan: It means "lean, thin". I chose this concept because I thought it was more general.
+214	thin		2249	THIN (OF SHAPE OF OBJECT)	certain that it does not refer to people? fat is also in the list. Yunfan: It means lean, thin. I chose this concept because I thought it was more general.
 215	thirsty		847	THIRSTY	
 216	this thing		1214	THIS	
 217	thorn		124	THORN	
