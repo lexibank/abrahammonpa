@@ -44,7 +44,6 @@ class Dataset(NonSplittingDataset):
 
         # build cldf
         languages, concepts = [], {}
-        missing = defaultdict(int)
         with self.cldf as ds:
             for concept in self.concepts:
                 ds.add_concept(
@@ -62,8 +61,9 @@ class Dataset(NonSplittingDataset):
                             Name=language['Language']
                             )
                 languages.append((language['Language_in_Wiktionary'])
-
+            
             ds.add_sources(*self.raw.read_bib())
+            missing = defaultdict(int)
             for entry in tqdm(data, desc='cldfify the data'):
                 if entry[''] not in concepts:
                     missing[entry['']] +=1
@@ -77,7 +77,7 @@ class Dataset(NonSplittingDataset):
                                 Language_ID=languages[language],
                                 Parameter_ID=concepts[concept],
                                 Value=self.lexemes.get(value, value),
-                                Source=['Abrahammonpa2018']
+                                Source=['Abraham2018']
                                 )
             for i, m in enumerate(missing):
                 print(str(i+1)+'\t'+m)
