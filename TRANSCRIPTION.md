@@ -4,68 +4,115 @@
 ## Segments
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
-|:----------|-------------:|:-------|:------------------|
-| a | 4253 | ✓ | ✓ |
-| u | 2227 | ✓ | ✓ |
-| i | 2174 | ✓ | ✓ |
-| ŋ | 1903 | ✓ | ✓ |
-| t | 1859 | ✓ | ✓ |
-| h | 1808 | ✓ | ✓ |
-| o | 1671 | ✓ | ✓ |
-| m | 1481 | ✓ | ✓ |
-| k | 1382 | ✓ | ✓ |
-| n | 1331 | ✓ | ✓ |
-| ʃ | 1293 | ✓ | ✓ |
-| e | 1158 | ✓ | ✓ |
-| p | 1022 | ✓ | ✓ |
-| l | 918 | ✓ | ✓ |
-| d | 780 | ✓ | ✓ |
-| b | 762 | ✓ | ✓ |
-| s | 753 | ✓ | ✓ |
-| r | 563 | ✓ | ✓ |
-| j | 512 | ✓ | ✓ |
-| g | 509 | ✓ | ✓ |
-| ɾ | 375 | ✓ | ✓ |
-| ʒ | 312 | ✓ | ✓ |
-| ə | 300 | ✓ | ✓ |
-| ʔ | 251 | ✓ | ✓ |
-| z | 240 | ✓ | ✓ |
-| ̪ | 213 | ? | ? |
-| w | 181 | ✓ | ✓ |
-| ɲ | 170 | ✓ | ✓ |
-| | 166 | ✓ | ✓ |
-| ; | 156 | ? | ? |
-| y | 143 | ✓ | ✓ |
-| ă | 110 | ✓ | ✓ |
-| – | 84 | ? | ? |
-| ̥ | 77 | ? | ? |
-| õ | 51 | ✓ | ✓ |
-| ŭ | 51 | ✓ | ✓ |
-| ̆ | 48 | ? | ? |
-| v | 36 | ✓ | ✓ |
-| ĭ | 30 | ✓ | ✓ |
+|:-----------|-------------:|:-------|:------------------|
+| a | 4154 | ✓ | ✓ |
+| u | 2159 | ✓ | ✓ |
+| i | 2116 | ✓ | ✓ |
+| ŋ | 1826 | ✓ | ✓ |
+| o | 1603 | ✓ | ✓ |
+| m | 1398 | ✓ | ✓ |
+| n | 1294 | ✓ | ✓ |
+| e | 1119 | ✓ | ✓ |
+| l | 890 | ✓ | ✓ |
+| k | 796 | ✓ | ✓ |
+| b | 751 | ✓ | ✓ |
+| tʃ | 680 | ✓ | ✓ |
+| p | 673 | ✓ | ✓ |
+| s | 654 | ✓ | ✓ |
+| kʰ | 535 | ✓ | ✓ |
+| r | 532 | ✓ | ✓ |
+| g | 498 | ✓ | ✓ |
+| j | 498 | ✓ | ✓ |
+| t | 483 | ✓ | ✓ |
+| ɾ | 372 | ✓ | ✓ |
+| d | 370 | ✓ | ✓ |
+| h | 326 | ✓ | ✓ |
+| dʒ | 295 | ✓ | ✓ |
+| tʰ | 293 | ✓ | ✓ |
+| ʃ | 291 | ✓ | ✓ |
+| pʰ | 290 | ✓ | ✓ |
+| ə | 248 | ✓ | ✓ |
+| ʔ | 244 | ✓ | ✓ |
+| z | 235 | ✓ | ✓ |
+| tʃh | 223 | ? | ? |
+| w | 167 | ✓ | ✓ |
+| ɲ | 167 | ✓ | ✓ |
+| y | 140 | ✓ | ✓ |
+| ă | 105 | ✓ | ✓ |
+| d̪ | 96 | ✓ | ✓ |
+| t̪ | 90 | ✓ | ✓ |
+| <<–>> | 84 | ? | ? |
+| h̥ | 76 | ✓ | ✓ |
+| õ | 50 | ✓ | ✓ |
+| ŭ | 44 | ✓ | ✓ |
+| ə̆ | 42 | ✓ | ✓ |
+| v | 34 | ✓ | ✓ |
+| ĭ | 29 | ✓ | ✓ |
 | f | 26 | ✓ | ✓ |
-| ĕ | 19 | ✓ | ✓ |
-| ɕ | 16 | ✓ | ✓ |
+| mʃ | 21 | ✓ | ✓ |
+| ts | 21 | ✓ | ✓ |
+| ŋs | 17 | ✓ | ✓ |
 | æ | 15 | ✓ | ✓ |
-| ː | 13 | ? | ? |
+| ĕ | 15 | ✓ | ✓ |
+| ɕ | 15 | ✓ | ✓ |
+| ps | 14 | ✓ | ✓ |
+| t̪h | 13 | ✓ | ✓ |
+| ŋʃ | 13 | ✓ | ✓ |
+| ms | 12 | ✓ | ✓ |
+| pʃ | 11 | ✓ | ✓ |
+| _ | 10 | ✓ | ✓ |
+| ks | 9 | ✓ | ✓ |
 | ũ | 9 | ✓ | ✓ |
 | ɹ | 9 | ✓ | ✓ |
-| ŏ | 8 | ✓ | ✓ |
+| ʒ | 9 | ✓ | ✓ |
+| oː | 8 | ✓ | ✓ |
 | ã | 7 | ✓ | ✓ |
+| iː | 6 | ✓ | ✓ |
+| ŏ | 6 | ✓ | ✓ |
 | ɛ | 6 | ✓ | ✓ |
 | ʋ | 6 | ✓ | ✓ |
-| x | 5 | ✓ | ✓ |
-| &#124; | 4 | ? | ? |
-| ̃ | 4 | ? | ? |
+| n̪ | 5 | ✓ | ✓ |
+| ŭs | 5 | ? | ? |
+| <<&#124;>> | 4 | ? | ? |
+| <<̃>> | 4 | ? | ? |
+| aː | 4 | ✓ | ✓ |
+| lː | 4 | ✓ | ✓ |
+| x | 4 | ✓ | ✓ |
+| ŋh | 4 | ✓ | ✓ |
 | ẽ | 4 | ✓ | ✓ |
+| <<ː>> | 3 | ? | ? |
+| <<̆>> | 3 | ? | ? |
+| ĕh | 3 | ? | ? |
+| kʃ | 2 | ✓ | ✓ |
+| kʷ | 2 | ✓ | ✓ |
+| ll | 2 | ? | ? |
+| mh | 2 | ✓ | ✓ |
+| ns | 2 | ✓ | ✓ |
+| pː | 2 | ✓ | ✓ |
+| rʃ | 2 | ? | ? |
+| y̆ | 2 | ✓ | ✓ |
+| ăw | 2 | ? | ? |
 | ĩ | 2 | ✓ | ✓ |
-| 1 | 1 | ✓ | ✓ |
+| ŋw | 2 | ? | ? |
+| ŏh | 2 | ? | ? |
+| ʔw | 2 | ? | ? |
+| <<ɨ>> | 1 | ? | ? |
+| <<̩>> | 1 | ? | ? |
+| <?> | 1 | ? | ? |
+| dw | 1 | ? | ? |
+| d̪h | 1 | ✓ | ✓ |
+| gh | 1 | ✓ | ✓ |
+| jʃ | 1 | ? | ? |
+| kː | 1 | ✓ | ✓ |
+| mm | 1 | ? | ? |
+| mɕ | 1 | ✓ | ✓ |
+| nn | 1 | ? | ? |
+| t̪ː | 1 | ✓ | ✓ |
+| w̆ | 1 | ? | ? |
+| ăs | 1 | ? | ? |
 | ɔ | 1 | ✓ | ✓ |
-| ɨ | 1 | ✓ | ✓ |
-| ̩ | 1 | ? | ? |
 
-(59 rows)
+(106 rows)
 
 
 
@@ -81,107 +128,107 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------------|:---------------------|----------:|:-------------|:-------------------------------------------------------------|
-| monpabalemu-23-1 | monpabalemu | 23 | dʒupka | d ʒ u p k a <s> ; </s> <s>   </s> ɾ a d j a n |
-| monpabalemu-39-1 | monpabalemu | 39 | mumt̪oklom | m u m t <s> ̪ </s> o k l o m |
-| monpabalemu-55-1 | monpabalemu | 55 | – | <s> – </s> |
-| monpabalemu-65-1 | monpabalemu | 65 | blasa | b l a s a <s> ; </s> <s>   </s> p u r t ʃ i |
-| monpabalemu-7-1 | monpabalemu | 7 | d̪aiba | d <s> ̪ </s> a i b a |
-| monpabalemu-8-1 | monpabalemu | 8 | d̪an | d <s> ̪ </s> a n |
-| monpabalemu-9-1 | monpabalemu | 9 | d̪an | d <s> ̪ </s> a n |
-| monpachangprong-102-1 | monpachangprong | 102 | ŋ̆au | ŋ <s> ̆ </s> a u |
-| monpachangprong-105-1 | monpachangprong | 105 | lah̥ | l a h <s> ̥ </s> |
-| monpachangprong-12-1 | monpachangprong | 12 | h̥rokpu | h <s> ̥ </s> r o k p u |
-| monpachangprong-24-1 | monpachangprong | 24 | gugæ | g u g æ <s> ; </s> <s>   </s> g u i |
-| monpachangprong-25-1 | monpachangprong | 25 | them | t h e m <s> ; </s> <s>   </s> k h o ŋ t ʃ i g u |
-| monpachangprong-31-1 | monpachangprong | 31 | kho | k h o <s> ; </s> <s>   </s> d r u |
-| monpachangprong-39-1 | monpachangprong | 39 | – | <s> – </s> |
-| monpachangprong-42-1 | monpachangprong | 42 | – | <s> – </s> |
-| monpachangprong-43-1 | monpachangprong | 43 | d̪oŋpa | d <s> ̪ </s> o ŋ p a |
-| monpachangprong-54-1 | monpachangprong | 54 | bah̥ | b a h <s> ̥ </s> |
-| monpachangprong-62-1 | monpachangprong | 62 | koh̥ | k o h <s> ̥ </s> |
-| monpachangprong-78-1 | monpachangprong | 78 | bah̥ | b a h <s> ̥ </s> |
-| monpachangprong-84-1 | monpachangprong | 84 | halamd̪i | h a l a m d <s> ̪ </s> i |
-| monpadirang-23-1 | monpadirang | 23 | phɾaŋga | p h ɾ a ŋ g a <s> ; </s> <s>   </s> j o l a |
-| monpadirang-43-1 | monpadirang | 43 | d̪oŋpa | d <s> ̪ </s> o ŋ p a |
-| monpadirang-7-1 | monpadirang | 7 | d̪aʃibak | d <s> ̪ </s> a ʃ i b a k |
-| monpadirang-83-1 | monpadirang | 83 | apa | a p a <s> ; </s> <s>   </s> a t ʃ h i |
-| monpadirangdum-17-1 | monpadirangdum | 17 | d̪uphula | d <s> ̪ </s> u p h u l a |
-| monpadirangdum-28-1 | monpadirangdum | 28 | tʃhaŋlu | t ʃ h a ŋ l u <s> ; </s> <s>   </s> g j u |
-| monpadirangdum-36-1 | monpadirangdum | 36 | phot̪iɲdʒi | p h o t <s> ̪ </s> i ɲ d ʒ i |
-| monpadirangdum-39-1 | monpadirangdum | 39 | – | <s> – </s> |
-| monpadirangdum-42-1 | monpadirangdum | 42 | – | <s> – </s> |
-| monpadirangdum-43-1 | monpadirangdum | 43 | d̪uŋpa | d <s> ̪ </s> u ŋ p a |
-| monpadirangdum-50-1 | monpadirangdum | 50 | – | <s> – </s> |
-| monpadirangdum-52-1 | monpadirangdum | 52 | ʔăʋa | ʔ ă ʋ a <s> ; </s> <s>   </s> t o t ʃ a ŋ |
-| monpadirangdum-57-1 | monpadirangdum | 57 | t̪inuŋamthur | t <s> ̪ </s> i n u ŋ a m t h u r |
-| monpadirangdum-58-1 | monpadirangdum | 58 | t̪oŋkaŋ | t <s> ̪ </s> o ŋ k a ŋ |
-| monpadirangdum-9-1 | monpadirangdum | 9 | d̪an | d <s> ̪ </s> a n |
-| monpadirangdum-93-1 | monpadirangdum | 93 | bə̆si | b ə <s> ̆ </s> s i |
-| monpakalaktang-104-1 | monpakalaktang | 104 | peɾilakt̪oŋ | p e ɾ i l a k t <s> ̪ </s> o ŋ |
-| monpakalaktang-25-1 | monpakalaktang | 25 | taŋpu | t a ŋ p u <s> ; </s> <s>   </s> t ʃ h i l u |
-| monpakalaktang-36-1 | monpakalaktang | 36 | phoʔd̪ilan | p h o ʔ d <s> ̪ </s> i l a n |
-| monpakalaktang-37-1 | monpakalaktang | 37 | braŋphaktʃaŋ | b r a ŋ p h a k t ʃ a ŋ <s> ; </s> <s>   </s> ʃ e r t ʃ a ŋ |
-| monpakalaktang-39-1 | monpakalaktang | 39 | – | <s> – </s> <s> ; </s> <s>   </s> m u m t <s> ̪ </s> o k l o m |
-| monpakalaktang-41-1 | monpakalaktang | 41 | d̪aniŋ | d <s> ̪ </s> a n i ŋ <s> ; </s> <s>   </s> ɲ i m b u |
-| monpakalaktang-42-1 | monpakalaktang | 42 | – | <s> – </s> |
-| monpakalaktang-51-1 | monpakalaktang | 51 | kurban | k u r b a n <s> ; </s> <s>   </s> t ʃ h a ŋ p u |
-| monpakalaktang-53-1 | monpakalaktang | 53 | aʃam | a ʃ a m <s> ; </s> <s>   </s> p h i n a ŋ |
-| monpakalaktang-7-1 | monpakalaktang | 7 | d̪aiba | d <s> ̪ </s> a i b a |
-| monpakalaktang-71-1 | monpakalaktang | 71 | ata | a t a <s> ; </s> <s>   </s> a u |
-| monpakalaktang-82-1 | monpakalaktang | 82 | jan | j a n <s> ; </s> <s>   </s> s i |
-| monpakalaktang-84-1 | monpakalaktang | 84 | anithur | a n i t h u r <s> ; </s> <s>   </s> t i t <s> ̪ </s> a ŋ |
-| monpanamsu-112-1 | monpanamsu | 112 | – | <s> – </s> |
-| monpanamsu-31-1 | monpanamsu | 31 | – | <s> – </s> |
-| monpanamsu-47-1 | monpanamsu | 47 | khau | k h a u <s> ; </s> <s>   </s> k h o u |
-| monpanamsu-48-1 | monpanamsu | 48 | məmə | m ə m ə <s> ; </s> <s>   </s> m ŭ k p a |
-| monpanamsu-92-1 | monpanamsu | 92 | bih̥ | b i h <s> ̥ </s> |
-| monpanamsu-95-1 | monpanamsu | 95 | beŋkut̪a | b e ŋ k u t <s> ̪ </s> a |
-| monpasangti-7-1 | monpasangti | 7 | d̪aʃibak | d <s> ̪ </s> a ʃ i b a k |
-| monpasangti-9-1 | monpasangti | 9 | d̪an | d <s> ̪ </s> a n |
-| monpasangti-92-1 | monpasangti | 92 | bih̥ | b i h <s> ̥ </s> |
-| monpasangti-95-1 | monpasangti | 95 | beŋkut̪a | b e ŋ k u t <s> ̪ </s> a |
-| monpatawangmonastery-102-1 | monpatawangmonastery | 102 | ŋ̆au | ŋ <s> ̆ </s> a u |
-| monpatawangmonastery-105-1 | monpatawangmonastery | 105 | lah̥ | l a h <s> ̥ </s> |
-| monpatawangmonastery-109-1 | monpatawangmonastery | 109 | h̥ruwa | h <s> ̥ </s> r u w a |
-| monpatawangmonastery-12-1 | monpatawangmonastery | 12 | h̥rok | h <s> ̥ </s> r o k |
-| monpatawangmonastery-14-1 | monpatawangmonastery | 14 | bla | b l a <s> ; </s> <s>   </s> d <s> ̪ </s> h u o |
-| monpatawangmonastery-18-1 | monpatawangmonastery | 18 | soh̥ | s o h <s> ̥ </s> |
-| monpatawangmonastery-24-1 | monpatawangmonastery | 24 | – | <s> – </s> |
-| monpatawangmonastery-43-1 | monpatawangmonastery | 43 | d̪uŋpa | d <s> ̪ </s> u ŋ p a |
-| monpatawangmonastery-49-1 | monpatawangmonastery | 49 | – | <s> – </s> |
-| monpatawangmonastery-62-1 | monpatawangmonastery | 62 | koh̥ | k o h <s> ̥ </s> |
-| monpatawangmonastery-7-1 | monpatawangmonastery | 7 | ʔot | ʔ o t <s> ; </s> <s>   </s> b a d <s> ̪ </s> o |
-| monpatawangmonastery-78-1 | monpatawangmonastery | 78 | bah̥ | b a h <s> ̥ </s> |
-| monpatawangmonastery-87-1 | monpatawangmonastery | 87 | meh̥ | m e h <s> ̥ </s> |
-| monpatembang-16-1 | monpatembang | 16 | ʔə̆tʃəbo | ʔ ə <s> ̆ </s> t ʃ ə b o <s> ; </s> <s>   </s> g e t ʃ i k |
-| monpatembang-31-1 | monpatembang | 31 | – | <s> – </s> |
-| monpatembang-32-1 | monpatembang | 32 | ʔoso | ʔ o s o <s> ; </s> <s>   </s> l u s p u |
-| monpatembang-39-1 | monpatembang | 39 | – | <s> – </s> |
-| monpatembang-42-1 | monpatembang | 42 | – | <s> – </s> |
-| monpatembang-47-1 | monpatembang | 47 | khau | k h a u <s> ; </s> <s>   </s> k h o u |
-| monpatembang-8-1 | monpatembang | 8 | – | <s> – </s> |
-| monpatembang-9-1 | monpatembang | 9 | – | <s> – </s> |
-| monpatomko-112-1 | monpatomko | 112 | – | <s> – </s> |
-| monpatomko-21-1 | monpatomko | 21 | nizumba | n i z u m b a <s> ; </s> <s>   </s> s i ŋ s u r |
-| monpatomko-37-1 | monpatomko | 37 | ʃet̪am | ʃ e t <s> ̪ </s> a m |
-| monpatomko-55-1 | monpatomko | 55 | – | <s> – </s> |
-| monpatomko-68-1 | monpatomko | 68 | pant̪ho | p a n t <s> ̪ </s> h o |
-| monpatomko-7-1 | monpatomko | 7 | d̪aʃibak | d <s> ̪ </s> a ʃ i b a k |
-| monpatomko-97-1 | monpatomko | 97 | ɾid̪impula | ɾ i d <s> ̪ </s> i m p u l a |
-| monpazimithang-101-1 | monpazimithang | 101 | t̪ego | t <s> ̪ </s> e g o |
-| monpazimithang-102-1 | monpazimithang | 102 | ŋ̆au | ŋ <s> ̆ </s> a u |
-| monpazimithang-105-1 | monpazimithang | 105 | lah̥ | l a h <s> ̥ </s> |
-| monpazimithang-109-1 | monpazimithang | 109 | h̥ruwa | h <s> ̥ </s> r u w a |
-| monpazimithang-12-1 | monpazimithang | 12 | h̥ropu | h <s> ̥ </s> r o p u |
-| monpazimithang-24-1 | monpazimithang | 24 | – | <s> – </s> |
-| monpazimithang-42-1 | monpazimithang | 42 | – | <s> – </s> |
-| monpazimithang-57-1 | monpazimithang | 57 | d̪eʃ | d <s> ̪ </s> e ʃ |
-| monpazimithang-62-1 | monpazimithang | 62 | koh̥ | k o h <s> ̥ </s> |
-| monpazimithang-76-1 | monpazimithang | 76 | nopt̪ | n o p t <s> ̪ </s> |
-| monpazimithang-78-1 | monpazimithang | 78 | bah̥ | b a h <s> ̥ </s> |
-| monpazimithang-84-1 | monpazimithang | 84 | halamd̪i | h a l a m d <s> ̪ </s> i |
-| monpazimithang-93-1 | monpazimithang | 93 | plih̥ | p l i h <s> ̥ </s> |
+|:---------------------------|:---------------------|----------:|:--------------|:---------------------------------|
+| monpabalemu-110-1 | monpabalemu | 110 | tʃhabula | <s> tʃh </s> a b u l a |
+| monpabalemu-120-1 | monpabalemu | 120 | tʃhoŋ | <s> tʃh </s> o ŋ |
+| monpabalemu-125-1 | monpabalemu | 125 | tʃhun | <s> tʃh </s> u n |
+| monpabalemu-28-1 | monpabalemu | 28 | tʃhaŋloŋ | <s> tʃh </s> a ŋ l o ŋ |
+| monpabalemu-55-1 | monpabalemu | 55 | – | <s> <<–>> </s> |
+| monpachangprong-102-1 | monpachangprong | 102 | ŋ̆au | ŋ <s> <<̆>> </s> a u |
+| monpachangprong-39-1 | monpachangprong | 39 | – | <s> <<–>> </s> |
+| monpachangprong-42-1 | monpachangprong | 42 | – | <s> <<–>> </s> |
+| monpachangprong-55-1 | monpachangprong | 55 | tʃhugzin | <s> tʃh </s> u g z i n |
+| monpachangprong-59-1 | monpachangprong | 59 | tʃho | <s> tʃh </s> o |
+| monpachangprong-82-1 | monpachangprong | 82 | tʃhi | <s> tʃh </s> i |
+| monpachangprong-98-1 | monpachangprong | 98 | tʃhĕt | <s> tʃh </s> ĕ t |
+| monpadirang-103-1 | monpadirang | 103 | tʃham | <s> tʃh </s> a m |
+| monpadirang-108-1 | monpadirang | 108 | tʃhipu | <s> tʃh </s> i p u |
+| monpadirang-125-1 | monpadirang | 125 | tʃhui | <s> tʃh </s> u i |
+| monpadirang-130-1 | monpadirang | 130 | tʃhatʃha | <s> tʃh </s> a <s> tʃh </s> a |
+| monpadirang-16-1 | monpadirang | 16 | tʃhiŋkhaŋ | <s> tʃh </s> i ŋ kʰ a ŋ |
+| monpadirang-169-1 | monpadirang | 169 | tʃhu | <s> tʃh </s> u |
+| monpadirang-170-1 | monpadirang | 170 | tʃhalu | <s> tʃh </s> a l u |
+| monpadirang-28-1 | monpadirang | 28 | tʃhaŋlu | <s> tʃh </s> a ŋ l u |
+| monpadirang-51-1 | monpadirang | 51 | tʃhaŋpu | <s> tʃh </s> a ŋ p u |
+| monpadirangdum-103-1 | monpadirangdum | 103 | tʃham | <s> tʃh </s> a m |
+| monpadirangdum-108-1 | monpadirangdum | 108 | tʃhipu | <s> tʃh </s> i p u |
+| monpadirangdum-112-1 | monpadirangdum | 112 | – | <s> <<–>> </s> |
+| monpadirangdum-125-1 | monpadirangdum | 125 | tʃhun | <s> tʃh </s> u n |
+| monpadirangdum-130-1 | monpadirangdum | 130 | tʃhatʃha | <s> tʃh </s> a <s> tʃh </s> a |
+| monpadirangdum-144-1 | monpadirangdum | 144 | – | <s> <<–>> </s> |
+| monpadirangdum-16-1 | monpadirangdum | 16 | tʃhiŋkhaŋ | <s> tʃh </s> i ŋ kʰ a ŋ |
+| monpadirangdum-162-1 | monpadirangdum | 162 | – | <s> <<–>> </s> |
+| monpadirangdum-166-1 | monpadirangdum | 166 | – | <s> <<–>> </s> |
+| monpadirangdum-169-1 | monpadirangdum | 169 | tʃhu | <s> tʃh </s> u |
+| monpadirangdum-170-1 | monpadirangdum | 170 | tʃhalu | <s> tʃh </s> a l u |
+| monpadirangdum-179-1 | monpadirangdum | 179 | – | <s> <<–>> </s> |
+| monpadirangdum-28-1 | monpadirangdum | 28 | tʃhaŋlu | <s> tʃh </s> a ŋ l u |
+| monpadirangdum-39-1 | monpadirangdum | 39 | – | <s> <<–>> </s> |
+| monpadirangdum-42-1 | monpadirangdum | 42 | – | <s> <<–>> </s> |
+| monpadirangdum-50-1 | monpadirangdum | 50 | – | <s> <<–>> </s> |
+| monpakalaktang-103-1 | monpakalaktang | 103 | tʃham | <s> tʃh </s> a m |
+| monpakalaktang-110-1 | monpakalaktang | 110 | tʃhabu | <s> tʃh </s> a b u |
+| monpakalaktang-120-1 | monpakalaktang | 120 | tʃhoŋdaza | <s> tʃh </s> o ŋ d a z a |
+| monpakalaktang-125-1 | monpakalaktang | 125 | tʃhun | <s> tʃh </s> u n |
+| monpakalaktang-16-1 | monpakalaktang | 16 | tʃhiŋkhaŋ | <s> tʃh </s> i ŋ kʰ a ŋ |
+| monpakalaktang-170-1 | monpakalaktang | 170 | tʃhalo | <s> tʃh </s> a l o |
+| monpakalaktang-173-1 | monpakalaktang | 173 | tʃhaid̪um | <s> tʃh </s> a i d̪ u m |
+| monpakalaktang-179-1 | monpakalaktang | 179 | – | <s> <<–>> </s> |
+| monpakalaktang-28-1 | monpakalaktang | 28 | tʃhaŋlu | <s> tʃh </s> a ŋ l u |
+| monpakalaktang-39-1 | monpakalaktang | 39 | – | <s> <<–>> </s> |
+| monpakalaktang-42-1 | monpakalaktang | 42 | – | <s> <<–>> </s> |
+| monpakalaktang-50-1 | monpakalaktang | 50 | narkolăse | n a r k o l <s> ăs </s> e |
+| monpakalaktang-73-1 | monpakalaktang | 73 | mimilaŋputʃhe | m i m i l a ŋ p u <s> tʃh </s> e |
+| monpanamsu-103-1 | monpanamsu | 103 | tʃham | <s> tʃh </s> a m |
+| monpanamsu-112-1 | monpanamsu | 112 | – | <s> <<–>> </s> |
+| monpanamsu-130-1 | monpanamsu | 130 | tʃhatʃha | <s> tʃh </s> a <s> tʃh </s> a |
+| monpanamsu-144-1 | monpanamsu | 144 | – | <s> <<–>> </s> |
+| monpanamsu-169-1 | monpanamsu | 169 | tʃhu | <s> tʃh </s> u |
+| monpanamsu-28-1 | monpanamsu | 28 | tʃhaŋluŋ | <s> tʃh </s> a ŋ l u ŋ |
+| monpanamsu-31-1 | monpanamsu | 31 | – | <s> <<–>> </s> |
+| monpasangti-103-1 | monpasangti | 103 | tʃham | <s> tʃh </s> a m |
+| monpasangti-169-1 | monpasangti | 169 | tʃhu | <s> tʃh </s> u |
+| monpasangti-170-1 | monpasangti | 170 | tʃhalu | <s> tʃh </s> a l u |
+| monpasangti-28-1 | monpasangti | 28 | tʃhaŋluŋ | <s> tʃh </s> a ŋ l u ŋ |
+| monpatawangmonastery-102-1 | monpatawangmonastery | 102 | ŋ̆au | ŋ <s> <<̆>> </s> a u |
+| monpatawangmonastery-112-1 | monpatawangmonastery | 112 | – | <s> <<–>> </s> |
+| monpatawangmonastery-125-1 | monpatawangmonastery | 125 | tʃhun | <s> tʃh </s> u n |
+| monpatawangmonastery-138-1 | monpatawangmonastery | 138 | – | <s> <<–>> </s> |
+| monpatawangmonastery-178-1 | monpatawangmonastery | 178 | hrăwa | h r <s> ăw </s> a |
+| monpatawangmonastery-24-1 | monpatawangmonastery | 24 | – | <s> <<–>> </s> |
+| monpatawangmonastery-49-1 | monpatawangmonastery | 49 | – | <s> <<–>> </s> |
+| monpatawangmonastery-55-1 | monpatawangmonastery | 55 | tʃhugzin | <s> tʃh </s> u g z i n |
+| monpatawangmonastery-59-1 | monpatawangmonastery | 59 | tʃho | <s> tʃh </s> o |
+| monpatawangmonastery-71-1 | monpatawangmonastery | 71 | atʃh | a <s> tʃh </s> |
+| monpatawangmonastery-73-1 | monpatawangmonastery | 73 | lampotʃhe | l a m p o <s> tʃh </s> e |
+| monpatawangmonastery-82-1 | monpatawangmonastery | 82 | tʃhi | <s> tʃh </s> i |
+| monpatawangmonastery-98-1 | monpatawangmonastery | 98 | tʃhĕt | <s> tʃh </s> ĕ t |
+| monpatembang-103-1 | monpatembang | 103 | tʃham | <s> tʃh </s> a m |
+| monpatembang-125-1 | monpatembang | 125 | tʃhun | <s> tʃh </s> u n |
+| monpatembang-162-1 | monpatembang | 162 | – | <s> <<–>> </s> |
+| monpatembang-169-1 | monpatembang | 169 | tʃhu | <s> tʃh </s> u |
+| monpatembang-28-1 | monpatembang | 28 | tʃhaŋluŋ | <s> tʃh </s> a ŋ l u ŋ |
+| monpatembang-31-1 | monpatembang | 31 | – | <s> <<–>> </s> |
+| monpatembang-39-1 | monpatembang | 39 | – | <s> <<–>> </s> |
+| monpatembang-42-1 | monpatembang | 42 | – | <s> <<–>> </s> |
+| monpatembang-60-1 | monpatembang | 60 | sŭsu | s <s> ŭs </s> u |
+| monpatembang-8-1 | monpatembang | 8 | – | <s> <<–>> </s> |
+| monpatembang-9-1 | monpatembang | 9 | – | <s> <<–>> </s> |
+| monpatomko-108-1 | monpatomko | 108 | tʃhipu | <s> tʃh </s> i p u |
+| monpatomko-112-1 | monpatomko | 112 | – | <s> <<–>> </s> |
+| monpatomko-166-1 | monpatomko | 166 | – | <s> <<–>> </s> |
+| monpatomko-169-1 | monpatomko | 169 | tʃhu | <s> tʃh </s> u |
+| monpatomko-170-1 | monpatomko | 170 | tʃhalu | <s> tʃh </s> a l u |
+| monpatomko-28-1 | monpatomko | 28 | tʃhaŋluŋ | <s> tʃh </s> a ŋ l u ŋ |
+| monpatomko-55-1 | monpatomko | 55 | – | <s> <<–>> </s> |
+| monpatomko-73-1 | monpatomko | 73 | lamputʃhe | l a m p u <s> tʃh </s> e |
+| monpazimithang-102-1 | monpazimithang | 102 | ŋ̆au | ŋ <s> <<̆>> </s> a u |
+| monpazimithang-110-1 | monpazimithang | 110 | tʃherpa | <s> tʃh </s> e r p a |
+| monpazimithang-166-1 | monpazimithang | 166 | – | <s> <<–>> </s> |
+| monpazimithang-24-1 | monpazimithang | 24 | – | <s> <<–>> </s> |
+| monpazimithang-42-1 | monpazimithang | 42 | – | <s> <<–>> </s> |
+| monpazimithang-71-1 | monpazimithang | 71 | atʃh | a <s> tʃh </s> |
+| monpazimithang-82-1 | monpazimithang | 82 | tʃhi | <s> tʃh </s> i |
 
 (100 rows)
 

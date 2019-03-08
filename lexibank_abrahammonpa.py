@@ -71,15 +71,11 @@ class Dataset(NonSplittingDataset):
                             value = self.lexemes.get(entry[language],
                                 entry[language]
                                 )
-                            form = value.split(',')[0].strip()
-                            segments=[s for s in form]
                             if value.strip():
                                 ds.add_lexemes(
                                     Language_ID=slug(language),
                                     Parameter_ID=concepts[entry['']],
                                     Value=value,
-                                    Form=form,
-                                    Segments=segments,
                                     Source=['Abraham2018']
                                     )
                 else:
