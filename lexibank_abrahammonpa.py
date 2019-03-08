@@ -56,12 +56,12 @@ class Dataset(NonSplittingDataset):
             for language in self.languages:
                 if language['Language_in_Wiktionary'] !='':
                     ds.add_language(
-                            ID=slug(language['Language']),
+                            ID=slug(language['Language_in_Wiktionary']),
                             Glottocode=language['Glottolog'],
-                            Name=language['Language']
+                            Name=language['Language_in_Wiktionary']
                             )
                     check_languages.append(language['Language_in_Wiktionary'])
-            
+
             ds.add_sources(*self.raw.read_bib())
             missing = defaultdict(int)
             for c, entry in tqdm(enumerate(data), desc='cldfify the data'):
@@ -69,17 +69,19 @@ class Dataset(NonSplittingDataset):
                     for language in check_languages:
                         if language in entry.keys():
                             value = self.lexemes.get(entry[language],
-                            entry[language]
-                            )
-                        else:
-                            value=''
-                        if value.strip():
-                            ds.add_lexemes(
-                                Language_ID=slug(language),
-                                Parameter_ID=concepts[entry['']],
-                                Value=value,
-                                Source=['Abraham2018']
+                                entry[language]
                                 )
+                            form = value.split(',')[0].strip()
+                            segments=[s for s in form]
+                            if value.strip():
+                                ds.add_lexemes(
+                                    Language_ID=slug(language),
+                                    Parameter_ID=concepts[entry['']],
+                                    Value=value,
+                                    Form=form,
+                                    Segments=segments,
+                                    Source=['Abraham2018']
+                                    )
                 else:
                     missing[entry['']] +=1
 
