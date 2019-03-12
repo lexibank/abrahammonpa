@@ -30,7 +30,7 @@ thography.tsv
 
 - **Varieties:** 26
 - **Concepts:** 306
-- **Lexemes:** 7,194
+- **Lexemes:** 7,106
 - **Synonymy:** 1.04
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0

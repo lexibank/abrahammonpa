@@ -110,7 +110,7 @@ class Dataset(NonSplittingDataset):
                                 value = self.lexemes.get(entry[language],
                                     entry[language]
                                     )
-                                if value.strip():
+                                if not (value.strip()==None or value.strip()=='–'):
                                     ds.add_lexemes(
                                         Language_ID=slug(language),
                                         Parameter_ID=concepts[entry['']],
@@ -126,7 +126,7 @@ class Dataset(NonSplittingDataset):
                                 value = self.lexemes.get(entry[language],
                                     entry[language]
                                     )
-                                if value.strip():
+                                if not (value.strip()==None or value.strip()=='–'):
                                     ds.add_lexemes(
                                         Language_ID=slug(language),
                                         Parameter_ID=concepts[entry['Gloss']],
