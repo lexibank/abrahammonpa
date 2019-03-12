@@ -102,20 +102,35 @@ class Dataset(NonSplittingDataset):
             ds.add_sources(*self.raw.read_bib())
             missing = defaultdict(int)
             for c, entry in tqdm(enumerate(data), desc='cldfify the data'):
-                if entry[''] in concepts.keys():
-                    for language in check_languages:
-                        if language in entry.keys():
-                            value = self.lexemes.get(entry[language],
-                                entry[language]
-                                )
-                            if value.strip():
-                                ds.add_lexemes(
-                                    Language_ID=slug(language),
-                                    Parameter_ID=concepts[entry['']],
-                                    Value=value,
-                                    Source=['Abraham2018']
+                if '' in entry.keys():
+                    if entry[''] in concepts.keys():
+                        for language in check_languages:
+                            if language in entry.keys():
+                                value = self.lexemes.get(entry[language],
+                                    entry[language]
                                     )
-                else:
-                    missing[entry['']] +=1
+                                if value.strip():
+                                    ds.add_lexemes(
+                                        Language_ID=slug(language),
+                                        Parameter_ID=concepts[entry['']],
+                                        Value=value,
+                                        Source=['Abraham2018']
+                                        )
+                    else:
+                        missing[entry['']] +=1
+                elif 'Gloss' in entry.keys():
+                    if entry['Gloss'] in concepts.keys():
+                        for language in check_languages:
+                            if language in entry.keys():
+                                value = self.lexemes.get(entry[language],
+                                    entry[language]
+                                    )
+                                if value.strip():
+                                    ds.add_lexemes(
+                                        Language_ID=slug(language),
+                                        Parameter_ID=concepts[entry['Gloss']],
+                                        Value=value,
+                                        Source=['Abraham2018']
+                                        )
 
 

@@ -25,15 +25,15 @@ thography.tsv
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 78%](https://img.shields.io/badge/BIPA-78%25-yellow.svg "BIPA: 78%")
-![CLTS SoundClass: 78%](https://img.shields.io/badge/CLTS%20SoundClass-78%25-yellow.svg "CLTS SoundClass: 78%")
+![BIPA: 87%](https://img.shields.io/badge/BIPA-87%25-yellowgreen.svg "BIPA: 87%")
+![CLTS SoundClass: 87%](https://img.shields.io/badge/CLTS%20SoundClass-87%25-yellowgreen.svg "CLTS SoundClass: 87%")
 
-- **Varieties:** 22
+- **Varieties:** 26
 - **Concepts:** 306
-- **Lexemes:** 5,986
-- **Synonymy:** 1.05
+- **Lexemes:** 7,194
+- **Synonymy:** 1.04
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 27,336
-- **Segments:** 106 (23 BIPA errors, 23 CTLS sound class errors, 83 CLTS modified)
-- **Inventory size (avg):** 49.00
+- **Tokens:** 33,164
+- **Segments:** 85 (11 BIPA errors, 11 CTLS sound class errors, 74 CLTS modified)
+- **Inventory size (avg):** 44.69
