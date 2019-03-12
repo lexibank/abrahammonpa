@@ -195,7 +195,7 @@ tʃ$	tʃ	ʔutʃ	monpatawangmonastery	1	U+0074 U+0283 U+0024
 mm	mː	semmapheka	monpakalaktang	1	U+006d U+006d
 gh	gʱ	guɾghaŋ	monpabalemu	1	U+0067 U+0068
 ẽ$	ẽ	muẽ	bugunbichom	1	U+1ebd U+0024
-w̆	w̆	how̆dĕʔ	lishlish	1	U+0077 U+0306
+w̆	w	how̆dĕʔ	lishlish	1	U+0077 U+0306
 ii	iː	siiŋ	bugunbichom	1	U+0069 U+0069
 h̩$	h̩	ʃah̩	monpadirang	1	U+0068 U+0329 U+0024
 ps	p s	ipsiŋba	sherdukpenshergaon	1	U+0070 U+0073
@@ -211,3 +211,15 @@ mɕ	m ɕ	ʔomɕa	monpakalaktang	1	U+006d U+0255
 kː	kː	jakːan	monpasangti	1	U+006b U+02d0
 1	l	hasok1a	monpabalemu	1	U+0031
 ʋ$	ʋ	momnaʋ	monpadirangdum	1	U+028b U+0024
+–	NULL				
+ɸ	ɸ				
+yː	yː				
+õː	õː				
+uː	uː				
+ə̃	ə̃				
+^ɬ	ɬ				
+l̪	l̪				
+h̩	h̩				
+ŋ̆	ŋ̆				
+ɬ	ɬ				
+ɨ̃ 	ɨ̃ 				

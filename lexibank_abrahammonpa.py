@@ -65,7 +65,7 @@ class Dataset(NonSplittingDataset):
             
     def clean_form(self, item, form):
         if form not in ['*', '---', '']:
-            return split_text(strip_brackets(form), ',;/')[0]
+            return split_text(strip_brackets(form), ',;/||')[0]
 
     def cmd_install(self, **kw):
         """
@@ -101,6 +101,7 @@ class Dataset(NonSplittingDataset):
 
             ds.add_sources(*self.raw.read_bib())
             missing = defaultdict(int)
+        
             for c, entry in tqdm(enumerate(data), desc='cldfify the data'):
                 if '' in entry.keys():
                     if entry[''] in concepts.keys():
