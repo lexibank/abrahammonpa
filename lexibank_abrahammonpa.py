@@ -73,7 +73,7 @@ class Dataset(NonSplittingDataset):
         """
         # read in and merge
         data =[]
-        for i in ['monpa.tsv','khobwa.tsv']:
+        for i in ['monpa.tsv','khobwa.tsv', 'hruso.tsv']:
             with open(self.dir.joinpath('raw',i).as_posix(),'r') as csvfile:
                 reader=csv.DictReader(csvfile, delimiter='\t')
                 temp = [row for row in reader]
