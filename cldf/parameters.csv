@@ -2,9 +2,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1,1st pl.,1212,WE
 2,1st sg. (I),1209,I
 3,2nd pl. (familiar),1213,YOU
-4,2nd pl. (honorific),,
+4,2nd pl. (honorific),3293,YOU (HONORIFIC)
 5,2nd sg. (familiar),1215,THOU
-6,2nd sg. (honorific),,
+6,2nd sg. (honorific),3292,THOU (HONORIFIC)
 7,3rd pl.,817,THEY
 8,3rd sg. (female),1834,SHE
 9,3rd sg. (generic male),1211,HE
@@ -283,7 +283,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 283,twelve,1707,TWELVE
 284,twenty,1710,TWENTY
 285,two,1498,TWO
-286,uncooked rice,926,RICE
+286,uncooked rice,3289,UNCOOKED RICE
 287,village,930,VILLAGE
 288,wall of house,933,WALL (OF HOUSE)
 289,water,948,WATER
