@@ -83,14 +83,9 @@ class Dataset(NonSplittingDataset):
         # build cldf
         check_languages, concepts = [], {}
         with self.cldf as ds:
-            for concept in self.conceptlist.concepts.values():
-                ds.add_concept(
-                        ID=concept.number,
-                        Name=concept.english,
-                        Concepticon_ID=concept.concepticon_id,
-                        Concepticon_Gloss=concept.concepticon_gloss
-                        )
-                concepts[concept.english] = concept.number
+            ds.add_concepts(id_factory=lambda c: c.number)
+            concepts = {c.english: c.number for c in
+                    self.conceptlist.concepts.values()}
             for language in self.languages:
                 if language['Language_in_Wiktionary'] !='':
                     ds.add_language(
@@ -103,7 +98,8 @@ class Dataset(NonSplittingDataset):
             ds.add_sources(*self.raw.read_bib())
             missing = defaultdict(int)
         
-            for c, entry in tqdm(enumerate(data), desc='cldfify the data'):
+            for c, entry in tqdm(enumerate(data), desc='cldfify',
+                    total=len(data)):
                 if '' in entry.keys():
                     if entry[''] in concepts.keys():
                         for language in check_languages:
