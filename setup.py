@@ -21,9 +21,8 @@ setup(
         ]
     },
     install_requires=[
-        'beautifulsoup4==4.7.1',
-        'pylexibank==1.1.1',
-        'segments==2.0.2'
+        'beautifulsoup4>=4.7.1',
+        'pylexibank>=1.1.1',
     ],
     extras_require={
         'test': [
