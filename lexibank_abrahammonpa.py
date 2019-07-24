@@ -95,25 +95,37 @@ class Dataset(NonSplittingDataset):
                     if entry[""] in concepts.keys():
                         for language in check_languages:
                             if language in entry.keys():
-                                value = self.lexemes.get(entry[language], entry[language])
-                                if not (value.strip() is None or value.strip() == "–"):
-                                    ds.add_lexemes(
-                                        Language_ID=slug(language),
-                                        Parameter_ID=concepts[entry[""]],
-                                        Value=value,
-                                        Source=["Abraham2018"],
-                                    )
+                                for form in split_text(
+                                        self.lexemes.get(
+                                            entry[language],
+                                            entry[language]
+                                            ),
+                                        ',;/'):
+                                    if not (form.strip() is None or form.strip() == "–"):
+                                        ds.add_lexemes(
+                                            Language_ID=slug(language),
+                                            Parameter_ID=concepts[entry[""]],
+                                            Value=entry[language],
+                                            Form=form,
+                                            Source=["Abraham2018"],
+                                        )
                     else:
                         missing[entry[""]] += 1
                 elif "Gloss" in entry.keys():
                     if entry["Gloss"] in concepts.keys():
                         for language in check_languages:
                             if language in entry.keys():
-                                value = self.lexemes.get(entry[language], entry[language])
-                                if not (value.strip() is None or value.strip() == "–"):
-                                    ds.add_lexemes(
-                                        Language_ID=slug(language),
-                                        Parameter_ID=concepts[entry["Gloss"]],
-                                        Value=value,
-                                        Source=["Abraham2018"],
-                                    )
+                                for form in split_text(
+                                        self.lexemes.get(
+                                            entry[language],
+                                            entry[language]
+                                            ),
+                                        ',;/'):
+                                    if not (form.strip() is None or form.strip() == "–"):
+                                        ds.add_lexemes(
+                                            Language_ID=slug(language),
+                                            Parameter_ID=concepts[entry["Gloss"]],
+                                            Value=entry[language],
+                                            Form=form,
+                                            Source=["Abraham2018"],
+                                        )
