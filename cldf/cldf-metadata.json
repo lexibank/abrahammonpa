@@ -1,14 +1,18 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "dc:bibliographicCitation": "Abraham, Binny, Kara Sako, Elina Kinny, Isapdaile Zeliang (2018):  Sociolinguistic Research among Selected Groups in Western Arunachal Pradesh: Highlighting Monpa. SIL Electronic Survey Reports 2018-009.",
+    "aboutUrl": null,
+    "dc:bibliographicCitation": "Abraham, Binny, Kara Sako, Elina Kinny, Isapdaile Zeliang (2018):  Sociolinguistic Research among Selected Groups in Western Arunachal Pradesh: Highlighting Monpa. Dallas: SIL International.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Abraham-2018-307"
     ],
     "dc:identifier": "",
+    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "abrahammonpa",
+    "dc:title": "Sociolinguistic Research on Monpa",
     "rdf:ID": "abrahammonpa",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -18,8 +22,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4-1-g07a9b54",
-                "concepticon_version": "pyconcepticon-1.4.0-176-ga518a97"
+                "glottolog_version": "v4.0-12-ge90a2e3",
+                "concepticon_version": "v2.0-28-g30d405a"
             }
         }
     ],
