@@ -1,226 +1,231 @@
-Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-^	NULL				
-$	NULL				
-a	a	badam, ŋam	monpakalaktang, monpatomko, monpasangti, monpadirang, monpabalemu, monpatembang, monpadirangdum, sartangdarbu, monpanamsu, bugunkaspi, bugunwangho, bugunnamphri, bugunbichom, monpachangprong, monpatawangmonastery, chugchug, lishlish, sartangkhoina, monpazimithang, sherdukpenshergaon, sherdukpenrupa, sartangkhoitam	2837	U+0061
-i	i	soŋnitʃiŋ, nitʃiŋ	monpachangprong, monpadirang, monpatomko, monpabalemu, monpadirangdum, monpakalaktang, sartangdarbu, monpatembang, monpasangti, bugunwangho, monpanamsu, bugunkaspi, monpazimithang, sherdukpenshergaon, bugunnamphri, bugunbichom, monpatawangmonastery, lishlish, sherdukpenrupa, chugchug, sartangkhoitam, sartangkhoina	1377	U+0069
-u	u	mumbati, kotʃuŋ	sartangdarbu, monpatembang, monpasangti, monpakalaktang, monpabalemu, monpadirangdum, monpadirang, lishlish, monpatomko, chugchug, sartangkhoitam, sherdukpenshergaon, bugunnamphri, monpanamsu, monpazimithang, bugunwangho, bugunkaspi, monpatawangmonastery, monpachangprong, sherdukpenrupa, sartangkhoina, bugunbichom	1229	U+0075
-o	o	tʃoŋ, toŋpa	monpachangprong, sartangdarbu, monpanamsu, monpakalaktang, monpazimithang, monpadirangdum, monpasangti, monpatomko, monpadirang, monpatawangmonastery, monpatembang, monpabalemu, chugchug, sherdukpenshergaon, bugunnamphri, bugunkaspi, bugunbichom, lishlish, bugunwangho, sartangkhoitam, sherdukpenrupa, sartangkhoina	1153	U+006f
-a$	a	ŋa, kha	monpabalemu, monpadirangdum, monpakalaktang, monpadirang, monpasangti, monpatomko, monpazimithang, monpatawangmonastery, monpanamsu, lishlish, monpatembang, monpachangprong, chugchug, bugunbichom, bugunnamphri, bugunkaspi, bugunwangho, sherdukpenrupa, sartangkhoina, sherdukpenshergaon, sartangdarbu, sartangkhoitam	1015	U+0061 U+0024
-ŋ$	ŋ	tʃoŋ, miŋ	sartangdarbu, monpatembang, monpanamsu, monpasangti, monpabalemu, monpadirang, bugunnamphri, monpakalaktang, monpatomko, sartangkhoina, sartangkhoitam, sherdukpenshergaon, bugunbichom, monpadirangdum, bugunwangho, sherdukpenrupa, bugunkaspi, chugchug, lishlish, monpatawangmonastery, monpachangprong, monpazimithang	971	U+014b U+0024
-u$	u	khu, ʃugu	monpachangprong, monpadirang, monpasangti, monpatawangmonastery, monpatomko, monpakalaktang, monpanamsu, monpabalemu, monpazimithang, monpadirangdum, sherdukpenshergaon, monpatembang, sartangdarbu, sartangkhoitam, bugunwangho, sherdukpenrupa, sartangkhoina, bugunkaspi, lishlish, bugunbichom, chugchug, bugunnamphri	867	U+0075 U+0024
-e	e	gelendi, ser	monpatembang, monpazimithang, monpachangprong, monpatawangmonastery, monpanamsu, monpasangti, monpadirang, monpakalaktang, sartangdarbu, monpabalemu, monpadirangdum, chugchug, monpatomko, sartangkhoina, sherdukpenshergaon, lishlish, bugunnamphri, bugunkaspi, sartangkhoitam, bugunwangho, bugunbichom, sherdukpenrupa	783	U+0065
-ŋ	ŋ	toŋpa, soŋthur	monpadirangdum, monpadirang, monpasangti, monpatomko, monpanamsu, monpatembang, monpakalaktang, monpabalemu, sartangdarbu, monpachangprong, monpatawangmonastery, monpazimithang, lishlish, chugchug, sherdukpenshergaon, sartangkhoina, sartangkhoitam, bugunwangho, sherdukpenrupa, bugunkaspi, bugunbichom, bugunnamphri	695	U+014b
-i$	i	li, si	monpazimithang, monpadirang, monpanamsu, monpasangti, monpadirangdum, bugunnamphri, bugunkaspi, sherdukpenshergaon, monpatembang, sartangdarbu, sherdukpenrupa, monpatomko, chugchug, bugunbichom, bugunwangho, lishlish, monpabalemu, sartangkhoina, monpakalaktang, sartangkhoitam, monpachangprong, monpatawangmonastery	672	U+0069 U+0024
-m	m	mumbati, ama	monpakalaktang, sartangdarbu, monpatomko, monpabalemu, lishlish, monpasangti, chugchug, monpatembang, monpadirangdum, monpachangprong, monpanamsu, monpazimithang, monpadirang, monpatawangmonastery, sherdukpenshergaon, bugunnamphri, bugunkaspi, sherdukpenrupa, sartangkhoitam, bugunbichom, bugunwangho, sartangkhoina	663	U+006d
-l	l	gelendi, zulu	monpabalemu, monpadirangdum, monpatomko, monpazimithang, monpasangti, monpachangprong, lishlish, monpatawangmonastery, monpanamsu, sherdukpenshergaon, monpadirang, monpatembang, monpakalaktang, sherdukpenrupa, sartangkhoina, chugchug, sartangdarbu, sartangkhoitam, bugunwangho, bugunnamphri, bugunbichom, bugunkaspi	559	U+006c
-p	p	toŋpa, apa	monpatomko, monpadirangdum, monpachangprong, monpabalemu, monpasangti, monpakalaktang, monpanamsu, monpadirang, monpatawangmonastery, monpazimithang, monpatembang, sherdukpenshergaon, lishlish, sartangdarbu, chugchug, sherdukpenrupa, bugunwangho, sartangkhoina, sartangkhoitam, bugunbichom, bugunkaspi, bugunnamphri	497	U+0070
-n	n	ana, gelendi	monpakalaktang, monpazimithang, monpadirangdum, sartangdarbu, monpabalemu, monpadirang, monpatomko, monpachangprong, monpatembang, monpasangti, monpanamsu, monpatawangmonastery, sartangkhoitam, sherdukpenrupa, sherdukpenshergaon, sartangkhoina, bugunkaspi, bugunnamphri, chugchug, bugunwangho, bugunbichom, lishlish	480	U+006e
-n$	n	nan, man	monpatembang, monpatomko, monpanamsu, monpasangti, sartangdarbu, monpazimithang, monpakalaktang, monpadirang, lishlish, chugchug, sartangkhoina, monpatawangmonastery, sherdukpenshergaon, monpabalemu, monpadirangdum, sartangkhoitam, monpachangprong, sherdukpenrupa, bugunbichom, bugunkaspi, bugunnamphri, bugunwangho	455	U+006e U+0024
-^s	s	si, ser	sartangdarbu, bugunkaspi, bugunbichom, sherdukpenrupa, sherdukpenshergaon, monpabalemu, bugunwangho, monpatomko, monpasangti, monpanamsu, sartangkhoina, bugunnamphri, monpakalaktang, monpadirangdum, monpachangprong, sartangkhoitam, monpatawangmonastery, monpadirang, monpatembang, monpazimithang, lishlish, chugchug	428	U+005e U+0073
-k	k	mŭkpa, phakpa	monpabalemu, monpasangti, monpachangprong, monpakalaktang, monpatomko, sartangdarbu, monpadirangdum, monpazimithang, monpadirang, monpatawangmonastery, sartangkhoitam, monpanamsu, sherdukpenrupa, lishlish, sherdukpenshergaon, monpatembang, chugchug, sartangkhoina, bugunwangho, bugunbichom, bugunnamphri, bugunkaspi	410	U+006b
-o$	o	kho, soso	monpatawangmonastery, sartangdarbu, monpadirangdum, monpabalemu, monpachangprong, sartangkhoina, monpazimithang, monpanamsu, sherdukpenshergaon, sherdukpenrupa, monpasangti, sartangkhoitam, monpatomko, bugunwangho, bugunbichom, bugunnamphri, monpadirang, bugunkaspi, lishlish, monpakalaktang, monpatembang, chugchug	410	U+006f U+0024
-b	b	mumbati, habije	sartangdarbu, monpadirang, monpadirangdum, monpasangti, monpatomko, monpanamsu, bugunnamphri, monpakalaktang, monpatembang, monpabalemu, bugunkaspi, sartangkhoitam, monpazimithang, bugunbichom, sherdukpenrupa, sherdukpenshergaon, bugunwangho, monpatawangmonastery, chugchug, monpachangprong, lishlish, sartangkhoina	406	U+0062
-tʃ	tʃ	kotʃuŋ, betʃa	monpadirang, sartangdarbu, monpasangti, sherdukpenshergaon, monpatembang, monpanamsu, bugunwangho, sherdukpenrupa, sartangkhoina, sartangkhoitam, monpadirangdum, monpakalaktang, monpazimithang, monpatomko, monpatawangmonastery, monpachangprong, monpabalemu, lishlish, bugunkaspi, chugchug, bugunnamphri, bugunbichom	404	U+0074 U+0283
-m$	m	ŋam, badam	monpakalaktang, monpabalemu, sartangdarbu, monpadirang, monpatembang, bugunkaspi, monpanamsu, monpazimithang, bugunnamphri, monpatomko, monpachangprong, bugunbichom, monpadirangdum, monpasangti, monpatawangmonastery, chugchug, bugunwangho, sartangkhoina, sartangkhoitam, lishlish, sherdukpenshergaon, sherdukpenrupa	379	U+006d U+0024
-^n	n	nan, naw	sartangdarbu, sartangkhoina, sherdukpenshergaon, monpanamsu, monpatomko, lishlish, monpatembang, monpabalemu, monpadirangdum, monpasangti, sartangkhoitam, monpadirang, monpakalaktang, sherdukpenrupa, monpatawangmonastery, chugchug, monpazimithang, monpachangprong, bugunkaspi, bugunbichom, bugunnamphri, bugunwangho	359	U+005e U+006e
-^m	m	mumbati, man	sartangdarbu, monpachangprong, bugunkaspi, bugunwangho, bugunnamphri, monpatawangmonastery, monpabalemu, bugunbichom, monpatembang, monpazimithang, monpatomko, monpakalaktang, monpasangti, monpadirangdum, monpadirang, monpanamsu, sherdukpenrupa, sherdukpenshergaon, sartangkhoina, sartangkhoitam, chugchug, lishlish	356	U+005e U+006d
-r	r	karma, bruŋ	monpatawangmonastery, monpachangprong, monpazimithang, monpatembang, monpakalaktang, monpanamsu, bugunwangho, monpatomko, sartangdarbu, bugunnamphri, bugunbichom, sartangkhoina, bugunkaspi, chugchug, sartangkhoitam, monpasangti, monpabalemu, sherdukpenshergaon, sherdukpenrupa, monpadirangdum, monpadirang, lishlish	344	U+0072
-^b	b	badam, betʃa	sartangdarbu, monpadirang, monpadirangdum, monpasangti, monpanamsu, monpatawangmonastery, monpatembang, monpabalemu, monpazimithang, monpakalaktang, sherdukpenshergaon, monpachangprong, bugunbichom, monpatomko, sherdukpenrupa, chugchug, bugunkaspi, bugunwangho, bugunnamphri, sartangkhoina, lishlish, sartangkhoitam	338	U+005e U+0062
-j	j	habije, naɾijal	bugunwangho, bugunbichom, bugunkaspi, bugunnamphri, monpatawangmonastery, monpadirangdum, sartangdarbu, monpazimithang, monpasangti, monpadirang, monpabalemu, sherdukpenrupa, sherdukpenshergaon, monpachangprong, sartangkhoina, lishlish, monpatembang, chugchug, sartangkhoitam, monpanamsu, monpatomko, monpakalaktang	327	U+006a
-^kh	kʰ	khu, kha	sartangdarbu, monpasangti, monpatawangmonastery, monpazimithang, monpakalaktang, monpatembang, monpanamsu, monpabalemu, chugchug, monpadirang, monpatomko, monpachangprong, sherdukpenrupa, bugunwangho, bugunnamphri, monpadirangdum, lishlish, sherdukpenshergaon, bugunbichom, bugunkaspi, sartangkhoitam, sartangkhoina	318	U+005e U+006b U+0068
-^l	l	li, lam	monpatawangmonastery, monpachangprong, monpazimithang, monpakalaktang, monpabalemu, monpadirang, monpasangti, sartangdarbu, monpadirangdum, monpanamsu, monpatembang, lishlish, bugunkaspi, monpatomko, bugunnamphri, chugchug, sartangkhoina, sartangkhoitam, bugunbichom, sherdukpenshergaon, bugunwangho, sherdukpenrupa	305	U+005e U+006c
-^a	a	am, ama	sartangdarbu, sartangkhoitam, sartangkhoina, sherdukpenshergaon, sherdukpenrupa, monpatomko, monpanamsu, monpatembang, monpakalaktang, monpabalemu, chugchug, monpasangti, monpadirangdum, monpadirang, monpazimithang, bugunwangho, bugunbichom, bugunnamphri, lishlish, bugunkaspi, monpachangprong, monpatawangmonastery	302	U+005e U+0061
-t	t	mumbati, kotaŋ	monpatawangmonastery, sherdukpenshergaon, monpachangprong, chugchug, sartangdarbu, monpazimithang, monpakalaktang, monpabalemu, monpatembang, monpasangti, monpadirang, monpatomko, lishlish, monpanamsu, sherdukpenrupa, monpadirangdum, sartangkhoitam, bugunkaspi, bugunwangho, bugunbichom, sartangkhoina, bugunnamphri	300	U+0074
-^tʃ	tʃ	tʃoŋ, tʃo	monpazimithang, monpatembang, monpatawangmonastery, sartangdarbu, monpatomko, monpachangprong, monpanamsu, monpasangti, monpabalemu, chugchug, monpadirangdum, sartangkhoitam, monpadirang, bugunwangho, bugunbichom, lishlish, bugunkaspi, monpakalaktang, sartangkhoina, sherdukpenshergaon, bugunnamphri, sherdukpenrupa	275	U+005e U+0074 U+0283
-^g	g	gelendi, gu	monpanamsu, monpadirang, monpatawangmonastery, monpatembang, monpasangti, monpachangprong, monpabalemu, monpakalaktang, monpadirangdum, monpatomko, monpazimithang, sartangkhoina, sherdukpenrupa, sherdukpenshergaon, chugchug, sartangdarbu, bugunbichom, bugunnamphri, sartangkhoitam, lishlish, bugunkaspi	250	U+005e U+0067
-g	g	ʃugu, goga	monpachangprong, monpatawangmonastery, monpadirang, monpasangti, monpatembang, monpanamsu, monpakalaktang, monpadirangdum, monpatomko, monpazimithang, bugunbichom, bugunnamphri, lishlish, sartangdarbu, bugunkaspi, sherdukpenshergaon, monpabalemu, sherdukpenrupa, chugchug, sartangkhoina, bugunwangho, sartangkhoitam	248	U+0067
-ɾ	ɾ	gaɾaŋ, naɾikol	sartangdarbu, monpadirang, monpasangti, monpadirangdum, monpabalemu, monpanamsu, monpatembang, monpatomko, monpazimithang, sartangkhoina, monpakalaktang, monpatawangmonastery, chugchug, sherdukpenrupa, sherdukpenshergaon, sartangkhoitam, monpachangprong, bugunkaspi, bugunbichom, lishlish, bugunnamphri, bugunwangho	242	U+027e
-d	d	badam, gelendi	sartangdarbu, chugchug, lishlish, sartangkhoina, sherdukpenshergaon, monpazimithang, sartangkhoitam, monpanamsu, sherdukpenrupa, monpachangprong, monpatawangmonastery, monpakalaktang, monpatembang, monpatomko, monpasangti, bugunkaspi, monpabalemu, bugunnamphri, monpadirangdum, monpadirang, bugunwangho, bugunbichom	235	U+0064
-ə	ə	tʃəmut, dətʃhai	bugunnamphri, bugunwangho, bugunbichom, bugunkaspi, monpatembang, monpanamsu, sartangdarbu, sartangkhoina, sartangkhoitam, sherdukpenrupa, sherdukpenshergaon, chugchug, monpabalemu, lishlish, monpazimithang, monpachangprong	228	U+0259
-^h	h	habije, hiŋ	sartangdarbu, bugunkaspi, lishlish, chugchug, bugunnamphri, bugunwangho, bugunbichom, sartangkhoitam, sherdukpenshergaon, sherdukpenrupa, sartangkhoina, monpachangprong, monpatawangmonastery, monpazimithang, monpakalaktang, monpatembang, monpasangti, monpabalemu, monpadirangdum, monpadirang, monpatomko, monpanamsu	222	U+005e U+0068
-kh	kʰ	ekhuk, binaŋkhulːa	monpatembang, monpanamsu, sartangdarbu, chugchug, sherdukpenshergaon, bugunbichom, bugunnamphri, sherdukpenrupa, sartangkhoina, bugunkaspi, lishlish, bugunwangho, monpasangti, monpakalaktang, monpadirang, sartangkhoitam, monpadirangdum, monpazimithang, monpatomko, monpabalemu	216	U+006b U+0068
-e$	e	se, le	sartangdarbu, sartangkhoitam, bugunkaspi, bugunnamphri, bugunwangho, bugunbichom, sartangkhoina, monpazimithang, monpadirangdum, monpatawangmonastery, chugchug, monpatomko, lishlish, monpanamsu, sherdukpenrupa, monpachangprong, monpakalaktang, monpasangti, monpatembang, monpabalemu, monpadirang, sherdukpenshergaon	205	U+0065 U+0024
-^ph	pʰ	pha, phakpa	monpadirang, monpatembang, monpakalaktang, monpasangti, monpanamsu, monpadirangdum, sartangdarbu, monpabalemu, bugunwangho, sherdukpenshergaon, lishlish, chugchug, sartangkhoitam, sherdukpenrupa, bugunkaspi, bugunbichom, bugunnamphri, monpatomko, sartangkhoina, monpazimithang, monpachangprong, monpatawangmonastery	204	U+005e U+0070 U+0068
-k$	k	ehek, ɾok	sartangdarbu, sherdukpenrupa, bugunwangho, sherdukpenshergaon, sartangkhoina, bugunkaspi, bugunbichom, bugunnamphri, monpadirang, monpanamsu, sartangkhoitam, monpasangti, lishlish, monpatembang, monpatawangmonastery, monpadirangdum, monpatomko, monpachangprong, monpakalaktang, monpabalemu, chugchug, monpazimithang	203	U+006b U+0024
-s	s	luspu, soso	monpachangprong, sartangdarbu, monpatomko, chugchug, bugunbichom, lishlish, monpasangti, monpatawangmonastery, monpabalemu, bugunnamphri, bugunwangho, sartangkhoina, sherdukpenshergaon, bugunkaspi, sherdukpenrupa, monpadirangdum, monpakalaktang, monpanamsu, sartangkhoitam, monpadirang, monpatembang, monpazimithang	187	U+0073
-^ʃ	ʃ	ʃugu, ʃiŋ	monpadirang, lishlish, monpatawangmonastery, monpatomko, chugchug, monpatembang, monpanamsu, monpazimithang, monpasangti, monpabalemu, monpachangprong, bugunnamphri, monpadirangdum, monpakalaktang, bugunkaspi, bugunwangho, bugunbichom, sartangkhoina, sartangkhoitam, sherdukpenshergaon	185	U+005e U+0283
-^k	k	kotʃuŋ, karma	sartangdarbu, monpazimithang, monpatawangmonastery, monpachangprong, monpatomko, monpasangti, chugchug, monpatembang, monpabalemu, monpadirang, monpakalaktang, sartangkhoitam, monpadirangdum, sherdukpenshergaon, monpanamsu, bugunkaspi, bugunbichom, bugunwangho, sherdukpenrupa, lishlish, sartangkhoina, bugunnamphri	183	U+005e U+006b
-^j	j	jen, juŋ	monpakalaktang, monpatomko, sartangdarbu, monpatembang, monpabalemu, sartangkhoina, monpasangti, monpanamsu, monpazimithang, monpadirang, monpadirangdum, monpachangprong, monpatawangmonastery, bugunwangho, bugunnamphri, sherdukpenshergaon, bugunkaspi, chugchug, bugunbichom, sherdukpenrupa, sartangkhoitam, lishlish	169	U+005e U+006a
-^dʒ	dʒ	dʒaŋ, dʒokpu	sartangdarbu, monpanamsu, monpabalemu, monpatomko, monpadirang, monpadirangdum, sherdukpenshergaon, sartangkhoitam, monpatembang, monpasangti, bugunbichom, sherdukpenrupa, bugunkaspi, sartangkhoina, lishlish, monpakalaktang, bugunnamphri, chugchug, monpachangprong, monpazimithang, bugunwangho	168	U+005e U+0064 U+0292
-^ŋ	ŋ	ŋam, ŋa	monpasangti, monpadirangdum, monpabalemu, monpatomko, monpadirang, monpakalaktang, monpatembang, monpatawangmonastery, monpanamsu, monpazimithang, monpachangprong, chugchug, lishlish, bugunbichom, bugunkaspi, sherdukpenshergaon	157	U+005e U+014b
-ʔ$	ʔ	adoʔ, joʔ	sartangdarbu, chugchug, sartangkhoitam, lishlish, sherdukpenshergaon, bugunkaspi, monpachangprong, monpazimithang, sartangkhoina, bugunnamphri, bugunwangho, sherdukpenrupa, monpatembang, monpatawangmonastery, bugunbichom, monpanamsu, monpadirangdum, monpabalemu	149	U+0294 U+0024
-th	tʰ	soŋthur, mantho	monpadirangdum, monpadirang, monpakalaktang, monpanamsu, sartangkhoina, monpatembang, monpasangti, monpatomko, sherdukpenrupa, sartangkhoitam, sartangdarbu, bugunkaspi, monpabalemu, lishlish, monpatawangmonastery, bugunnamphri, sherdukpenshergaon, chugchug, monpachangprong, bugunwangho, bugunbichom	147	U+0074 U+0068
-^th	tʰ	thur, thaŋa	monpatomko, monpadirangdum, monpachangprong, monpabalemu, monpadirang, monpakalaktang, monpasangti, sartangdarbu, bugunnamphri, monpatembang, monpatawangmonastery, bugunkaspi, bugunwangho, sherdukpenrupa, monpanamsu, chugchug, monpazimithang, bugunbichom, sartangkhoitam, sartangkhoina, sherdukpenshergaon, lishlish	146	U+005e U+0074 U+0068
-^t	t	toŋpa, taŋpu	monpazimithang, monpachangprong, monpanamsu, monpatawangmonastery, monpakalaktang, monpatembang, monpasangti, monpatomko, monpabalemu, chugchug, monpadirang, lishlish, sartangkhoitam, sartangkhoina, monpadirangdum, sherdukpenshergaon, bugunwangho, bugunbichom, sherdukpenrupa, sartangdarbu, bugunkaspi, bugunnamphri	144	U+005e U+0074
-^e	e	ehek, ephuŋ	bugunwangho, bugunnamphri, bugunbichom, bugunkaspi, sartangkhoitam, sartangdarbu, lishlish, sherdukpenrupa, sartangkhoina, monpazimithang, sherdukpenshergaon, monpakalaktang	131	U+005e U+0065
-^z	z	zulu, za	monpadirangdum, monpatomko, monpatembang, monpasangti, monpakalaktang, monpanamsu, monpabalemu, monpadirang, sartangdarbu, monpazimithang, monpachangprong, sherdukpenrupa, sherdukpenshergaon, sartangkhoitam, monpatawangmonastery, sartangkhoina, chugchug, lishlish	130	U+005e U+007a
-^d	d	duŋ, doŋpa	monpatembang, sartangkhoina, monpadirang, monpanamsu, bugunbichom, monpatawangmonastery, bugunkaspi, chugchug, monpakalaktang, bugunnamphri, lishlish, monpasangti, sherdukpenshergaon, monpatomko, bugunwangho, sartangdarbu, sherdukpenrupa, monpabalemu, monpachangprong, monpadirangdum, sartangkhoitam	130	U+005e U+0064
-dʒ	dʒ	khaŋdʒila, mədʒiamabau	bugunnamphri, sartangdarbu, sartangkhoina, bugunkaspi, bugunbichom, sartangkhoitam, sherdukpenshergaon, monpachangprong, chugchug, monpatembang, lishlish, sherdukpenrupa, monpadirangdum, bugunwangho, monpabalemu, monpanamsu, monpadirang, monpazimithang, monpakalaktang, monpatawangmonastery, monpatomko	127	U+0064 U+0292
-tʃh	tʃʰ	atʃho, dətʃhai	monpakalaktang, sartangdarbu, chugchug, monpadirangdum, sartangkhoina, sherdukpenrupa, sherdukpenshergaon, lishlish, monpatomko, monpadirang, bugunbichom, monpatawangmonastery, bugunwangho, bugunkaspi, bugunnamphri, monpazimithang, sartangkhoitam, monpanamsu	118	U+0074 U+0283 U+0068
-r$	r	ser, thur	monpazimithang, monpakalaktang, monpatomko, monpasangti, monpachangprong, monpanamsu, monpatembang, monpadirangdum, monpabalemu, monpadirang, sartangdarbu, monpatawangmonastery, lishlish, sherdukpenrupa, chugchug, sherdukpenshergaon, sartangkhoina, sartangkhoitam	116	U+0072 U+0024
-^ɲ	ɲ	ɲiŋ, ɲiɾi	monpazimithang, monpachangprong, sherdukpenrupa, monpatawangmonastery, bugunnamphri, lishlish, monpabalemu, sherdukpenshergaon, bugunbichom, bugunwangho, monpatembang, monpanamsu, monpatomko, monpadirang, bugunkaspi, monpakalaktang, sartangdarbu, monpadirangdum, sartangkhoina, chugchug, monpasangti	106	U+005e U+0272
-^ɾ	ɾ	ɾi, ɾa	monpadirangdum, monpasangti, monpanamsu, monpadirang, monpabalemu, monpatembang, monpatomko, sartangdarbu, monpakalaktang, monpazimithang, sherdukpenrupa, sartangkhoina, monpatawangmonastery, chugchug, sherdukpenshergaon, monpachangprong, sartangkhoitam	105	U+005e U+027e
-z	z	dʒiŋzaŋ, ăzõ	monpadirangdum, monpakalaktang, monpadirang, monpatomko, monpasangti, bugunbichom, monpatawangmonastery, bugunkaspi, monpatembang, monpanamsu, bugunwangho, bugunnamphri, sherdukpenrupa, sartangkhoina, monpabalemu, monpazimithang, monpachangprong, sartangdarbu, sherdukpenshergaon, lishlish, chugchug, sartangkhoitam	105	U+007a
-^p	p	putʃi, palăp	monpazimithang, monpachangprong, monpatawangmonastery, monpatomko, sartangdarbu, sartangkhoitam, monpakalaktang, sherdukpenshergaon, bugunkaspi, bugunnamphri, monpasangti, monpanamsu, monpabalemu, bugunwangho, sherdukpenrupa, monpatembang, chugchug, bugunbichom, sartangkhoina, monpadirangdum, monpadirang, lishlish	105	U+005e U+0070
-^tʃh	tʃʰ	tʃhu, tʃham	sartangdarbu, monpakalaktang, monpadirangdum, monpadirang, monpabalemu, monpatomko, monpasangti, monpatawangmonastery, chugchug, monpatembang, monpazimithang, monpachangprong, monpanamsu, sherdukpenrupa, lishlish, sartangkhoitam	103	U+005e U+0074 U+0283 U+0068
-w	w	rawa, ʃawa	monpadirangdum, monpasangti, sartangdarbu, bugunkaspi, monpadirang, bugunwangho, bugunnamphri, monpanamsu, bugunbichom, monpatomko, monpabalemu, monpazimithang, monpatembang, monpachangprong, monpatawangmonastery, sartangkhoina, chugchug, sartangkhoitam, monpakalaktang	97	U+0077
-ʃ	ʃ	naʃibak, buʃila	monpasangti, monpadirang, bugunnamphri, monpatembang, lishlish, bugunwangho, chugchug, monpanamsu, bugunbichom, monpatawangmonastery, monpadirangdum, sartangkhoina, monpatomko, monpabalemu, monpakalaktang, bugunkaspi, sherdukpenrupa, monpazimithang, sartangkhoitam, monpachangprong, sherdukpenshergaon	95	U+0283
-^–$	NULL	–	monpadirangdum, chugchug, sartangkhoitam, lishlish, monpatembang, monpatomko, monpatawangmonastery, sartangdarbu, sherdukpenrupa, sartangkhoina, monpazimithang, monpanamsu, monpakalaktang, bugunkaspi, monpachangprong, monpabalemu	84	U+005e U+2013 U+0024
-ph	pʰ	nophuŋ, haphije	sartangdarbu, bugunnamphri, sartangkhoina, bugunkaspi, bugunbichom, sherdukpenrupa, bugunwangho, monpakalaktang, sartangkhoitam, sherdukpenshergaon, monpabalemu, monpatawangmonastery, monpadirangdum, monpatomko, chugchug, lishlish, monpanamsu, monpadirang, monpatembang, monpachangprong	82	U+0070 U+0068
-y	y	dymy, nymybæh̥	sartangdarbu, sherdukpenrupa, sartangkhoitam, sartangkhoina, monpachangprong, monpabalemu, chugchug, monpazimithang, monpanamsu	81	U+0079
-^r	r	rap, rawa	monpachangprong, bugunbichom, bugunkaspi, bugunwangho, bugunnamphri, sartangkhoitam, monpazimithang, monpatawangmonastery, monpadirangdum, monpanamsu, monpatomko, monpadirang, monpasangti, sherdukpenshergaon, monpakalaktang, sartangkhoina, monpabalemu, chugchug, monpatembang	72	U+005e U+0072
-h	h	ehek, sõlahan	sartangkhoina, sartangdarbu, sartangkhoitam, lishlish, sherdukpenrupa, sherdukpenshergaon, chugchug, monpadirangdum, monpatomko, bugunbichom, monpanamsu, bugunwangho, bugunnamphri, bugunkaspi, monpabalemu, monpachangprong, monpatawangmonastery, monpakalaktang	72	U+0068
-p$	p	rap, dʒap	monpatawangmonastery, monpachangprong, bugunwangho, sartangdarbu, monpazimithang, bugunbichom, bugunnamphri, sherdukpenrupa, sartangkhoitam, bugunkaspi, sherdukpenshergaon, lishlish, chugchug, monpabalemu, monpatomko	71	U+0070 U+0024
-t̪	t̪	st̪uŋ, ʃupt̪aŋ	monpazimithang, sartangdarbu, monpatomko, monpabalemu, monpasangti, monpadirangdum, monpakalaktang, sherdukpenrupa, monpadirang, monpatembang, sartangkhoitam, monpatawangmonastery, sartangkhoina, monpanamsu, chugchug, monpachangprong, sherdukpenshergaon	68	U+0074 U+032a
-h̥$	h̥	sah̥, lah̥	monpatawangmonastery, sartangdarbu, monpazimithang, monpachangprong, monpabalemu, monpadirang, monpasangti, monpanamsu, monpatomko	68	U+0068 U+0325 U+0024
-^i	i	ik, iktʃiŋ	sartangdarbu, sherdukpenshergaon, sherdukpenrupa, monpatomko, sartangkhoitam, sartangkhoina, monpabalemu, monpachangprong, monpatawangmonastery, monpadirangdum, monpatembang, monpasangti, monpakalaktang, bugunbichom, monpanamsu, bugunnamphri, monpadirang, monpazimithang	67	U+005e U+0069
-ă	ă	hăŋ, băŋtʃaŋ	sartangdarbu, monpatawangmonastery, monpakalaktang, monpachangprong, monpadirangdum, monpazimithang, monpabalemu, monpanamsu, sherdukpenrupa, sartangkhoina, monpatomko, chugchug, lishlish, monpadirang, monpatembang, monpasangti	66	U+0103
-^u	u	um, uɲu	chugchug, lishlish, monpabalemu, monpadirang, bugunkaspi, monpachangprong, monpakalaktang, monpadirangdum, monpatembang, monpasangti, bugunbichom, bugunnamphri, monpazimithang, monpanamsu, sherdukpenrupa, sartangkhoina, sartangkhoitam, sherdukpenshergaon	63	U+005e U+0075
-ɲ	ɲ	laɲi, uɲu	monpadirangdum, monpabalemu, monpanamsu, monpasangti, monpakalaktang, monpadirang, monpatembang, sherdukpenrupa, bugunwangho, monpatomko, sherdukpenshergaon, sartangdarbu, bugunkaspi, monpachangprong, lishlish, bugunbichom, bugunnamphri, monpazimithang	61	U+0272
-^ʔ	ʔ	ʔoʔõ, ʔihi	sartangdarbu, monpatawangmonastery, lishlish, sherdukpenrupa, monpazimithang, monpadirang, monpasangti, monpadirangdum, sartangkhoina, monpatembang, sherdukpenshergaon, monpachangprong, monpanamsu, monpatomko, monpakalaktang	58	U+005e U+0294
-y$	y	dymy, namby	sartangdarbu, sartangkhoitam, sartangkhoina, sherdukpenrupa, bugunbichom, monpadirangdum, sherdukpenshergaon	56	U+0079 U+0024
-^d̪	d̪	d̪eʃ, d̪an	monpabalemu, monpadirangdum, monpadirang, monpasangti, monpachangprong, monpatawangmonastery, monpazimithang, monpakalaktang, monpanamsu, monpatomko, sherdukpenrupa, monpatembang, lishlish	54	U+005e U+0064 U+032a
-^w	w	wa, wam	lishlish, chugchug, monpachangprong, monpakalaktang, bugunbichom, monpanamsu, bugunwangho, bugunkaspi, monpabalemu, monpatomko, monpatembang, monpasangti, monpadirangdum, monpazimithang, monpatawangmonastery, bugunnamphri, monpadirang	51	U+005e U+0077
-ə̆	ə̆	mə̆lija, băksə̆r	sartangdarbu, sartangkhoitam, sherdukpenrupa, bugunkaspi, sartangkhoina, bugunbichom, sherdukpenshergaon, bugunnamphri, chugchug, monpatawangmonastery, bugunwangho, monpadirangdum, monpatembang, monpazimithang, monpachangprong	42	U+0259 U+0306
-d̪	d̪	mud̪jaŋba, tʃoŋd̪oʔ	sartangdarbu, monpazimithang, monpakalaktang, monpabalemu, monpatomko, monpasangti, monpadirangdum, monpatembang, monpanamsu, monpatawangmonastery, monpadirang, monpachangprong, lishlish	42	U+0064 U+032a
-ŭ	ŭ	mŭkpa, bŭd̪ŭn	monpadirangdum, lishlish, sartangdarbu, monpatawangmonastery, monpakalaktang, monpatembang, monpazimithang, monpabalemu, chugchug, sherdukpenrupa, sartangkhoina, monpatomko, monpadirang, monpasangti, sartangkhoitam, monpachangprong	41	U+016d
-^o	o	omʃa, oho	monpanamsu, chugchug, monpazimithang, sherdukpenrupa, sartangkhoina, monpatembang, sherdukpenshergaon, monpabalemu, monpatomko, bugunwangho, monpadirangdum, monpadirang, lishlish, monpasangti, sartangkhoitam, monpakalaktang	40	U+005e U+006f
-t$	t	tʃəmut, wat	monpatawangmonastery, bugunbichom, monpachangprong, bugunkaspi, sherdukpenshergaon, bugunwangho, bugunnamphri, sherdukpenrupa, chugchug, monpatembang, monpazimithang	39	U+0074 U+0024
-õ$	õ	hõ, sõ	sartangdarbu, sherdukpenshergaon, sherdukpenrupa, sartangkhoina, bugunwangho, bugunbichom, bugunnamphri, bugunkaspi, sartangkhoitam	37	U+00f5 U+0024
-ʔ	ʔ	ʔoʔõ, miʔri	sartangdarbu, chugchug, lishlish, sartangkhoina, sartangkhoitam, monpadirangdum, monpabalemu, monpadirang, monpazimithang, monpatembang, monpasangti, sherdukpenshergaon, monpakalaktang, bugunwangho	37	U+0294
-^ă	ă	ăli, ătʃik	sartangdarbu, sartangkhoina, sherdukpenrupa, monpatawangmonastery, sherdukpenshergaon, monpadirangdum, monpatembang, monpazimithang, sartangkhoitam, monpachangprong, monpakalaktang, lishlish	37	U+005e U+0103
-s$	s	ŋas, kaɾgos	monpazimithang, monpatembang, monpasangti, monpakalaktang, lishlish, sartangdarbu, monpadirangdum, bugunkaspi, monpabalemu, monpatomko, chugchug, monpachangprong, bugunbichom, monpatawangmonastery, bugunnamphri, monpadirang, monpanamsu	35	U+0073 U+0024
-ĭ	ĭ	zamĭn, thĭnuŋ	monpatawangmonastery, monpadirangdum, monpabalemu, monpatomko, monpakalaktang, monpadirang, monpatembang, sartangkhoitam, sherdukpenrupa, sartangkhoina, monpazimithang, monpasangti, monpachangprong, monpanamsu, lishlish	28	U+012d
-l$	l	naɾikol, naɾijal	sartangdarbu, bugunbichom, monpatawangmonastery, bugunnamphri, bugunkaspi, sartangkhoina, monpatomko, monpatembang, monpazimithang, sherdukpenshergaon, monpabalemu, monpadirang, monpasangti, monpachangprong, monpanamsu, bugunwangho	26	U+006c U+0024
-ɾ$	ɾ	khethuɾ, toŋtathuɾ	sartangdarbu, monpadirangdum, monpatomko, monpasangti, monpadirang, monpatembang, chugchug, monpanamsu, monpakalaktang, lishlish	23	U+027e U+0024
-^t̪	t̪	t̪oŋt̪oʔwan, t̪ompu	monpazimithang, monpasangti, monpadirangdum, sartangdarbu, monpabalemu, monpatawangmonastery, monpatomko, monpadirang, monpachangprong	21	U+005e U+0074 U+032a
-m ʃ	m ʃ	omʃa, dʒamʃu	monpasangti, monpadirang, chugchug, monpadirangdum, lishlish, sartangkhoina, monpabalemu, monpatomko, monpatembang, monpanamsu	21	U+006d U+0283
-f	f	dəfua, afan	bugunkaspi, bugunbichom, sartangkhoina, bugunwangho, bugunnamphri, sherdukpenrupa, monpadirang, sartangkhoitam, sherdukpenshergaon, lishlish	20	U+0066
-v	v	avije, evoi	bugunbichom, bugunnamphri, bugunkaspi, bugunwangho, monpadirangdum, sartangkhoina, sartangkhoitam	19	U+0076
-ts	ts	jomlokpatsok, duktsa	monpatembang, monpatomko, monpanamsu, monpadirang, monpatawangmonastery, monpadirangdum, monpabalemu, monpazimithang, monpasangti, monpachangprong, lishlish	19	U+0074 U+0073
-ŋ s	ŋ s	ɾinaŋsopla, siŋsur	monpabalemu, monpatomko, sherdukpenrupa, monpadirangdum, sartangkhoina, monpadirang, monpazimithang, monpatembang, monpasangti, sherdukpenshergaon, monpachangprong, sartangkhoitam, lishlish, monpakalaktang	17	U+014b U+0073
-h$	h	ih, pih	monpazimithang, monpachangprong, monpatawangmonastery, monpatembang	15	U+0068 U+0024
-^v	v	vije, vi	bugunnamphri, bugunkaspi, bugunbichom, bugunwangho	15	U+005e U+0076
-w$	w	naw, niw	bugunbichom, bugunwangho, sherdukpenrupa, bugunnamphri, monpadirangdum, monpabalemu, monpatomko, monpadirang, monpazimithang, monpatawangmonastery, monpakalaktang, lishlish	15	U+0077 U+0024
-ĕ	ĕ	bĕtʃoo, tʃhĕt	monpatawangmonastery, sartangkhoitam, lishlish, sherdukpenrupa, bugunnamphri, bugunkaspi, sherdukpenshergaon, monpachangprong, bugunwangho	14	U+0115
-ŋ ʃ	ŋ ʃ	ʃiŋʃaʋa, moŋʃo	monpakalaktang, monpatomko, monpanamsu, monpadirangdum, bugunkaspi, monpabalemu, monpadirang, monpatembang, monpasangti, monpatawangmonastery	13	U+014b U+0283
-^p s	p s	psi, psakpa	chugchug, sartangdarbu, monpadirangdum, sartangkhoina, monpabalemu, monpatembang, monpasangti, monpanamsu, monpakalaktang, lishlish	13	U+005e U+0070 U+0073
-^ɕ	ɕ	ɕa, ɕŭpt̪aŋ	monpakalaktang, monpadirangdum, monpabalemu, monpasangti	13	U+005e U+0255
-m s	m s	ŋamsu, namsaŋ	lishlish, bugunwangho, monpadirangdum, monpabalemu, monpatomko, monpadirang, chugchug, monpatembang, monpasangti, monpanamsu, monpakalaktang	12	U+006d U+0073
-æ	æ	nymybæh̥, kæktuŋ	monpachangprong, sartangdarbu, monpanamsu, monpazimithang, lishlish	12	U+00e6
-ə$	ə	avə, jadə	sartangkhoina, bugunkaspi, bugunbichom, sartangkhoitam, monpanamsu, bugunwangho	9	U+0259 U+0024
-t̪h	t̪ʰ	bot̪ho, susan̪t̪hoŋ	sartangdarbu, sartangkhoina, monpabalemu, monpatomko, monpazimithang, monpasangti	9	U+0074 U+032a U+0068
-k s	k s	băksə̆r, iksabo	monpadirang, monpatomko, monpazimithang, sherdukpenshergaon, monpachangprong, monpatawangmonastery, monpakalaktang	9	U+006b U+0073
-ʃ$	ʃ	d̪eʃ, niʃ	chugchug, monpachangprong, monpanamsu, monpatawangmonastery, monpazimithang, sartangkhoitam, lishlish	9	U+0283 U+0024
-õ	õ	sõlahan, mõu	sartangdarbu, bugunkaspi, sartangkhoina, bugunnamphri, chugchug, sartangkhoitam	9	U+00f5
-^ʒ	ʒ	ʒu, ʒim	monpatawangmonastery, monpazimithang, monpachangprong	8	U+005e U+0292
-^ɹ	ɹ	ɹasija, ɹiŋku	bugunnamphri, bugunbichom, bugunkaspi, monpachangprong, monpatawangmonastery, bugunwangho	7	U+005e U+0279
-^bh	bʱ	bhi, bhaʔ	monpadirangdum, sartangkhoina, monpabalemu, monpatembang, monpachangprong, lishlish, monpakalaktang	7	U+005e U+0062 U+0068
-oo$	oː	bĕtʃoo, kəʃoo	bugunnamphri, bugunwangho, sherdukpenshergaon, bugunkaspi	6	U+006f U+006f U+0024
-_	NULL	ɲĩŋ pah̥, leikojak gosu	monpachangprong, monpadirangdum, monpatawangmonastery	6	U+005f
-p ʃ	p ʃ	nŭpʃaŋ, ʔipʃu	monpadirang, monpasangti, sartangkhoitam	6	U+0070 U+0283
-^h̥	h̥	h̥ruwa, h̥ropu	monpatawangmonastery, monpazimithang, monpachangprong	6	U+005e U+0068 U+0325
-^f	f	fua, fu	bugunbichom, bugunnamphri, bugunkaspi, sartangkhoina, sartangkhoitam, bugunwangho	6	U+005e U+0066
-ii$	iː	tʃii, ʃii	bugunkaspi, bugunbichom, bugunnamphri, bugunwangho	5	U+0069 U+0069 U+0024
-^pʃ	pʃ	pʃi	sartangkhoitam, monpabalemu, monpatomko, monpasangti, monpadirang	5	U+005e U+0070 U+0283
-ŭ s	ŭ s	sŭsu, kŭso	monpatembang, monpatawangmonastery, sherdukpenrupa, sherdukpenshergaon, lishlish	5	U+016d U+0073
-ph$	pʰ	mlemph, sirph	monpachangprong	4	U+0070 U+0068 U+0024
-aa	aː	lekaalo, leikaakhen	monpatembang, monpabalemu, monpanamsu	4	U+0061 U+0061
-əə$	əː	suvəə, bəfəə	bugunbichom, bugunwangho, bugunkaspi	4	U+0259 U+0259 U+0024
-^t̪h	t̪ʰ	t̪hikhu, t̪hepza	chugchug, monpadirang, lishlish, monpadirangdum	4	U+005e U+0074 U+032a U+0068
-ŋ h	ŋ h	t̪aŋhempan, t̪aŋhepka	sartangkhoina, monpabalemu, monpatomko	4	U+014b U+0068
-ũ	ũ	hũlũbe, ebũa	sartangkhoitam, bugunwangho	4	U+0169
-ã$	ã	suã, ewã	bugunbichom, sartangkhoina, bugunkaspi	4	U+00e3 U+0024
-lː	lː	binaŋkhulːa	monpadirang, monpatomko, monpasangti, monpadirangdum	4	U+006c U+02d0
-x	x	axe, axik	sartangkhoina, monpanamsu	4	U+0078
-ɛ$	ɛ	lɛ, bithɛ	sartangdarbu	4	U+025b U+0024
-ẽ	ẽ	mẽt, hẽaraŋ	sartangkhoina, bugunbichom, bugunnamphri	3	U+1ebd
-^ŭ	ŭ	ŭɾu, ŭntʃham	monpasangti, monpakalaktang, monpadirangdum	3	U+005e U+016d
-^ŋ̆	ŋ	ŋ̆au	monpazimithang, monpatawangmonastery, monpachangprong	3	U+005e U+014b U+0306
-^n̪	n̪	n̪ini, n̪atʃu	sartangkhoina, sherdukpenrupa	3	U+005e U+006e U+032a
-ʋ	ʋ	ʃiŋʃaʋa, ʔăʋa	monpadirangdum, monpakalaktang	3	U+028b
-ŏ	ŏ	khŏmin	monpatomko, monpatawangmonastery, monpakalaktang	3	U+014f
-ã	ã	sãs, hãs	sartangkhoitam, monpachangprong, monpadirangdum	3	U+00e3
-^ũ	ũ	ũa, ũso	bugunnamphri, bugunkaspi, bugunwangho	3	U+005e U+0169
-^õ$	õ	õ	bugunbichom, bugunkaspi, bugunwangho	3	U+005e U+00f5 U+0024
-^sw	sʷ	swaʔ	sartangkhoitam, sherdukpenrupa, sherdukpenshergaon	3	U+005e U+0073 U+0077
-ĕ h	ĕ h	ʔĕhe, ʔĕhĕʔ	sartangdarbu, lishlish	3	U+0115 U+0068
-d$	d	wad	lishlish, chugchug	3	U+0064 U+0024
-æ$	æ	mahæ, gugæ	monpachangprong	3	U+00e6 U+0024
-pː	pː	kɾemʃipːa	monpadirang, monpasangti	2	U+0070 U+02d0
-_̃	̃	zimbu || ̃ai za, t̪oŋkaŋmala || ̃ai za	monpadirangdum	2	U+005f U+0303
-r ʃ	r ʃ	ŋarʃu	monpadirang, monpasangti	2	U+0072 U+0283
-n s	n s	dʒinsan	monpazimithang, monpatomko	2	U+006e U+0073
-^ă h	ă h	ăhan	sartangdarbu	2	U+005e U+0103 U+0068
-^ʃh	ʃʰ	ʃhu, ʃhua	sartangkhoina, bugunnamphri	2	U+005e U+0283 U+0068
-^ə	ə	ədʒa, əm	bugunbichom, bugunwangho	2	U+005e U+0259
-ŋw	ŋ w	saŋwatgosu, marəepuŋwa	monpachangprong, bugunwangho	2	U+014b U+0077
-tʃh$	tʃʰ	atʃh	monpazimithang, monpatawangmonastery	2	U+0074 U+0283 U+0068 U+0024
-kʃ	k ʃ	tʃukʃeŋ, ikʃiŋ	monpazimithang, sartangkhoitam	2	U+006b U+0283
-ll	lː	phullu	sartangkhoina, sartangkhoitam	2	U+006c U+006c
-ăw	ă w	ʔăwa, hrăwa	monpatawangmonastery, lishlish	2	U+0103 U+0077
-j$	j	lej, ɲuj	lishlish	2	U+006a U+0024
-kw	kʷ	tʃakwa	sartangdarbu	2	U+006b U+0077
-y̆	y̆	dydʒy̆k	sartangkhoina, monpachangprong	2	U+0079 U+0306
-h̥	h̥	leh̥par	sartangdarbu	2	U+0068 U+0325
-^ʋ	ʋ	ʋo, ʋaɾoŋ	bugunbichom, monpadirang	2	U+005e U+028b
-^dh	dh	dhuben, dhudma	monpabalemu, chugchug	2	U+005e U+0064 U+0068
-_||	NULL	zimbu || ̃ai za, t̪oŋkaŋmala || ̃ai za	monpadirangdum	2	U+005f U+007c U+007c
-^ts	ts	tsam	monpabalemu, monpatomko	2	U+005e U+0074 U+0073
-ɕ	ɕ	aɕigaŋpo, gaɕa	monpakalaktang, monpadirangdum	2	U+0255
-ʔw	ʔ w	t̪oŋt̪oʔwan	sartangdarbu	2	U+0294 U+0077
-yː$	yː	kyː	sartangdarbu	2	U+0079 U+02d0 U+0024
-ĩ	ĩ	ɲĩŋ pah̥	monpatawangmonastery, monpachangprong	2	U+0129
-ɛ	ɛ	hɛh̥	sartangdarbu	2	U+025b
-ŏh	ŏ h	ʔŏho	sartangdarbu	2	U+014f U+0068
-n̪	n̪	susan̪t̪hoŋ	sartangdarbu	2	U+006e U+032a
-mh	m h	tomhin, halamhim	chugchug	2	U+006d U+0068
-ɹ	NULL	aɹloŋ, suɹe	bugunkaspi, chugchug	2	U+0279
-^ɾh	ɾ̥	ɾhaŋtan, ɾhan	monpazimithang	2	U+005e U+027e U+0068
-ŏ$	ŏ	tʃŏ	sartangdarbu	2	U+014f U+0024
-ũ$	ũ	gafũ, sũ	sartangkhoina, bugunwangho	2	U+0169 U+0024
-d̪h	d̪ʱ	gjad̪hen	monpatawangmonastery	1	U+0064 U+032a U+0068
-t̪$	t̪	nopt̪	monpazimithang	1	U+0074 U+032a U+0024
-oː	oː	anoːdu	sartangkhoitam	1	U+006f U+02d0
-ə̃$	ə̃	uŋə̃	bugunnamphri	1	U+0259 U+0303 U+0024
-ɔ	ɔ	ligɔŋ	lishlish	1	U+0254
-^khs	kʰ s	khsaŋ	lishlish	1	U+005e U+006b U+0068 U+0073
-t̪ː	t̪ː	ăt̪ːu	sartangkhoina	1	U+0074 U+032a U+02d0
-nn	nː	nagannuŋman	monpatomko	1	U+006e U+006e
-ĭ$	ĭ	khĭ	sartangkhoitam	1	U+012d U+0024
-oo	oː	teintʃoobu	monpachangprong	1	U+006f U+006f
-ăs	ă s	narkolăse	monpakalaktang	1	U+0103 U+0073
-dw	dʷ	sydwĕ	sherdukpenrupa	1	U+0064 U+0077
-tʃ$	tʃ	ʔutʃ	monpatawangmonastery	1	U+0074 U+0283 U+0024
-mm	mː	semmapheka	monpakalaktang	1	U+006d U+006d
-gh	gʱ	guɾghaŋ	monpabalemu	1	U+0067 U+0068
-ẽ$	ẽ	muẽ	bugunbichom	1	U+1ebd U+0024
-w̆	w	how̆dĕʔ	lishlish	1	U+0077 U+0306
-ii	iː	siiŋ	bugunbichom	1	U+0069 U+0069
-h̩$	h̩	ʃah̩	monpadirang	1	U+0068 U+0329 U+0024
-ps	p s	ipsiŋba	sherdukpenshergaon	1	U+0070 U+0073
-ʒ	ʒ	biʒu	monpatawangmonastery	1	U+0292
-ĕ$	ĕ	sydwĕ	sherdukpenrupa	1	U+0115 U+0024
-jʃ	j ʃ	majʃəŋ	chugchug	1	U+006a U+0283
-ɨ̃$	ɨ̃	hɨ̃	sartangkhoina	1	U+0268 U+0303 U+0024
-^ŏ	ŏ	ŏdʒe	bugunnamphri	1	U+005e U+014f
-mɕ	m ɕ	ʔomɕa	monpakalaktang	1	U+006d U+0255
-^hw	hʷ	hwaŋ	lishlish	1	U+005e U+0068 U+0077
-õː$	õː	ʔõː	sherdukpenrupa	1	U+00f5 U+02d0 U+0024
-^y$	y	y	monpatawangmonastery	1	U+005e U+0079 U+0024
-kː	kː	jakːan	monpasangti	1	U+006b U+02d0
-1	l	hasok1a	monpabalemu	1	U+0031
-ʋ$	ʋ	momnaʋ	monpadirangdum	1	U+028b U+0024
-–	NULL				
-ɸ	ɸ				
-yː	yː				
-õː	õː				
-uː	uː				
-ə̃	ə̃				
-^ɬ	ɬ				
-l̪	l̪				
-h̩	h̩				
-ŋ̆	ŋ̆				
-ɬ	ɬ				
-ɨ̃ 	ɨ̃				
-^uː	uː				
+Grapheme	IPA
+$	NULL
+1	l
+^	NULL
+^a	a
+^b	b
+^bh	bʱ
+^d	d
+^dh	dʱ
+^dʒ	dʒ
+^d̪	d̪
+^e	e
+^f	f
+^g	g
+^h	h
+^hw	hʷ
+^h̥	h̥
+^i	i
+^j	j
+^k	k
+^kh	kʰ
+^khs	kʰ s
+^l	l
+^m	m
+^n	n
+^n̪	n̪
+^o	o
+^p	p
+^p s	p s
+^ph	pʰ
+^pʃ	pʃ
+^r	r
+^s	s
+^sw	sʷ
+^t	t
+^th	tʰ
+^ts	ts
+^tʃ	tʃ
+^tʃh	tʃʰ
+^t̪	t̪
+^t̪h	t̪ʰ
+^u	u
+^uː	uː
+^v	v
+^w	w
+^y$	y
+^z	z
+^õ$	õ
+^ă	ă
+^ă h	ă h
+^ŋ	ŋ
+^ŋ̆	ŋ
+^ŏ	ŏ
+^ũ	ũ
+^ŭ	ŭ
+^ɕ	ɕ
+^ə	ə
+^ɬ	ɬ
+^ɲ	ɲ
+^ɹ	ɹ
+^ɾ	ɾ
+^ɾh	ɾ̥
+^ʃ	ʃ
+^ʃh	ʃʰ
+^ʋ	ʋ
+^ʒ	ʒ
+^ʔ	ʔ
+^–$	NULL
+_	+
+_$	NULL
+_||	NULL
+^ɾ̆	ɾ
+tː	tː
+tʃː	tʃː
+iː	iː
+_̃	̃
+a	a
+a$	a
+aa	aː
+b	b
+d	d
+d$	d
+dw	dʷ
+dʒ	dʒ
+d̪	d̪
+d̪h	d̪ʱ
+e	e
+e$	e
+f	f
+g	g
+gh	gʱ
+h	h
+h$	h
+h̥	h̥
+h̥$	h̥
+h̩	h̩/h
+h̩$	h̩/h
+i	i
+i$	i
+ii	iː
+ii$	iː
+j	j
+j$	j
+jʃ	j ʃ
+k	k
+k s	k s
+k$	k
+kh	kʰ
+kw	kʷ
+kʃ	k ʃ
+kː	kː
+l	l
+l$	l
+ll	lː
+lː	lː
+l̪	l̪
+m	m
+m s	m s
+m ʃ	m ʃ
+m$	m
+mh	m̥
+mm	mː
+mɕ	m ɕ
+n	n
+n s	n s
+n$	n
+nn	nː
+n̪	n̪
+o	o
+o$	o
+oo	oː
+oo$	oː
+oː	oː
+p	p
+p ʃ	p ʃ
+p$	p
+ph	pʰ
+ph$	pʰ
+ps	p s
+pː	pː
+r	r
+r ʃ	r ʃ
+r$	r
+s	s
+s$	s
+t	t
+t$	t
+th	tʰ
+ts	ts
+tʃ	tʃ
+tʃ$	tʃ
+tʃh	tʃʰ
+tʃh$	tʃʰ
+t̪	t̪
+t̪$	t̪
+t̪h	t̪ʰ
+t̪ː	t̪ː
+u	u
+u$	u
+uː	uː
+v	v
+w	w
+w$	w
+w̆	w
+x	x
+y	y
+y$	y
+yː	yː
+yː$	yː
+y̆	y̆
+z	z
+ã	ã
+ã$	ã
+æ	æ
+æ$	æ
+õ	õ
+õ$	õ
+õː	õː
+õː$	õː
+ă	ă
+ăs	ă s
+ăw	ă w
+ĕ	ĕ
+ĕ h	ĕ h
+ĕ$	ĕ
+ĩ	ĩ
+ĭ	ĭ
+ĭ$	ĭ
+ŋ	ŋ
+ŋ h	ŋ̊
+ŋ s	ŋ s
+ŋ ʃ	ŋ ʃ
+ŋ$	ŋ
+ŋw	ŋʷ
+ŋ̆	ŋ̆
+ŏ	ŏ
+ŏ$	ŏ
+ŏh	ŏ h
+ũ	ũ
+ũ$	ũ
+ŭ	ŭ
+ŭ s	ŭ s
+ɔ	ɔ
+ɕ	ɕ
+ə	ə
+ə$	ə
+əə$	əː
+ə̃	ə̃
+ə̃$	ə̃
+ə̆	ə̆
+ɛ	ɛ
+ɛ$	ɛ
+ɨ̃ 	ɨ̃
+ɨ̃$	ɨ̃
+ɬ	ɬ
+ɲ	ɲ
+ɸ	ɸ
+ɹ	NULL
+ɾ	ɾ
+ɾ$	ɾ
+ʃ	ʃ
+ʃ$	ʃ
+ʋ	ʋ
+ʋ$	ʋ
+ʒ	ʒ
+ʔ	ʔ
+ʔ$	ʔ
+ʔw	ʔʷ
+ẽ	ẽ
+ẽ$	ẽ
+–	NULL
