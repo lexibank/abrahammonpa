@@ -6,13 +6,23 @@ from bs4 import BeautifulSoup
 from clldutils.misc import slug
 from clldutils.path import Path
 from clldutils.text import split_text, strip_brackets
-from pylexibank.dataset import NonSplittingDataset
+from pylexibank.dataset import NonSplittingDataset, Language
 from tqdm import tqdm
+import attr
 
+
+@attr.s
+class HLanguage(Language):
+    Latitude = attr.ib(default=None)
+    Longitude = attr.ib(default=None)
+    ChineseName = attr.ib(default=None)
+    SubGroup = attr.ib(default=None)
+    Family = attr.ib(default=None)
 
 class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
     id = "abrahammonpa"
+    language_class = HLanguage
 
     def cmd_download(self, **kw):
         wp = requests.get(
@@ -74,18 +84,22 @@ class Dataset(NonSplittingDataset):
             data.extend(temp)
 
         # build cldf
-        check_languages, concepts = [], {}
+        check_languages, concepts = {}, {}
         with self.cldf as ds:
             ds.add_concepts(id_factory=lambda c: c.number)
             concepts = {c.english: c.number for c in self.conceptlist.concepts.values()}
             for language in self.languages:
                 if language["Language_in_Wiktionary"] != "":
                     ds.add_language(
-                        ID=slug(language["Language_in_Wiktionary"]),
-                        Glottocode=language["Glottolog"],
-                        Name=language["Language_in_Wiktionary"],
+                        ID=language['ID'],
+                        Glottocode=language["Glottocode"],
+                        Name=language["Language"],
+                        Latitude=language['Latitude'],
+                        Longitude=language['Longitude'],
+                        SubGroup=language['SubGroup'],
+                        Family='Sino-Tibetan'
                     )
-                    check_languages.append(language["Language_in_Wiktionary"])
+                    check_languages[language["Language_in_Wiktionary"]] = language['ID']
 
             ds.add_sources(*self.raw.read_bib())
             missing = defaultdict(int)
@@ -93,7 +107,7 @@ class Dataset(NonSplittingDataset):
             for c, entry in tqdm(enumerate(data), desc="cldfify", total=len(data)):
                 if "" in entry.keys():
                     if entry[""] in concepts.keys():
-                        for language in check_languages:
+                        for language, lid in check_languages.items():
                             if language in entry.keys():
                                 for form in split_text(
                                         self.lexemes.get(
@@ -103,7 +117,7 @@ class Dataset(NonSplittingDataset):
                                         ',;/'):
                                     if not (form.strip() is None or form.strip() == "–"):
                                         ds.add_lexemes(
-                                            Language_ID=slug(language),
+                                            Language_ID=lid,
                                             Parameter_ID=concepts[entry[""]],
                                             Value=entry[language],
                                             Form=form,
@@ -113,7 +127,7 @@ class Dataset(NonSplittingDataset):
                         missing[entry[""]] += 1
                 elif "Gloss" in entry.keys():
                     if entry["Gloss"] in concepts.keys():
-                        for language in check_languages:
+                        for language, lid in check_languages.items():
                             if language in entry.keys():
                                 for form in split_text(
                                         self.lexemes.get(
@@ -123,7 +137,7 @@ class Dataset(NonSplittingDataset):
                                         ',;/'):
                                     if not (form.strip() is None or form.strip() == "–"):
                                         ds.add_lexemes(
-                                            Language_ID=slug(language),
+                                            Language_ID=lid,
                                             Parameter_ID=concepts[entry["Gloss"]],
                                             Value=entry[language],
                                             Form=form,
