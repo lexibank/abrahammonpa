@@ -28,12 +28,6 @@ class Dataset(BaseDataset):
     id = "abrahammonpa"
     language_class = HLanguage
 
-    def clean_form(self, row, form):
-        form = self.lexemes.get(form.strip(), form.strip())
-
-        if form not in ["---", "–"]:
-            return form
-
     def cmd_download(self, **kw):
         wp = requests.get(
             "https://en.wiktionary.org/wiki/Appendix:Hrusish_comparative_vocabulary_lists"
@@ -78,7 +72,7 @@ class Dataset(BaseDataset):
             vw.close()
 
     def clean_form(self, item, form):
-        if form not in ["*", "---", "–"]:
+        if form not in ["–"]:
             return strip_brackets(form)
 
     def split_forms(self, item, value):
@@ -86,7 +80,7 @@ class Dataset(BaseDataset):
             self.log.info('overriding via lexemes.csv: %r -> %r' % (value, self.lexemes[value]))
         value = self.lexemes.get(value, value)
         return [self.clean_form(item, form)
-                for form in split_text_with_context(value, separators='/,;')]
+                for form in split_text_with_context(value, separators=';')]
 
     def cmd_install(self, **kw):
         """
