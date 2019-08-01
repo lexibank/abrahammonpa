@@ -5,9 +5,10 @@ import requests
 from bs4 import BeautifulSoup
 from clldutils.misc import slug
 from clldutils.path import Path
-from clldutils.text import split_text, strip_brackets
-from pylexibank.dataset import NonSplittingDataset, Language
-from tqdm import tqdm
+from clldutils.text import split_text, strip_brackets, split_text_with_context
+from pylexibank.dataset import Dataset as BaseDataset 
+from pylexibank.dataset import Language
+from pylexibank.util import pb
 import attr
 
 
@@ -17,12 +18,21 @@ class HLanguage(Language):
     Longitude = attr.ib(default=None)
     ChineseName = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
-    Family = attr.ib(default=None)
+    Family = attr.ib(default='Sino-Tibetan')
+    Source_ID = attr.ib(default=None)
+    WiktionaryName = attr.ib(default=None)
+    Area = attr.ib(default=None)
 
-class Dataset(NonSplittingDataset):
+class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "abrahammonpa"
     language_class = HLanguage
+
+    def clean_form(self, row, form):
+        form = self.lexemes.get(form.strip(), form.strip())
+
+        if form not in ["---", "–"]:
+            return form
 
     def cmd_download(self, **kw):
         wp = requests.get(
@@ -68,8 +78,15 @@ class Dataset(NonSplittingDataset):
             vw.close()
 
     def clean_form(self, item, form):
-        if form not in ["*", "---", ""]:
-            return split_text(strip_brackets(form), ",;/||")[0]
+        if form not in ["*", "---", "–"]:
+            return strip_brackets(form)
+
+    def split_forms(self, item, value):
+        if value in self.lexemes:  # pragma: no cover
+            self.log.info('overriding via lexemes.csv: %r -> %r' % (value, self.lexemes[value]))
+        value = self.lexemes.get(value, value)
+        return [self.clean_form(item, form)
+                for form in split_text_with_context(value, separators='/,;')]
 
     def cmd_install(self, **kw):
         """
@@ -84,62 +101,37 @@ class Dataset(NonSplittingDataset):
             data.extend(temp)
 
         # build cldf
-        check_languages, concepts = {}, {}
+        concepts = {}
         with self.cldf as ds:
             ds.add_concepts(id_factory=lambda c: c.number)
             concepts = {c.english: c.number for c in self.conceptlist.concepts.values()}
-            for language in self.languages:
-                if language["Language_in_Wiktionary"] != "":
-                    ds.add_language(
-                        ID=language['ID'],
-                        Glottocode=language["Glottocode"],
-                        Name=language["Language"],
-                        Latitude=language['Latitude'],
-                        Longitude=language['Longitude'],
-                        SubGroup=language['SubGroup'],
-                        Family='Sino-Tibetan'
-                    )
-                    check_languages[language["Language_in_Wiktionary"]] = language['ID']
+            ds.add_languages()
+            check_languages = {k['WiktionaryName']: k['ID'] for k in
+                    self.languages}
 
             ds.add_sources(*self.raw.read_bib())
             missing = defaultdict(int)
 
-            for c, entry in tqdm(enumerate(data), desc="cldfify", total=len(data)):
+            for c, entry in pb(enumerate(data), desc="cldfify", total=len(data)):
                 if "" in entry.keys():
                     if entry[""] in concepts.keys():
                         for language, lid in check_languages.items():
                             if language in entry.keys():
-                                for form in split_text(
-                                        self.lexemes.get(
-                                            entry[language],
-                                            entry[language]
-                                            ),
-                                        ',;/'):
-                                    if not (form.strip() is None or form.strip() == "–"):
-                                        ds.add_lexemes(
-                                            Language_ID=lid,
-                                            Parameter_ID=concepts[entry[""]],
-                                            Value=entry[language],
-                                            Form=form,
-                                            Source=["Abraham2018"],
-                                        )
+                                ds.add_lexemes(
+                                    Language_ID=lid,
+                                    Parameter_ID=concepts[entry[""]],
+                                    Value=entry[language],
+                                    Source=["Abraham2018"],
+                                )
                     else:
                         missing[entry[""]] += 1
                 elif "Gloss" in entry.keys():
                     if entry["Gloss"] in concepts.keys():
                         for language, lid in check_languages.items():
                             if language in entry.keys():
-                                for form in split_text(
-                                        self.lexemes.get(
-                                            entry[language],
-                                            entry[language]
-                                            ),
-                                        ',;/'):
-                                    if not (form.strip() is None or form.strip() == "–"):
-                                        ds.add_lexemes(
-                                            Language_ID=lid,
-                                            Parameter_ID=concepts[entry["Gloss"]],
-                                            Value=entry[language],
-                                            Form=form,
-                                            Source=["Abraham2018"],
-                                        )
+                                ds.add_lexemes(
+                                    Language_ID=lid,
+                                    Parameter_ID=concepts[entry["Gloss"]],
+                                    Value=entry[language],
+                                    Source=["Abraham2018"],
+                                )

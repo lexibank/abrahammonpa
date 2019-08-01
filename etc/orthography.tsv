@@ -60,6 +60,7 @@ $	NULL
 ^ɹ	ɹ
 ^ɾ	ɾ
 ^ɾh	ɾ̥
+^ɾ̆	ɾ
 ^ʃ	ʃ
 ^ʃh	ʃʰ
 ^ʋ	ʋ
@@ -69,10 +70,6 @@ $	NULL
 _	+
 _$	NULL
 _||	NULL
-^ɾ̆	ɾ
-tː	tː
-tʃː	tʃː
-iː	iː
 _̃	̃
 a	a
 a$	a
@@ -99,6 +96,7 @@ i	i
 i$	i
 ii	iː
 ii$	iː
+iː	iː
 j	j
 j$	j
 jʃ	j ʃ
@@ -121,6 +119,7 @@ m$	m
 mh	m̥
 mm	mː
 mɕ	m ɕ
+mː	mː
 n	n
 n s	n s
 n$	n
@@ -151,6 +150,8 @@ tʃ	tʃ
 tʃ$	tʃ
 tʃh	tʃʰ
 tʃh$	tʃʰ
+tʃː	tʃː
+tː	tː
 t̪	t̪
 t̪$	t̪
 t̪h	t̪ʰ

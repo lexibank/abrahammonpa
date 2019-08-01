@@ -1,32 +1,31 @@
-ID	Language	Speaker number	Language_in_Wiktionary	Glottocode	Source	Concept_number	Latitude	Longitude	Country	Family	SubGroup	Notes	Macy_notes
-MonpaKalaktang	Monpa Kalaktang	h	Monpa (Kalaktang)	kala1376	abraham2018	307	27.104162	92.113017	India/China	Sino-Tibetan	Tshanglic		suggest “kala1376”. Kalaktang Monpa
-MonpaBalemu	Monpa Balemu	p	Monpa (Balemu)	kala1376	abraham2018	307	26.964717	92.164581	India/China	Sino-Tibetan	Tshanglic	Approximate geo-coordinates	Kalaktang Monpa
-MonpaTomko	Monpa Tomko	q	Monpa (Tomko)	kala1376	abraham2018	307	27.16536	92.23077	India/China	Sino-Tibetan	Tshanglic		Kalaktang Monpa
-MonpaNamsu	Monpa Namsu	t	Monpa (Namsu)	kala1376	abraham2018	307	27.359505	92.34921	India/China	Sino-Tibetan	Tshanglic		Kalaktang Monpa
-MonpaTembang	Monpa Tembang	u	Monpa (Tembang)	tsha1245	abraham2018	307	27.333876	92.40513	India/China	Sino-Tibetan	Tshanglic		Dirang Monpa
-MonpaDirangDum	Monpa Dirang Dum	k	Monpa (Dirang Dum)	tsha1245	abraham2018	307	27.334341	92.293734	India/China	Sino-Tibetan	Tshanglic		Dirang Monpa
-MonpaSangti	Monpa Sangti	n	Monpa (Sangti)	tsha1245	abraham2018	307	27.402266	92.314934	India/China	Sino-Tibetan	Tshanglic		Dirang Monpa. a dialect of Tshangla
-MonpaDirang	Monpa Dirang	o	Monpa (Dirang)	tsha1245	abraham2018	307	27.34959	92.27914	India/China	Sino-Tibetan	Tshanglic		Dirang Monpa. a dialect of Tshangla
-MonpaTawangMonastery	Monpa Tawang Monastery	f	Monpa (Tawang Monastery)	dakp1242	abraham2018	307	27.586829	91.85796	India/China	Sino-Tibetan	Takpa		Tawang Monpa
-MonpaZimithang	Monpa Zimithang	r	Monpa (Zimithang)	dakp1242	abraham2018	307	27.335901	92.306528	India/China	Sino-Tibetan	Takpa		Tawang Monpa
-MonpaChangprong	Monpa Changprong	s	Monpa (Changprong)	dakp1242	abraham2018	307	27.578928	91.876393	India/China	Sino-Tibetan	Takpa	Approximate geo-coordinates	Tawang Monpa
-SartangKhoitam	Sartang Khoitam	b	Sartang (Khoitam)	khoi1252	abraham2018	307	27.358518	92.438415	India/China	Sino-Tibetan	Khobwa		Sartang
-ChugParchu	Chug Parchu	c	Chug (Chug)	chug1252	abraham2018	307	27.420054	92.234173	India/China	Sino-Tibetan	Khobwa		Chug Monpa
-SartangDarbuA	Sartang Darbu 1	d	Sartang (Darbu 1)	sart1249	abraham2018	307	27.329171	92.358727	India/China	Sino-Tibetan	Khobwa		Sartang
-MijiNafra	Miji Nafra	e	Miji (Nafra)	miji1239	abraham2018	307	27.373776	92.546071	India/China	Sino-Tibetan	Khobwa		Miji
-LishLish	Lish Lish	g	Lish (Lish)	lish1235	abraham2018	307	27.368692	92.249809	India/China	Sino-Tibetan	Khobwa		Lish Monpa
-SherdukpenRupa	Sherdukpen Rupa	i	Sherdukpen (Rupa)	sher1256	abraham2018	307	27.203981	92.398629	India/China	Sino-Tibetan	Khobwa		Sherdukpen
-HrusoAkaJamiri	Hruso Aka Jamiri	j	Hruso Aka (Jamiri)	hrus1242	abraham2018	307	27.184929	92.599114	India/China	Sino-Tibetan	Khobwa		Hruso
-SartangDarbuB	Sartang Darbu 2	l	Sartang (Darbu 2)	sart1249	abraham2018	307	27.329171	92.358727	India/China	Sino-Tibetan	Khobwa		Sartang
-SartangKhoina	Sartang Khoina	m	Sartang (Khoina)	khoi1253	abraham2018	307	27.337381	92.529683	India/China	Sino-Tibetan	Khobwa		Sartang
-BugunSingchung	Bugun Singchung	v	Bugun (Singchung)	sing1271	abraham2018	307	27.195773	92.473437	India/China	Sino-Tibetan	Khobwa		Bugun
-BugunWangho	Bugun Wangho	w	Bugun (Wangho)	wang1301	abraham2018	307	27.231398	92.436886	India/China	Sino-Tibetan	Khobwa		Bugun
-BugunBichom	Bugun Bichom	x	Bugun (Bichom)	bich1234	abraham2018	307	27.272159	92.574219	India/China	Sino-Tibetan	Khobwa		Bugun
-BugunKaspi	Bugun Kaspi	y	Bugun (Kaspi)	kasp1234	abraham2018	307	27.204143	92.549541	India/China	Sino-Tibetan	Khobwa		Bugun
-BugunNamphri	Bugun Namphri	z	Bugun (Namphri)	namp1239	abraham2018	307	27.196633	92.504931	India/China	Sino-Tibetan	Khobwa	Approximate geo-coordinates	Bugun
-NamreiNabolang	Namrei Nabolang	A	Namrei (Nabolang)	miji1239	abraham2018	307	27.546333	92.797975	India/China	Sino-Tibetan	Khobwa		suggest “miji1239”. a dialect of Miji, see page 9, table 2
-NamreiBisai	Namrei Bisai	B	Namrei (Bisai)	miji1239	abraham2018	307	27.682796	92.700031	India/China	Sino-Tibetan	Khobwa		suggest “miji1239”. a dialect of Miji, see page 9, table 2
-DammaiRurang	Dammai Rurang	C	Dammai (Rurang)	miji1239	abraham2018	307	27.368455	92.500637	India/China	Sino-Tibetan	Khobwa		suggest “miji1239”. a dialect of Miji, see page 9, table 2
-DammaiDibin	Dammai Dibin	D	Dammai (Dibin)	miji1239	abraham2018	307	27.437363	92.531354	India/China	Sino-Tibetan	Khobwa		suggest “miji1239”. a dialect of Miji, see page 9, table 2
-SherdukpenShergaon	Sherdukpen Shergaon	E	Sherdukpen (Shergaon)	sher1256	abraham2018	307	27.104558	92.27076	India/China	Sino-Tibetan	Khobwa		Sherdukpen
-KoroAkaPisang	Koro Aka Pisang	F		koro1316	abraham2018	307	27.179389	92.63451	India/China	Sino-Tibetan	Khobwa	Approximate geo-coordinates	Hruso
+ID	Name	Source_ID	WiktionaryName	Glottocode	Latitude	Longitude	Area	SubGroup
+MonpaKalaktang	Monpa Kalaktang	h	Monpa (Kalaktang)	kala1376	27.104162	92.113017	India/China	Tshanglic
+MonpaBalemu	Monpa Balemu	p	Monpa (Balemu)	kala1376	26.964717	92.164581	India/China	Tshanglic
+MonpaTomko	Monpa Tomko	q	Monpa (Tomko)	kala1376	27.16536	92.23077	India/China	Tshanglic
+MonpaNamsu	Monpa Namsu	t	Monpa (Namsu)	kala1376	27.359505	92.34921	India/China	Tshanglic
+MonpaTembang	Monpa Tembang	u	Monpa (Tembang)	tsha1245	27.333876	92.40513	India/China	Tshanglic
+MonpaDirangDum	Monpa Dirang Dum	k	Monpa (Dirang Dum)	tsha1245	27.334341	92.293734	India/China	Tshanglic
+MonpaSangti	Monpa Sangti	n	Monpa (Sangti)	tsha1245	27.402266	92.314934	India/China	Tshanglic
+MonpaDirang	Monpa Dirang	o	Monpa (Dirang)	tsha1245	27.34959	92.27914	India/China	Tshanglic
+MonpaTawangMonastery	Monpa Tawang Monastery	f	Monpa (Tawang Monastery)	dakp1242	27.586829	91.85796	India/China	Takpa
+MonpaZimithang	Monpa Zimithang	r	Monpa (Zimithang)	dakp1242	27.335901	92.306528	India/China	Takpa
+MonpaChangprong	Monpa Changprong	s	Monpa (Changprong)	dakp1242	27.578928	91.876393	India/China	Takpa
+SartangKhoitam	Sartang Khoitam	b	Sartang (Khoitam)	khoi1252	27.358518	92.438415	India/China	Khobwa
+ChugParchu	Chug Parchu	c	Chug (Chug)	chug1252	27.420054	92.234173	India/China	Khobwa
+SartangDarbuA	Sartang Darbu 1	d	Sartang (Darbu 1)	sart1249	27.329171	92.358727	India/China	Khobwa
+MijiNafra	Miji Nafra	e	Miji (Nafra)	miji1239	27.373776	92.546071	India/China	Khobwa
+LishLish	Lish Lish	g	Lish (Lish)	lish1235	27.368692	92.249809	India/China	Khobwa
+SherdukpenRupa	Sherdukpen Rupa	i	Sherdukpen (Rupa)	sher1256	27.203981	92.398629	India/China	Khobwa
+HrusoAkaJamiri	Hruso Aka Jamiri	j	Hruso Aka (Jamiri)	hrus1242	27.184929	92.599114	India/China	Khobwa
+SartangDarbuB	Sartang Darbu 2	l	Sartang (Darbu 2)	sart1249	27.329171	92.358727	India/China	Khobwa
+SartangKhoina	Sartang Khoina	m	Sartang (Khoina)	khoi1253	27.337381	92.529683	India/China	Khobwa
+BugunSingchung	Bugun Singchung	v	Bugun (Singchung)	sing1271	27.195773	92.473437	India/China	Khobwa
+BugunWangho	Bugun Wangho	w	Bugun (Wangho)	wang1301	27.231398	92.436886	India/China	Khobwa
+BugunBichom	Bugun Bichom	x	Bugun (Bichom)	bich1234	27.272159	92.574219	India/China	Khobwa
+BugunKaspi	Bugun Kaspi	y	Bugun (Kaspi)	kasp1234	27.204143	92.549541	India/China	Khobwa
+BugunNamphri	Bugun Namphri	z	Bugun (Namphri)	namp1239	27.196633	92.504931	India/China	Khobwa
+NamreiNabolang	Namrei Nabolang	A	Namrei (Nabolang)	miji1239	27.546333	92.797975	India/China	Khobwa
+NamreiBisai	Namrei Bisai	B	Namrei (Bisai)	miji1239	27.682796	92.700031	India/China	Khobwa
+DammaiRurang	Dammai Rurang	C	Dammai (Rurang)	miji1239	27.368455	92.500637	India/China	Khobwa
+DammaiDibin	Dammai Dibin	D	Dammai (Dibin)	miji1239	27.437363	92.531354	India/China	Khobwa
+SherdukpenShergaon	Sherdukpen Shergaon	E	Sherdukpen (Shergaon)	sher1256	27.104558	92.27076	India/China	Khobwa
