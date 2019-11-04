@@ -22,7 +22,7 @@ setup(
     },
     install_requires=[
         'beautifulsoup4>=4.7.1',
-        'pylexibank>=1.1.1',
+        'pylexibank>=2.0',
     ],
     extras_require={
         'test': [
