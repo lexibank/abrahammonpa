@@ -6,9 +6,9 @@ Cite the source dataset as
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
-Conceptlists in Concepticon:
-- [Abraham-2018-307](http://concepticon.clld.org/contributions/Abraham-2018-307)
 
+Conceptlists in Concepticon:
+- [Abraham-2018-307](https://concepticon.clld.org/contributions/Abraham-2018-307)
 ## Notes
 
 This dataset comprises some 31 Sino-Tibetan varieties, mostly from Monpa, but also from the Kho-Bwa langauges. The digital version of this dataset stems from the Wiktionary project.
@@ -27,10 +27,10 @@ This dataset comprises some 31 Sino-Tibetan varieties, mostly from Monpa, but al
 
 - **Varieties:** 30
 - **Concepts:** 306
-- **Lexemes:** 8,213
+- **Lexemes:** 8,315
 - **Sources:** 1
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
-- **Tokens:** 38,023
+- **Tokens:** 38,097
 - **Segments:** 97 (0 BIPA errors, 0 CTLS sound class errors, 97 CLTS modified)
-- **Inventory size (avg):** 45.30
+- **Inventory size (avg):** 45.47
