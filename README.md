@@ -1,8 +1,8 @@
-# Sociolinguistic Research on Monpa
+# CLDF dataset derived from Abraham et al.'s "Sociolinguistic Research on Monpa"
 
 Cite the source dataset as
 
-> Abraham, Binny, Kara Sako, Elina Kinny, Isapdaile Zeliang (2018):  Sociolinguistic Research among Selected Groups in Western Arunachal Pradesh: Highlighting Monpa. Dallas: SIL International.
+> Abraham, Binny, Kara Sako, Elina Kinny, and Isapdaile Zeliang (2018):  Sociolinguistic Research among Selected Groups in Western Arunachal Pradesh: Highlighting Monpa. Dallas: SIL International.
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
@@ -34,3 +34,19 @@ This dataset comprises some 31 Sino-Tibetan varieties, mostly from Monpa, but al
 - **Tokens:** 38,097
 - **Segments:** 97 (0 BIPA errors, 0 CTLS sound class errors, 97 CLTS modified)
 - **Inventory size (avg):** 45.47
+
+# Contributors
+
+Name               | GitHub user | Description | Role
+---                | ---         | --- | --- 
+Johann-Mattis List | @LinguList  | maintainer, patron | author 
+Mei-Shin Wu        | @MacyL      | maintainer | author
+Yunfan Lai         | @laiyunfan  | maintainer | author
+Wiktionary         | https://en.wiktionary.org/ | digitization | DataCurator, Distributor
+Binny Abraham | | data collection | DataCollector
+Kara Sako | | data collection | DataCollector
+Elina Kinny | | data collection | DataCollector
+Isapdaile Zeliang | | data collection | DataCollector
+
+
+
