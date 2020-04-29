@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Abraham et al.'s \"Sociolinguistic Research on Monpa\"",
+    "title": "CLDF dataset derived from Abraham et al.'s \"Sociolinguistic Research on Monpa\" from 2018",
     "creators": [
         {
             "name": "Johann-Mattis List"
@@ -49,10 +49,13 @@
     "upload_type": "dataset",
     "communities": [
         {
+            "identifier": "calc"
+        },
+        {
             "identifier": "lexibank"
         },
         {
-            "identifier": "calc"
+            "identifier": "lexibank"
         }
     ]
 }

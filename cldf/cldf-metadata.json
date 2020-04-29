@@ -10,14 +10,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Abraham et al.'s \"Sociolinguistic Research on Monpa\"",
+    "dc:title": "CLDF dataset derived from Abraham et al.'s \"Sociolinguistic Research on Monpa\" from 2018",
     "dcat:accessURL": "https://github.com/lexibank/abrahammonpa",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/abrahammonpa",
-            "dc:created": "v2.0"
+            "dc:created": "v2.0-1-g2deaefb"
         },
         {
             "rdf:type": "prov:Entity",
