@@ -2,8 +2,8 @@ from collections import defaultdict
 
 from pathlib import Path
 from pylexibank.dataset import Dataset as BaseDataset 
-from pylexibank import Language, FormSpec
-from pylexibank.util import pb
+from pylexibank import Language
+from pylexibank import progressbar
 
 from clldutils.misc import slug
 import attr
@@ -13,12 +13,12 @@ import attr
 class CustomLanguage(Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
-    ChineseName = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
     Family = attr.ib(default='Sino-Tibetan')
     Source_ID = attr.ib(default=None)
     WiktionaryName = attr.ib(default=None)
     Area = attr.ib(default=None)
+
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
@@ -40,7 +40,7 @@ class Dataset(BaseDataset):
                 lookup_factory='WiktionaryName')
         args.writer.add_sources()
         missing = defaultdict(int)
-        for c, entry in pb(enumerate(data), desc="cldfify", total=len(data)):
+        for c, entry in progressbar(enumerate(data), desc="cldfify", total=len(data)):
             if "" in entry.keys():
                 if entry[""] in concept_lookup.keys():
                     for language, lid in language_lookup.items():
