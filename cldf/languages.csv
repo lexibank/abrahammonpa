@@ -13,10 +13,10 @@ MonpaChangprong,Monpa Changprong,dakp1242,Dakpakha,dka,Eurasia,27.578928,91.8763
 SartangKhoitam,Sartang Khoitam,khoi1252,Khoitam,,Eurasia,27.358518,92.438415,Sino-Tibetan,Khobwa,b,Sartang (Khoitam),India/China
 ChugParchu,Chug Parchu,chug1252,Duhumbi,cvg,Eurasia,27.420054,92.234173,Sino-Tibetan,Khobwa,c,Chug (Chug),India/China
 SartangDarbuA,Sartang Darbu 1,sart1249,Sartang,onp,Eurasia,27.329171,92.358727,Sino-Tibetan,Khobwa,d,Sartang (Darbu 1),India/China
-MijiNafra,Miji Nafra,miji1239,Miji,,,27.373776,92.546071,Sino-Tibetan,Khobwa,e,Miji (Nafra),India/China
+MijiNafra,Miji Nafra,miji1239,Miji,,Eurasia,27.373776,92.546071,Sino-Tibetan,Khobwa,e,Miji (Nafra),India/China
 LishLish,Lish Lish,lish1235,Khispi,lsh,Eurasia,27.368692,92.249809,Sino-Tibetan,Khobwa,g,Lish (Lish),India/China
-SherdukpenRupa,Sherdukpen Rupa,sher1256,Sartang-Sherdukpen,,,27.203981,92.398629,Sino-Tibetan,Khobwa,i,Sherdukpen (Rupa),India/China
-HrusoAkaJamiri,Hruso Aka Jamiri,hrus1242,Hruso,hru,Eurasia,27.184929,92.599114,Hruso,Khobwa,j,Hruso Aka (Jamiri),India/China
+SherdukpenRupa,Sherdukpen Rupa,sher1256,Sartang-Sherdukpen,,Eurasia,27.203981,92.398629,Sino-Tibetan,Khobwa,i,Sherdukpen (Rupa),India/China
+HrusoAkaJamiri,Hruso Aka Jamiri,hrus1242,Hruso,hru,Eurasia,27.184929,92.599114,Sino-Tibetan,Khobwa,j,Hruso Aka (Jamiri),India/China
 SartangDarbuB,Sartang Darbu 2,sart1249,Sartang,onp,Eurasia,27.329171,92.358727,Sino-Tibetan,Khobwa,l,Sartang (Darbu 2),India/China
 SartangKhoina,Sartang Khoina,khoi1253,Khoina,,Eurasia,27.337381,92.529683,Sino-Tibetan,Khobwa,m,Sartang (Khoina),India/China
 BugunSingchung,Bugun Singchung,sing1271,Singchung,,Eurasia,27.195773,92.473437,Sino-Tibetan,Khobwa,v,Bugun (Singchung),India/China
@@ -24,8 +24,8 @@ BugunWangho,Bugun Wangho,wang1301,Wangho,,Eurasia,27.231398,92.436886,Sino-Tibet
 BugunBichom,Bugun Bichom,bich1234,Bichom,,Eurasia,27.272159,92.574219,Sino-Tibetan,Khobwa,x,Bugun (Bichom),India/China
 BugunKaspi,Bugun Kaspi,kasp1234,Kaspi,,Eurasia,27.204143,92.549541,Sino-Tibetan,Khobwa,y,Bugun (Kaspi),India/China
 BugunNamphri,Bugun Namphri,namp1239,Namphri,,Eurasia,27.196633,92.504931,Sino-Tibetan,Khobwa,z,Bugun (Namphri),India/China
-NamreiNabolang,Namrei Nabolang,miji1239,Miji,,,27.546333,92.797975,Sino-Tibetan,Khobwa,A,Namrei (Nabolang),India/China
-NamreiBisai,Namrei Bisai,miji1239,Miji,,,27.682796,92.700031,Sino-Tibetan,Khobwa,B,Namrei (Bisai),India/China
-DammaiRurang,Dammai Rurang,miji1239,Miji,,,27.368455,92.500637,Sino-Tibetan,Khobwa,C,Dammai (Rurang),India/China
-DammaiDibin,Dammai Dibin,miji1239,Miji,,,27.437363,92.531354,Sino-Tibetan,Khobwa,D,Dammai (Dibin),India/China
-SherdukpenShergaon,Sherdukpen Shergaon,sher1256,Sartang-Sherdukpen,,,27.104558,92.27076,Sino-Tibetan,Khobwa,E,Sherdukpen (Shergaon),India/China
+NamreiNabolang,Namrei Nabolang,miji1239,Miji,,Eurasia,27.546333,92.797975,Sino-Tibetan,Khobwa,A,Namrei (Nabolang),India/China
+NamreiBisai,Namrei Bisai,miji1239,Miji,,Eurasia,27.682796,92.700031,Sino-Tibetan,Khobwa,B,Namrei (Bisai),India/China
+DammaiRurang,Dammai Rurang,miji1239,Miji,,Eurasia,27.368455,92.500637,Sino-Tibetan,Khobwa,C,Dammai (Rurang),India/China
+DammaiDibin,Dammai Dibin,miji1239,Miji,,Eurasia,27.437363,92.531354,Sino-Tibetan,Khobwa,D,Dammai (Dibin),India/China
+SherdukpenShergaon,Sherdukpen Shergaon,sher1256,Sartang-Sherdukpen,,Eurasia,27.104558,92.27076,Sino-Tibetan,Khobwa,E,Sherdukpen (Shergaon),India/China

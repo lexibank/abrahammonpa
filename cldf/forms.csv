@@ -81,7 +81,6 @@ MonpaKalaktang-8_3rdsgfemale-1,,MonpaKalaktang,8_3rdsgfemale,nan,nan,n a n,,Abra
 MonpaBalemu-8_3rdsgfemale-1,,MonpaBalemu,8_3rdsgfemale,d̪an,d̪an,d̪ a n,,Abraham2018,,,^d̪ a n$,default
 MonpaTomko-8_3rdsgfemale-1,,MonpaTomko,8_3rdsgfemale,zaminzimbu,zaminzimbu,z a m i n z i m b u,,Abraham2018,,,^z a m i n z i m b u$,default
 MonpaNamsu-8_3rdsgfemale-1,,MonpaNamsu,8_3rdsgfemale,nan,nan,n a n,,Abraham2018,,,^n a n$,default
-MonpaTembang-8_3rdsgfemale-1,,MonpaTembang,8_3rdsgfemale,–,–,,,Abraham2018,,,^–$,default
 MonpaDirangDum-8_3rdsgfemale-1,,MonpaDirangDum,8_3rdsgfemale,zamiŋ,zamiŋ,z a m i ŋ,,Abraham2018,,,^z a m i ŋ$,default
 MonpaSangti-8_3rdsgfemale-1,,MonpaSangti,8_3rdsgfemale,zamin,zamin,z a m i n,,Abraham2018,,,^z a m i n$,default
 MonpaDirang-8_3rdsgfemale-1,,MonpaDirang,8_3rdsgfemale,digi,digi,d i g i,,Abraham2018,,,^d i g i$,default
@@ -92,7 +91,6 @@ MonpaKalaktang-9_3rdsggenericmale-1,,MonpaKalaktang,9_3rdsggenericmale,nan,nan,n
 MonpaBalemu-9_3rdsggenericmale-1,,MonpaBalemu,9_3rdsggenericmale,d̪an,d̪an,d̪ a n,,Abraham2018,,,^d̪ a n$,default
 MonpaTomko-9_3rdsggenericmale-1,,MonpaTomko,9_3rdsggenericmale,nunuzimbu,nunuzimbu,n u n u z i m b u,,Abraham2018,,,^n u n u z i m b u$,default
 MonpaNamsu-9_3rdsggenericmale-1,,MonpaNamsu,9_3rdsggenericmale,nan,nan,n a n,,Abraham2018,,,^n a n$,default
-MonpaTembang-9_3rdsggenericmale-1,,MonpaTembang,9_3rdsggenericmale,–,–,,,Abraham2018,,,^–$,default
 MonpaDirangDum-9_3rdsggenericmale-1,,MonpaDirangDum,9_3rdsggenericmale,d̪an,d̪an,d̪ a n,,Abraham2018,,,^d̪ a n$,default
 MonpaSangti-9_3rdsggenericmale-1,,MonpaSangti,9_3rdsggenericmale,d̪an,d̪an,d̪ a n,,Abraham2018,,,^d̪ a n$,default
 MonpaDirang-9_3rdsggenericmale-1,,MonpaDirang,9_3rdsggenericmale,digi,digi,d i g i,,Abraham2018,,,^d i g i$,default
@@ -266,8 +264,6 @@ MonpaTembang-24_betelnut-1,,MonpaTembang,24_betelnut,tamul,tamul,t a m u l,,Abra
 MonpaDirangDum-24_betelnut-1,,MonpaDirangDum,24_betelnut,goi,goi,g o i,,Abraham2018,,,^g o i$,default
 MonpaSangti-24_betelnut-1,,MonpaSangti,24_betelnut,ʃiŋkoptaŋ,ʃiŋkoptaŋ,ʃ i ŋ k o p t a ŋ,,Abraham2018,,,^ʃ i ŋ k o p t a ŋ$,default
 MonpaDirang-24_betelnut-1,,MonpaDirang,24_betelnut,goi,goi,g o i,,Abraham2018,,,^g o i$,default
-MonpaTawangMonastery-24_betelnut-1,,MonpaTawangMonastery,24_betelnut,–,–,,,Abraham2018,,,^–$,default
-MonpaZimithang-24_betelnut-1,,MonpaZimithang,24_betelnut,–,–,,,Abraham2018,,,^–$,default
 MonpaChangprong-24_betelnut-1,,MonpaChangprong,24_betelnut,gugæ; gui,gugæ,g u g æ,,Abraham2018,,,^g u g æ$,default
 MonpaChangprong-24_betelnut-2,,MonpaChangprong,24_betelnut,gugæ; gui,gui,g u i,,Abraham2018,,,^g u i$,default
 MonpaKalaktang-25_big-1,,MonpaKalaktang,25_big,taŋpu; tʃhilu,taŋpu,t a ŋ p u,,Abraham2018,,,^t a ŋ p u$,default
@@ -342,8 +338,6 @@ MonpaChangprong-30_blood-1,,MonpaChangprong,30_blood,khra,khra,kʰ r a,,Abraham2
 MonpaKalaktang-31_boat-1,,MonpaKalaktang,31_boat,naw,naw,n a w,,Abraham2018,,,^n a w$,default
 MonpaBalemu-31_boat-1,,MonpaBalemu,31_boat,naw,naw,n a w,,Abraham2018,,,^n a w$,default
 MonpaTomko-31_boat-1,,MonpaTomko,31_boat,naw,naw,n a w,,Abraham2018,,,^n a w$,default
-MonpaNamsu-31_boat-1,,MonpaNamsu,31_boat,–,–,,,Abraham2018,,,^–$,default
-MonpaTembang-31_boat-1,,MonpaTembang,31_boat,–,–,,,Abraham2018,,,^–$,default
 MonpaDirangDum-31_boat-1,,MonpaDirangDum,31_boat,naw,naw,n a w,,Abraham2018,,,^n a w$,default
 MonpaSangti-31_boat-1,,MonpaSangti,31_boat,dʒaɲtʃi,dʒaɲtʃi,dʒ a ɲ tʃ i,,Abraham2018,,,^dʒ a ɲ tʃ i$,default
 MonpaDirang-31_boat-1,,MonpaDirang,31_boat,dʒatʃi,dʒatʃi,dʒ a tʃ i,,Abraham2018,,,^dʒ a tʃ i$,default
@@ -430,18 +424,14 @@ MonpaDirang-38_buffalo-1,,MonpaDirang,38_buffalo,bruŋ,bruŋ,b r u ŋ,,Abraham20
 MonpaTawangMonastery-38_buffalo-1,,MonpaTawangMonastery,38_buffalo,duip,duip,d u i p,,Abraham2018,,,^d u i p$,default
 MonpaZimithang-38_buffalo-1,,MonpaZimithang,38_buffalo,bruŋ,bruŋ,b r u ŋ,,Abraham2018,,,^b r u ŋ$,default
 MonpaChangprong-38_buffalo-1,,MonpaChangprong,38_buffalo,mahæ,mahæ,m a h æ,,Abraham2018,,,^m a h æ$,default
-MonpaKalaktang-39_cabbage-1,,MonpaKalaktang,39_cabbage,–; mumt̪oklom,–,,,Abraham2018,,,^–$,default
-MonpaKalaktang-39_cabbage-2,,MonpaKalaktang,39_cabbage,–; mumt̪oklom,mumt̪oklom,m u m t̪ o k l o m,,Abraham2018,,,^m u m t̪ o k l o m$,default
+MonpaKalaktang-39_cabbage-1,,MonpaKalaktang,39_cabbage,–; mumt̪oklom,mumt̪oklom,m u m t̪ o k l o m,,Abraham2018,,,^m u m t̪ o k l o m$,default
 MonpaBalemu-39_cabbage-1,,MonpaBalemu,39_cabbage,mumt̪oklom,mumt̪oklom,m u m t̪ o k l o m,,Abraham2018,,,^m u m t̪ o k l o m$,default
 MonpaTomko-39_cabbage-1,,MonpaTomko,39_cabbage,ʃiŋʃawa,ʃiŋʃawa,ʃ i ŋ ʃ a w a,,Abraham2018,,,^ʃ i ŋ ʃ a w a$,default
 MonpaNamsu-39_cabbage-1,,MonpaNamsu,39_cabbage,bandagobi,bandagobi,b a n d a g o b i,,Abraham2018,,,^b a n d a g o b i$,default
-MonpaTembang-39_cabbage-1,,MonpaTembang,39_cabbage,–,–,,,Abraham2018,,,^–$,default
-MonpaDirangDum-39_cabbage-1,,MonpaDirangDum,39_cabbage,–,–,,,Abraham2018,,,^–$,default
 MonpaSangti-39_cabbage-1,,MonpaSangti,39_cabbage,momloŋnaŋ,momloŋnaŋ,m o m l o ŋ n a ŋ,,Abraham2018,,,^m o m l o ŋ n a ŋ$,default
 MonpaDirang-39_cabbage-1,,MonpaDirang,39_cabbage,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
 MonpaTawangMonastery-39_cabbage-1,,MonpaTawangMonastery,39_cabbage,petʃahru,petʃahru,p e tʃ a h r u,,Abraham2018,,,^p e tʃ a h r u$,default
 MonpaZimithang-39_cabbage-1,,MonpaZimithang,39_cabbage,bandagobi,bandagobi,b a n d a g o b i,,Abraham2018,,,^b a n d a g o b i$,default
-MonpaChangprong-39_cabbage-1,,MonpaChangprong,39_cabbage,–,–,,,Abraham2018,,,^–$,default
 MonpaKalaktang-40_candle-1,,MonpaKalaktang,40_candle,mumbati,mumbati,m u m b a t i,,Abraham2018,,,^m u m b a t i$,default
 MonpaBalemu-40_candle-1,,MonpaBalemu,40_candle,mumbati,mumbati,m u m b a t i,,Abraham2018,,,^m u m b a t i$,default
 MonpaTomko-40_candle-1,,MonpaTomko,40_candle,mumbati,mumbati,m u m b a t i,,Abraham2018,,,^m u m b a t i$,default
@@ -465,17 +455,12 @@ MonpaDirang-41_cat-1,,MonpaDirang,41_cat,nambu,nambu,n a m b u,,Abraham2018,,,^n
 MonpaTawangMonastery-41_cat-1,,MonpaTawangMonastery,41_cat,ʒim,ʒim,ʒ i m,,Abraham2018,,,^ʒ i m$,default
 MonpaZimithang-41_cat-1,,MonpaZimithang,41_cat,ʒim,ʒim,ʒ i m,,Abraham2018,,,^ʒ i m$,default
 MonpaChangprong-41_cat-1,,MonpaChangprong,41_cat,ʒim,ʒim,ʒ i m,,Abraham2018,,,^ʒ i m$,default
-MonpaKalaktang-42_cauliflower-1,,MonpaKalaktang,42_cauliflower,–,–,,,Abraham2018,,,^–$,default
 MonpaBalemu-42_cauliflower-1,,MonpaBalemu,42_cauliflower,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
 MonpaTomko-42_cauliflower-1,,MonpaTomko,42_cauliflower,mumlomnaŋ,mumlomnaŋ,m u m l o m n a ŋ,,Abraham2018,,,^m u m l o m n a ŋ$,default
 MonpaNamsu-42_cauliflower-1,,MonpaNamsu,42_cauliflower,phulkobi,phulkobi,pʰ u l k o b i,,Abraham2018,,,^ph u l k o b i$,default
-MonpaTembang-42_cauliflower-1,,MonpaTembang,42_cauliflower,–,–,,,Abraham2018,,,^–$,default
-MonpaDirangDum-42_cauliflower-1,,MonpaDirangDum,42_cauliflower,–,–,,,Abraham2018,,,^–$,default
 MonpaSangti-42_cauliflower-1,,MonpaSangti,42_cauliflower,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
 MonpaDirang-42_cauliflower-1,,MonpaDirang,42_cauliflower,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
 MonpaTawangMonastery-42_cauliflower-1,,MonpaTawangMonastery,42_cauliflower,kophiru,kophiru,k o pʰ i r u,,Abraham2018,,,^k o ph i r u$,default
-MonpaZimithang-42_cauliflower-1,,MonpaZimithang,42_cauliflower,–,–,,,Abraham2018,,,^–$,default
-MonpaChangprong-42_cauliflower-1,,MonpaChangprong,42_cauliflower,–,–,,,Abraham2018,,,^–$,default
 MonpaKalaktang-43_cheek-1,,MonpaKalaktang,43_cheek,khurkhaŋ,khurkhaŋ,kʰ u r kʰ a ŋ,,Abraham2018,,,^kh u r kh a ŋ$,default
 MonpaBalemu-43_cheek-1,,MonpaBalemu,43_cheek,guɾghaŋ,guɾghaŋ,g u ɾ gʱ a ŋ,,Abraham2018,,,^g u ɾ gh a ŋ$,default
 MonpaTomko-43_cheek-1,,MonpaTomko,43_cheek,toŋpa,toŋpa,t o ŋ p a,,Abraham2018,,,^t o ŋ p a$,default
@@ -553,7 +538,6 @@ MonpaTembang-49_cockroach-1,,MonpaTembang,49_cockroach,zulu,zulu,z u l u,,Abraha
 MonpaDirangDum-49_cockroach-1,,MonpaDirangDum,49_cockroach,zuɾu,zuɾu,z u ɾ u,,Abraham2018,,,^z u ɾ u$,default
 MonpaSangti-49_cockroach-1,,MonpaSangti,49_cockroach,sakpa,sakpa,s a k p a,,Abraham2018,,,^s a k p a$,default
 MonpaDirang-49_cockroach-1,,MonpaDirang,49_cockroach,zulu,zulu,z u l u,,Abraham2018,,,^z u l u$,default
-MonpaTawangMonastery-49_cockroach-1,,MonpaTawangMonastery,49_cockroach,–,–,,,Abraham2018,,,^–$,default
 MonpaZimithang-49_cockroach-1,,MonpaZimithang,49_cockroach,zulu,zulu,z u l u,,Abraham2018,,,^z u l u$,default
 MonpaChangprong-49_cockroach-1,,MonpaChangprong,49_cockroach,zulu,zulu,z u l u,,Abraham2018,,,^z u l u$,default
 MonpaKalaktang-50_coconutripe-1,,MonpaKalaktang,50_coconutripe,narkolăse,narkolăse,n a r k o l ă s e,,Abraham2018,,,^n a r k o l ăs e$,default
@@ -561,7 +545,6 @@ MonpaBalemu-50_coconutripe-1,,MonpaBalemu,50_coconutripe,naɾikol,naɾikol,n a �
 MonpaTomko-50_coconutripe-1,,MonpaTomko,50_coconutripe,naɾikol,naɾikol,n a ɾ i k o l,,Abraham2018,,,^n a ɾ i k o l$,default
 MonpaNamsu-50_coconutripe-1,,MonpaNamsu,50_coconutripe,naɾijal,naɾijal,n a ɾ i j a l,,Abraham2018,,,^n a ɾ i j a l$,default
 MonpaTembang-50_coconutripe-1,,MonpaTembang,50_coconutripe,naɾijal,naɾijal,n a ɾ i j a l,,Abraham2018,,,^n a ɾ i j a l$,default
-MonpaDirangDum-50_coconutripe-1,,MonpaDirangDum,50_coconutripe,–,–,,,Abraham2018,,,^–$,default
 MonpaSangti-50_coconutripe-1,,MonpaSangti,50_coconutripe,naɾkol,naɾkol,n a ɾ k o l,,Abraham2018,,,^n a ɾ k o l$,default
 MonpaDirang-50_coconutripe-1,,MonpaDirang,50_coconutripe,naɾijal,naɾijal,n a ɾ i j a l,,Abraham2018,,,^n a ɾ i j a l$,default
 MonpaTawangMonastery-50_coconutripe-1,,MonpaTawangMonastery,50_coconutripe,naɾijal,naɾijal,n a ɾ i j a l,,Abraham2018,,,^n a ɾ i j a l$,default
@@ -615,8 +598,6 @@ MonpaTawangMonastery-54_cow-1,,MonpaTawangMonastery,54_cow,bama,bama,b a m a,,Ab
 MonpaZimithang-54_cow-1,,MonpaZimithang,54_cow,pa,pa,p a,,Abraham2018,,,^p a$,default
 MonpaChangprong-54_cow-1,,MonpaChangprong,54_cow,bah̥,bah̥,b a h̥,,Abraham2018,,,^b a h̥$,default
 MonpaKalaktang-55_crocodile-1,,MonpaKalaktang,55_crocodile,ɾidon,ɾidon,ɾ i d o n,,Abraham2018,,,^ɾ i d o n$,default
-MonpaBalemu-55_crocodile-1,,MonpaBalemu,55_crocodile,–,–,,,Abraham2018,,,^–$,default
-MonpaTomko-55_crocodile-1,,MonpaTomko,55_crocodile,–,–,,,Abraham2018,,,^–$,default
 MonpaNamsu-55_crocodile-1,,MonpaNamsu,55_crocodile,ɾidon,ɾidon,ɾ i d o n,,Abraham2018,,,^ɾ i d o n$,default
 MonpaTembang-55_crocodile-1,,MonpaTembang,55_crocodile,ɾidon,ɾidon,ɾ i d o n,,Abraham2018,,,^ɾ i d o n$,default
 MonpaDirangDum-55_crocodile-1,,MonpaDirangDum,55_crocodile,ɾidon,ɾidon,ɾ i d o n,,Abraham2018,,,^ɾ i d o n$,default
@@ -1038,13 +1019,13 @@ MonpaTawangMonastery-92_foot-1,,MonpaTawangMonastery,92_foot,lemintiŋma,leminti
 MonpaZimithang-92_foot-1,,MonpaZimithang,92_foot,letoŋ,letoŋ,l e t o ŋ,,Abraham2018,,,^l e t o ŋ$,default
 MonpaChangprong-92_foot-1,,MonpaChangprong,92_foot,lemin,lemin,l e m i n,,Abraham2018,,,^l e m i n$,default
 MonpaKalaktang-93_four-1,,MonpaKalaktang,93_four,psi,psi,p s i,,Abraham2018,,,^p s i$,default
-MonpaBalemu-93_four-1,,MonpaBalemu,93_four,pʃi,pʃi,pʃ i,,Abraham2018,,,^pʃ i$,default
-MonpaTomko-93_four-1,,MonpaTomko,93_four,pʃi,pʃi,pʃ i,,Abraham2018,,,^pʃ i$,default
+MonpaBalemu-93_four-1,,MonpaBalemu,93_four,pʃi,pʃi,p ʃ i,,Abraham2018,,,^pʃ i$,default
+MonpaTomko-93_four-1,,MonpaTomko,93_four,pʃi,pʃi,p ʃ i,,Abraham2018,,,^pʃ i$,default
 MonpaNamsu-93_four-1,,MonpaNamsu,93_four,psi,psi,p s i,,Abraham2018,,,^p s i$,default
 MonpaTembang-93_four-1,,MonpaTembang,93_four,psi,psi,p s i,,Abraham2018,,,^p s i$,default
 MonpaDirangDum-93_four-1,,MonpaDirangDum,93_four,bə̆si,bə̆si,b ə̆ s i,,Abraham2018,,,^b ə̆ s i$,default
-MonpaSangti-93_four-1,,MonpaSangti,93_four,pʃi,pʃi,pʃ i,,Abraham2018,,,^pʃ i$,default
-MonpaDirang-93_four-1,,MonpaDirang,93_four,pʃi,pʃi,pʃ i,,Abraham2018,,,^pʃ i$,default
+MonpaSangti-93_four-1,,MonpaSangti,93_four,pʃi,pʃi,p ʃ i,,Abraham2018,,,^pʃ i$,default
+MonpaDirang-93_four-1,,MonpaDirang,93_four,pʃi,pʃi,p ʃ i,,Abraham2018,,,^pʃ i$,default
 MonpaTawangMonastery-93_four-1,,MonpaTawangMonastery,93_four,bli,bli,b l i,,Abraham2018,,,^b l i$,default
 MonpaZimithang-93_four-1,,MonpaZimithang,93_four,plih̥,plih̥,p l i h̥,,Abraham2018,,,^p l i h̥$,default
 MonpaChangprong-93_four-1,,MonpaChangprong,93_four,bli,bli,b l i,,Abraham2018,,,^b l i$,default
@@ -1248,13 +1229,9 @@ MonpaZimithang-111_house-1,,MonpaZimithang,111_house,khem,khem,kʰ e m,,Abraham2
 MonpaChangprong-111_house-1,,MonpaChangprong,111_house,khem,khem,kʰ e m,,Abraham2018,,,^kh e m$,default
 MonpaKalaktang-112_houselizardgecko-1,,MonpaKalaktang,112_houselizardgecko,duŋduŋma,duŋduŋma,d u ŋ d u ŋ m a,,Abraham2018,,,^d u ŋ d u ŋ m a$,default
 MonpaBalemu-112_houselizardgecko-1,,MonpaBalemu,112_houselizardgecko,duŋduŋma,duŋduŋma,d u ŋ d u ŋ m a,,Abraham2018,,,^d u ŋ d u ŋ m a$,default
-MonpaTomko-112_houselizardgecko-1,,MonpaTomko,112_houselizardgecko,–,–,,,Abraham2018,,,^–$,default
-MonpaNamsu-112_houselizardgecko-1,,MonpaNamsu,112_houselizardgecko,–,–,,,Abraham2018,,,^–$,default
 MonpaTembang-112_houselizardgecko-1,,MonpaTembang,112_houselizardgecko,aiptʃaŋ,aiptʃaŋ,a i p tʃ a ŋ,,Abraham2018,,,^a i p tʃ a ŋ$,default
-MonpaDirangDum-112_houselizardgecko-1,,MonpaDirangDum,112_houselizardgecko,–,–,,,Abraham2018,,,^–$,default
 MonpaSangti-112_houselizardgecko-1,,MonpaSangti,112_houselizardgecko,abitʃaŋ,abitʃaŋ,a b i tʃ a ŋ,,Abraham2018,,,^a b i tʃ a ŋ$,default
 MonpaDirang-112_houselizardgecko-1,,MonpaDirang,112_houselizardgecko,abitʃaŋ,abitʃaŋ,a b i tʃ a ŋ,,Abraham2018,,,^a b i tʃ a ŋ$,default
-MonpaTawangMonastery-112_houselizardgecko-1,,MonpaTawangMonastery,112_houselizardgecko,–,–,,,Abraham2018,,,^–$,default
 MonpaZimithang-112_houselizardgecko-1,,MonpaZimithang,112_houselizardgecko,kotʃaloma,kotʃaloma,k o tʃ a l o m a,,Abraham2018,,,^k o tʃ a l o m a$,default
 MonpaChangprong-112_houselizardgecko-1,,MonpaChangprong,112_houselizardgecko,sãs,sãs,s ã s,,Abraham2018,,,^s ã s$,default
 MonpaKalaktang-113_howmany-1,,MonpaKalaktang,113_howmany,hămthur,hămthur,h ă m tʰ u r,,Abraham2018,,,^h ă m th u r$,default
@@ -1546,7 +1523,6 @@ MonpaTembang-138_mosquito-1,,MonpaTembang,138_mosquito,kroŋtʃuŋ,kroŋtʃuŋ,k
 MonpaDirangDum-138_mosquito-1,,MonpaDirangDum,138_mosquito,kuɾoŋtʃuŋbu,kuɾoŋtʃuŋbu,k u ɾ o ŋ tʃ u ŋ b u,,Abraham2018,,,^k u ɾ o ŋ tʃ u ŋ b u$,default
 MonpaSangti-138_mosquito-1,,MonpaSangti,138_mosquito,zamba,zamba,z a m b a,,Abraham2018,,,^z a m b a$,default
 MonpaDirang-138_mosquito-1,,MonpaDirang,138_mosquito,kuɾoŋtʃuŋbu,kuɾoŋtʃuŋbu,k u ɾ o ŋ tʃ u ŋ b u,,Abraham2018,,,^k u ɾ o ŋ tʃ u ŋ b u$,default
-MonpaTawangMonastery-138_mosquito-1,,MonpaTawangMonastery,138_mosquito,–,–,,,Abraham2018,,,^–$,default
 MonpaZimithang-138_mosquito-1,,MonpaZimithang,138_mosquito,pheli,pheli,pʰ e l i,,Abraham2018,,,^ph e l i$,default
 MonpaChangprong-138_mosquito-1,,MonpaChangprong,138_mosquito,phelu,phelu,pʰ e l u,,Abraham2018,,,^ph e l u$,default
 MonpaKalaktang-139_mother-1,,MonpaKalaktang,139_mother,ama,ama,a m a,,Abraham2018,,,^a m a$,default
@@ -1607,10 +1583,8 @@ MonpaChangprong-143_name-1,,MonpaChangprong,143_name,meŋ,meŋ,m e ŋ,,Abraham20
 MonpaKalaktang-144_narrow-1,,MonpaKalaktang,144_narrow,zimu,zimu,z i m u,,Abraham2018,,,^z i m u$,default
 MonpaBalemu-144_narrow-1,,MonpaBalemu,144_narrow,tʃaizimbu,tʃaizimbu,tʃ a i z i m b u,,Abraham2018,,,^tʃ a i z i m b u$,default
 MonpaTomko-144_narrow-1,,MonpaTomko,144_narrow,saptʃaniŋtsa,saptʃaniŋtsa,s a p tʃ a n i ŋ ts a,,Abraham2018,,,^s a p tʃ a n i ŋ ts a$,default
-MonpaNamsu-144_narrow-1,,MonpaNamsu,144_narrow,–; dʒembu,–,,,Abraham2018,,,^–$,default
-MonpaNamsu-144_narrow-2,,MonpaNamsu,144_narrow,–; dʒembu,dʒembu,dʒ e m b u,,Abraham2018,,,^dʒ e m b u$,default
+MonpaNamsu-144_narrow-1,,MonpaNamsu,144_narrow,–; dʒembu,dʒembu,dʒ e m b u,,Abraham2018,,,^dʒ e m b u$,default
 MonpaTembang-144_narrow-1,,MonpaTembang,144_narrow,tʃoŋdʒoŋ,tʃoŋdʒoŋ,tʃ o ŋ dʒ o ŋ,,Abraham2018,,,^tʃ o ŋ dʒ o ŋ$,default
-MonpaDirangDum-144_narrow-1,,MonpaDirangDum,144_narrow,–,–,,,Abraham2018,,,^–$,default
 MonpaSangti-144_narrow-1,,MonpaSangti,144_narrow,tʃupɾak,tʃupɾak,tʃ u p ɾ a k,,Abraham2018,,,^tʃ u p ɾ a k$,default
 MonpaDirang-144_narrow-1,,MonpaDirang,144_narrow,ʃoŋzimbu,ʃoŋzimbu,ʃ o ŋ z i m b u,,Abraham2018,,,^ʃ o ŋ z i m b u$,default
 MonpaTawangMonastery-144_narrow-1,,MonpaTawangMonastery,144_narrow,gjabru,gjabru,g j a b r u,,Abraham2018,,,^g j a b r u$,default
@@ -1808,9 +1782,7 @@ MonpaKalaktang-162_person-1,,MonpaKalaktang,162_person,soŋo,soŋo,s o ŋ o,,Abr
 MonpaBalemu-162_person-1,,MonpaBalemu,162_person,soŋo,soŋo,s o ŋ o,,Abraham2018,,,^s o ŋ o$,default
 MonpaTomko-162_person-1,,MonpaTomko,162_person,tʃoŋga,tʃoŋga,tʃ o ŋ g a,,Abraham2018,,,^tʃ o ŋ g a$,default
 MonpaNamsu-162_person-1,,MonpaNamsu,162_person,soŋa,soŋa,s o ŋ a,,Abraham2018,,,^s o ŋ a$,default
-MonpaTembang-162_person-1,,MonpaTembang,162_person,–; soŋa,–,,,Abraham2018,,,^–$,default
-MonpaTembang-162_person-2,,MonpaTembang,162_person,–; soŋa,soŋa,s o ŋ a,,Abraham2018,,,^s o ŋ a$,default
-MonpaDirangDum-162_person-1,,MonpaDirangDum,162_person,–,–,,,Abraham2018,,,^–$,default
+MonpaTembang-162_person-1,,MonpaTembang,162_person,–; soŋa,soŋa,s o ŋ a,,Abraham2018,,,^s o ŋ a$,default
 MonpaSangti-162_person-1,,MonpaSangti,162_person,soŋ,soŋ,s o ŋ,,Abraham2018,,,^s o ŋ$,default
 MonpaDirang-162_person-1,,MonpaDirang,162_person,soŋa,soŋa,s o ŋ a,,Abraham2018,,,^s o ŋ a$,default
 MonpaTawangMonastery-162_person-1,,MonpaTawangMonastery,162_person,miʔ,miʔ,m i ʔ,,Abraham2018,,,^m i ʔ$,default
@@ -1851,14 +1823,11 @@ MonpaZimithang-165_potato-1,,MonpaZimithang,165_potato,khe,khe,kʰ e,,Abraham201
 MonpaChangprong-165_potato-1,,MonpaChangprong,165_potato,khe,khe,kʰ e,,Abraham2018,,,^kh e$,default
 MonpaKalaktang-166_rabbit-1,,MonpaKalaktang,166_rabbit,jos,jos,j o s,,Abraham2018,,,^j o s$,default
 MonpaBalemu-166_rabbit-1,,MonpaBalemu,166_rabbit,seʃa,seʃa,s e ʃ a,,Abraham2018,,,^s e ʃ a$,default
-MonpaTomko-166_rabbit-1,,MonpaTomko,166_rabbit,–,–,,,Abraham2018,,,^–$,default
 MonpaNamsu-166_rabbit-1,,MonpaNamsu,166_rabbit,regoŋ,regoŋ,r e g o ŋ,,Abraham2018,,,^r e g o ŋ$,default
 MonpaTembang-166_rabbit-1,,MonpaTembang,166_rabbit,kaɾgos,kaɾgos,k a ɾ g o s,,Abraham2018,,,^k a ɾ g o s$,default
-MonpaDirangDum-166_rabbit-1,,MonpaDirangDum,166_rabbit,–,–,,,Abraham2018,,,^–$,default
 MonpaSangti-166_rabbit-1,,MonpaSangti,166_rabbit,semtʃen,semtʃen,s e m tʃ e n,,Abraham2018,,,^s e m tʃ e n$,default
 MonpaDirang-166_rabbit-1,,MonpaDirang,166_rabbit,gɾoŋtaŋ,gɾoŋtaŋ,g ɾ o ŋ t a ŋ,,Abraham2018,,,^g ɾ o ŋ t a ŋ$,default
 MonpaTawangMonastery-166_rabbit-1,,MonpaTawangMonastery,166_rabbit,hălah̥,hălah̥,h ă l a h̥,,Abraham2018,,,^h ă l a h̥$,default
-MonpaZimithang-166_rabbit-1,,MonpaZimithang,166_rabbit,–,–,,,Abraham2018,,,^–$,default
 MonpaChangprong-166_rabbit-1,,MonpaChangprong,166_rabbit,rekoŋ,rekoŋ,r e k o ŋ,,Abraham2018,,,^r e k o ŋ$,default
 MonpaKalaktang-167_rain-1,,MonpaKalaktang,167_rain,ŋamsu,ŋamsu,ŋ a m s u,,Abraham2018,,,^ŋ a m s u$,default
 MonpaBalemu-167_rain-1,,MonpaBalemu,167_rain,ŋamsu,ŋamsu,ŋ a m s u,,Abraham2018,,,^ŋ a m s u$,default
@@ -1993,15 +1962,12 @@ MonpaDirang-178_root-1,,MonpaDirang,178_root,ra,ra,r a,,Abraham2018,,,^r a$,defa
 MonpaTawangMonastery-178_root-1,,MonpaTawangMonastery,178_root,hrăwa,hrăwa,h r ă w a,,Abraham2018,,,^h r ăw a$,default
 MonpaZimithang-178_root-1,,MonpaZimithang,178_root,rawaʔ,rawaʔ,r a w a ʔ,,Abraham2018,,,^r a w a ʔ$,default
 MonpaChangprong-178_root-1,,MonpaChangprong,178_root,rawaʔ,rawaʔ,r a w a ʔ,,Abraham2018,,,^r a w a ʔ$,default
-MonpaKalaktang-179_rottenfruit-1,,MonpaKalaktang,179_rottenfruit,–,–,,,Abraham2018,,,^–$,default
 MonpaBalemu-179_rottenfruit-1,,MonpaBalemu,179_rottenfruit,ɕitkala,ɕitkala,ɕ i t k a l a,,Abraham2018,,,^ɕ i t k a l a$,default
 MonpaTomko-179_rottenfruit-1,,MonpaTomko,179_rottenfruit,dʒipan,dʒipan,dʒ i p a n,,Abraham2018,,,^dʒ i p a n$,default
 MonpaNamsu-179_rottenfruit-1,,MonpaNamsu,179_rottenfruit,dʒidpæn,dʒidpæn,dʒ i d p æ n,,Abraham2018,,,^dʒ i d p æ n$,default
 MonpaTembang-179_rottenfruit-1,,MonpaTembang,179_rottenfruit,zitkhen,zitkhen,z i t kʰ e n,,Abraham2018,,,^z i t kh e n$,default
-MonpaDirangDum-179_rottenfruit-1,,MonpaDirangDum,179_rottenfruit,–,–,,,Abraham2018,,,^–$,default
 MonpaSangti-179_rottenfruit-1,,MonpaSangti,179_rottenfruit,ʃikan,ʃikan,ʃ i k a n,,Abraham2018,,,^ʃ i k a n$,default
 MonpaDirang-179_rottenfruit-1,,MonpaDirang,179_rottenfruit,dʒipan,dʒipan,dʒ i p a n,,Abraham2018,,,^dʒ i p a n$,default
-MonpaTawangMonastery-179_rottenfruit-1,,MonpaTawangMonastery,179_rottenfruit,–,–,,,Abraham2018,,,^–$,default
 MonpaZimithang-179_rottenfruit-1,,MonpaZimithang,179_rottenfruit,rigjaga,rigjaga,r i g j a g a,,Abraham2018,,,^r i g j a g a$,default
 MonpaChangprong-179_rottenfruit-1,,MonpaChangprong,179_rottenfruit,rygijo,rygijo,r y g i j o,,Abraham2018,,,^r y g i j o$,default
 MonpaKalaktang-180_salt-1,,MonpaKalaktang,180_salt,iɲtʃha,iɲtʃha,i ɲ tʃʰ a,,Abraham2018,,,^i ɲ tʃh a$,default
@@ -2074,7 +2040,6 @@ MonpaKalaktang-186_shallow-1,,MonpaKalaktang,186_shallow,lema,lema,l e m a,,Abra
 MonpaBalemu-186_shallow-1,,MonpaBalemu,186_shallow,lema,lema,l e m a,,Abraham2018,,,^l e m a$,default
 MonpaTomko-186_shallow-1,,MonpaTomko,186_shallow,ɾid̪iŋpumala,ɾid̪iŋpumala,ɾ i d̪ i ŋ p u m a l a,,Abraham2018,,,^ɾ i d̪ i ŋ p u m a l a$,default
 MonpaNamsu-186_shallow-1,,MonpaNamsu,186_shallow,toŋme,toŋme,t o ŋ m e,,Abraham2018,,,^t o ŋ m e$,default
-MonpaTembang-186_shallow-1,,MonpaTembang,186_shallow,–,–,,,Abraham2018,,,^–$,default
 MonpaDirangDum-186_shallow-1,,MonpaDirangDum,186_shallow,t̪oŋkaŋmala || ̃ai za,t̪oŋkaŋmala,t̪ o ŋ k a ŋ m a l a,,Abraham2018,,,^t̪ o ŋ k a ŋ m a l a$,default
 MonpaSangti-186_shallow-1,,MonpaSangti,186_shallow,lemlem; ŋeŋe,lemlem,l e m l e m,,Abraham2018,,,^l e m l e m$,default
 MonpaSangti-186_shallow-2,,MonpaSangti,186_shallow,lemlem; ŋeŋe,ŋeŋe,ŋ e ŋ e,,Abraham2018,,,^ŋ e ŋ e$,default
@@ -2235,7 +2200,6 @@ MonpaDirangDum-200_spear-1,,MonpaDirangDum,200_spear,tʃhumi,tʃhumi,tʃʰ u m i
 MonpaSangti-200_spear-1,,MonpaSangti,200_spear,tiŋkaŋ,tiŋkaŋ,t i ŋ k a ŋ,,Abraham2018,,,^t i ŋ k a ŋ$,default
 MonpaDirang-200_spear-1,,MonpaDirang,200_spear,khabar,khabar,kʰ a b a r,,Abraham2018,,,^kh a b a r$,default
 MonpaTawangMonastery-200_spear-1,,MonpaTawangMonastery,200_spear,duŋ,duŋ,d u ŋ,,Abraham2018,,,^d u ŋ$,default
-MonpaZimithang-200_spear-1,,MonpaZimithang,200_spear,–,–,,,Abraham2018,,,^–$,default
 MonpaChangprong-200_spear-1,,MonpaChangprong,200_spear,thuŋ,thuŋ,tʰ u ŋ,,Abraham2018,,,^th u ŋ$,default
 MonpaKalaktang-201_spicyhot-1,,MonpaKalaktang,201_spicyhot,ʃokpu,ʃokpu,ʃ o k p u,,Abraham2018,,,^ʃ o k p u$,default
 MonpaBalemu-201_spicyhot-1,,MonpaBalemu,201_spicyhot,hasok1a,hasok1a,h a s o k l a,,Abraham2018,,,^h a s o k 1 a$,default
@@ -2367,7 +2331,6 @@ MonpaBalemu-212_thatthing-1,,MonpaBalemu,212_thatthing,uɲu,uɲu,u ɲ u,,Abraham
 MonpaTomko-212_thatthing-1,,MonpaTomko,212_thatthing,ola,ola,o l a,,Abraham2018,,,^o l a$,default
 MonpaNamsu-212_thatthing-1,,MonpaNamsu,212_thatthing,othu,othu,o tʰ u,,Abraham2018,,,^o th u$,default
 MonpaTembang-212_thatthing-1,,MonpaTembang,212_thatthing,oinotsaŋ,oinotsaŋ,o i n o ts a ŋ,,Abraham2018,,,^o i n o ts a ŋ$,default
-MonpaDirangDum-212_thatthing-1,,MonpaDirangDum,212_thatthing,–,–,,,Abraham2018,,,^–$,default
 MonpaSangti-212_thatthing-1,,MonpaSangti,212_thatthing,uɲu,uɲu,u ɲ u,,Abraham2018,,,^u ɲ u$,default
 MonpaDirang-212_thatthing-1,,MonpaDirang,212_thatthing,uɲumo,uɲumo,u ɲ u m o,,Abraham2018,,,^u ɲ u m o$,default
 MonpaTawangMonastery-212_thatthing-1,,MonpaTawangMonastery,212_thatthing,ʔot,ʔot,ʔ o t,,Abraham2018,,,^ʔ o t$,default
@@ -2616,10 +2579,8 @@ MonpaChangprong-233_todie-1,,MonpaChangprong,233_todie,ʃigosu,ʃigosu,ʃ i g o 
 MonpaKalaktang-234_todomake-1,,MonpaKalaktang,234_todomake,ăntʃam; tʃotʃam,ăntʃam,ă n tʃ a m,,Abraham2018,,,^ă n tʃ a m$,default
 MonpaKalaktang-234_todomake-2,,MonpaKalaktang,234_todomake,ăntʃam; tʃotʃam,tʃotʃam,tʃ o tʃ a m,,Abraham2018,,,^tʃ o tʃ a m$,default
 MonpaBalemu-234_todomake-1,,MonpaBalemu,234_todomake,alo,alo,a l o,,Abraham2018,,,^a l o$,default
-MonpaTomko-234_todomake-1,,MonpaTomko,234_todomake,–,–,,,Abraham2018,,,^–$,default
 MonpaNamsu-234_todomake-1,,MonpaNamsu,234_todomake,alo,alo,a l o,,Abraham2018,,,^a l o$,default
 MonpaTembang-234_todomake-1,,MonpaTembang,234_todomake,akhen,akhen,a kʰ e n,,Abraham2018,,,^a kh e n$,default
-MonpaDirangDum-234_todomake-1,,MonpaDirangDum,234_todomake,–,–,,,Abraham2018,,,^–$,default
 MonpaSangti-234_todomake-1,,MonpaSangti,234_todomake,ʔalo,ʔalo,ʔ a l o,,Abraham2018,,,^ʔ a l o$,default
 MonpaDirang-234_todomake-1,,MonpaDirang,234_todomake,ʔanzu,ʔanzu,ʔ a n z u,,Abraham2018,,,^ʔ a n z u$,default
 MonpaTawangMonastery-234_todomake-1,,MonpaTawangMonastery,234_todomake,jagu,jagu,j a g u,,Abraham2018,,,^j a g u$,default
@@ -3157,10 +3118,8 @@ MonpaZimithang-281_tree-1,,MonpaZimithang,281_tree,ʃæŋ,ʃæŋ,ʃ æ ŋ,,Abrah
 MonpaChangprong-281_tree-1,,MonpaChangprong,281_tree,ʃjaŋ,ʃjaŋ,ʃ j a ŋ,,Abraham2018,,,^ʃ j a ŋ$,default
 MonpaKalaktang-282_turtle-1,,MonpaKalaktang,282_turtle,gatʃa,gatʃa,g a tʃ a,,Abraham2018,,,^g a tʃ a$,default
 MonpaBalemu-282_turtle-1,,MonpaBalemu,282_turtle,ɾiba,ɾiba,ɾ i b a,,Abraham2018,,,^ɾ i b a$,default
-MonpaTomko-282_turtle-1,,MonpaTomko,282_turtle,–,–,,,Abraham2018,,,^–$,default
 MonpaNamsu-282_turtle-1,,MonpaNamsu,282_turtle,katʃu,katʃu,k a tʃ u,,Abraham2018,,,^k a tʃ u$,default
 MonpaTembang-282_turtle-1,,MonpaTembang,282_turtle,katʃu,katʃu,k a tʃ u,,Abraham2018,,,^k a tʃ u$,default
-MonpaDirangDum-282_turtle-1,,MonpaDirangDum,282_turtle,–,–,,,Abraham2018,,,^–$,default
 MonpaSangti-282_turtle-1,,MonpaSangti,282_turtle,d̪uɾi,d̪uɾi,d̪ u ɾ i,,Abraham2018,,,^d̪ u ɾ i$,default
 MonpaDirang-282_turtle-1,,MonpaDirang,282_turtle,d̪uɾi,d̪uɾi,d̪ u ɾ i,,Abraham2018,,,^d̪ u ɾ i$,default
 MonpaTawangMonastery-282_turtle-1,,MonpaTawangMonastery,282_turtle,rube,rube,r u b e,,Abraham2018,,,^r u b e$,default
@@ -3747,7 +3706,6 @@ SherdukpenShergaon-23_below-1,,SherdukpenShergaon,23_below,khuto,khuto,kʰ u t o
 SartangKhoitam-24_betelnut-1,,SartangKhoitam,24_betelnut,gui,gui,g u i,,Abraham2018,,,^g u i$,default
 ChugParchu-24_betelnut-1,,ChugParchu,24_betelnut,goi,goi,g o i,,Abraham2018,,,^g o i$,default
 SartangDarbuA-24_betelnut-1,,SartangDarbuA,24_betelnut,sali,sali,s a l i,,Abraham2018,,,^s a l i$,default
-LishLish-24_betelnut-1,,LishLish,24_betelnut,–,–,,,Abraham2018,,,^–$,default
 SherdukpenRupa-24_betelnut-1,,SherdukpenRupa,24_betelnut,sali,sali,s a l i,,Abraham2018,,,^s a l i$,default
 SartangDarbuB-24_betelnut-1,,SartangDarbuB,24_betelnut,sali,sali,s a l i,,Abraham2018,,,^s a l i$,default
 SartangKhoina-24_betelnut-1,,SartangKhoina,24_betelnut,sali,sali,s a l i,,Abraham2018,,,^s a l i$,default
@@ -3837,12 +3795,10 @@ BugunKaspi-30_blood-1,,BugunKaspi,30_blood,nəfai,nəfai,n ə f a i,,Abraham2018
 BugunNamphri-30_blood-1,,BugunNamphri,30_blood,məfai,məfai,m ə f a i,,Abraham2018,,,^m ə f a i$,default
 SherdukpenShergaon-30_blood-1,,SherdukpenShergaon,30_blood,ha,ha,h a,,Abraham2018,,,^h a$,default
 SartangKhoitam-31_boat-1,,SartangKhoitam,31_boat,khĭ,khĭ,kʰ ĭ,,Abraham2018,,,^kh ĭ$,default
-ChugParchu-31_boat-1,,ChugParchu,31_boat,–,–,,,Abraham2018,,,^–$,default
 SartangDarbuA-31_boat-1,,SartangDarbuA,31_boat,nõ,nõ,n õ,,Abraham2018,,,^n õ$,default
 LishLish-31_boat-1,,LishLish,31_boat,naw,naw,n a w,,Abraham2018,,,^n a w$,default
 SherdukpenRupa-31_boat-1,,SherdukpenRupa,31_boat,naw,naw,n a w,,Abraham2018,,,^n a w$,default
 SartangDarbuB-31_boat-1,,SartangDarbuB,31_boat,nõ,nõ,n õ,,Abraham2018,,,^n õ$,default
-SartangKhoina-31_boat-1,,SartangKhoina,31_boat,–,–,,,Abraham2018,,,^–$,default
 BugunSingchung-31_boat-1,,BugunSingchung,31_boat,na,na,n a,,Abraham2018,,,^n a$,default
 BugunWangho-31_boat-1,,BugunWangho,31_boat,naw,naw,n a w,,Abraham2018,,,^n a w$,default
 BugunBichom-31_boat-1,,BugunBichom,31_boat,naw,naw,n a w,,Abraham2018,,,^n a w$,default
@@ -3945,11 +3901,6 @@ BugunBichom-38_buffalo-1,,BugunBichom,38_buffalo,sigik,sigik,s i g i k,,Abraham2
 BugunKaspi-38_buffalo-1,,BugunKaspi,38_buffalo,ʃitʃik,ʃitʃik,ʃ i tʃ i k,,Abraham2018,,,^ʃ i tʃ i k$,default
 BugunNamphri-38_buffalo-1,,BugunNamphri,38_buffalo,sədʒik,sədʒik,s ə dʒ i k,,Abraham2018,,,^s ə dʒ i k$,default
 SherdukpenShergaon-38_buffalo-1,,SherdukpenShergaon,38_buffalo,zəge,zəge,z ə g e,,Abraham2018,,,^z ə g e$,default
-SartangKhoitam-39_cabbage-1,,SartangKhoitam,39_cabbage,–,–,,,Abraham2018,,,^–$,default
-ChugParchu-39_cabbage-1,,ChugParchu,39_cabbage,–,–,,,Abraham2018,,,^–$,default
-SartangDarbuA-39_cabbage-1,,SartangDarbuA,39_cabbage,–,–,,,Abraham2018,,,^–$,default
-LishLish-39_cabbage-1,,LishLish,39_cabbage,–,–,,,Abraham2018,,,^–$,default
-SherdukpenRupa-39_cabbage-1,,SherdukpenRupa,39_cabbage,–,–,,,Abraham2018,,,^–$,default
 SartangDarbuB-39_cabbage-1,,SartangDarbuB,39_cabbage,kobison,kobison,k o b i s o n,,Abraham2018,,,^k o b i s o n$,default
 SartangKhoina-39_cabbage-1,,SartangKhoina,39_cabbage,daŋdaŋkəre,daŋdaŋkəre,d a ŋ d a ŋ k ə r e,,Abraham2018,,,^d a ŋ d a ŋ k ə r e$,default
 BugunSingchung-39_cabbage-1,,BugunSingchung,39_cabbage,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
@@ -3958,13 +3909,10 @@ BugunBichom-39_cabbage-1,,BugunBichom,39_cabbage,kobi,kobi,k o b i,,Abraham2018,
 BugunKaspi-39_cabbage-1,,BugunKaspi,39_cabbage,kobikhubam,kobikhubam,k o b i kʰ u b a m,,Abraham2018,,,^k o b i kh u b a m$,default
 BugunNamphri-39_cabbage-1,,BugunNamphri,39_cabbage,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
 SherdukpenShergaon-39_cabbage-1,,SherdukpenShergaon,39_cabbage,bandagobi,bandagobi,b a n d a g o b i,,Abraham2018,,,^b a n d a g o b i$,default
-SartangKhoitam-40_candle-1,,SartangKhoitam,40_candle,–,–,,,Abraham2018,,,^–$,default
-ChugParchu-40_candle-1,,ChugParchu,40_candle,–,–,,,Abraham2018,,,^–$,default
 SartangDarbuA-40_candle-1,,SartangDarbuA,40_candle,mumbati,mumbati,m u m b a t i,,Abraham2018,,,^m u m b a t i$,default
 LishLish-40_candle-1,,LishLish,40_candle,mumbati,mumbati,m u m b a t i,,Abraham2018,,,^m u m b a t i$,default
 SherdukpenRupa-40_candle-1,,SherdukpenRupa,40_candle,mumbati,mumbati,m u m b a t i,,Abraham2018,,,^m u m b a t i$,default
 SartangDarbuB-40_candle-1,,SartangDarbuB,40_candle,mumbati,mumbati,m u m b a t i,,Abraham2018,,,^m u m b a t i$,default
-SartangKhoina-40_candle-1,,SartangKhoina,40_candle,–,–,,,Abraham2018,,,^–$,default
 BugunSingchung-40_candle-1,,BugunSingchung,40_candle,botʃua,botʃua,b o tʃ u a,,Abraham2018,,,^b o tʃ u a$,default
 BugunWangho-40_candle-1,,BugunWangho,40_candle,buematʃou,buematʃou,b u e m a tʃ o u,,Abraham2018,,,^b u e m a tʃ o u$,default
 BugunBichom-40_candle-1,,BugunBichom,40_candle,mumbati,mumbati,m u m b a t i,,Abraham2018,,,^m u m b a t i$,default
@@ -3984,11 +3932,6 @@ BugunBichom-41_cat-1,,BugunBichom,41_cat,ɲem,ɲem,ɲ e m,,Abraham2018,,,^ɲ e m
 BugunKaspi-41_cat-1,,BugunKaspi,41_cat,ɲem,ɲem,ɲ e m,,Abraham2018,,,^ɲ e m$,default
 BugunNamphri-41_cat-1,,BugunNamphri,41_cat,ɲem,ɲem,ɲ e m,,Abraham2018,,,^ɲ e m$,default
 SherdukpenShergaon-41_cat-1,,SherdukpenShergaon,41_cat,ɲəmbi,ɲəmbi,ɲ ə m b i,,Abraham2018,,,^ɲ ə m b i$,default
-SartangKhoitam-42_cauliflower-1,,SartangKhoitam,42_cauliflower,–,–,,,Abraham2018,,,^–$,default
-ChugParchu-42_cauliflower-1,,ChugParchu,42_cauliflower,–,–,,,Abraham2018,,,^–$,default
-SartangDarbuA-42_cauliflower-1,,SartangDarbuA,42_cauliflower,–,–,,,Abraham2018,,,^–$,default
-LishLish-42_cauliflower-1,,LishLish,42_cauliflower,–,–,,,Abraham2018,,,^–$,default
-SherdukpenRupa-42_cauliflower-1,,SherdukpenRupa,42_cauliflower,–,–,,,Abraham2018,,,^–$,default
 SartangDarbuB-42_cauliflower-1,,SartangDarbuB,42_cauliflower,kobibabu,kobibabu,k o b i b a b u,,Abraham2018,,,^k o b i b a b u$,default
 SartangKhoina-42_cauliflower-1,,SartangKhoina,42_cauliflower,daŋaren,daŋaren,d a ŋ a r e n,,Abraham2018,,,^d a ŋ a r e n$,default
 BugunSingchung-42_cauliflower-1,,BugunSingchung,42_cauliflower,phulkobi,phulkobi,pʰ u l k o b i,,Abraham2018,,,^ph u l k o b i$,default
@@ -4089,11 +4032,6 @@ BugunBichom-49_cockroach-1,,BugunBichom,49_cockroach,sarigau,sarigau,s a r i g a
 BugunKaspi-49_cockroach-1,,BugunKaspi,49_cockroach,sarigau,sarigau,s a r i g a u,,Abraham2018,,,^s a r i g a u$,default
 BugunNamphri-49_cockroach-1,,BugunNamphri,49_cockroach,sarigau,sarigau,s a r i g a u,,Abraham2018,,,^s a r i g a u$,default
 SherdukpenShergaon-49_cockroach-1,,SherdukpenShergaon,49_cockroach,butʃuluŋ,butʃuluŋ,b u tʃ u l u ŋ,,Abraham2018,,,^b u tʃ u l u ŋ$,default
-SartangKhoitam-50_coconutripe-1,,SartangKhoitam,50_coconutripe,–,–,,,Abraham2018,,,^–$,default
-ChugParchu-50_coconutripe-1,,ChugParchu,50_coconutripe,–,–,,,Abraham2018,,,^–$,default
-SartangDarbuA-50_coconutripe-1,,SartangDarbuA,50_coconutripe,–,–,,,Abraham2018,,,^–$,default
-LishLish-50_coconutripe-1,,LishLish,50_coconutripe,–,–,,,Abraham2018,,,^–$,default
-SherdukpenRupa-50_coconutripe-1,,SherdukpenRupa,50_coconutripe,–,–,,,Abraham2018,,,^–$,default
 SartangDarbuB-50_coconutripe-1,,SartangDarbuB,50_coconutripe,naɾikol,naɾikol,n a ɾ i k o l,,Abraham2018,,,^n a ɾ i k o l$,default
 SartangKhoina-50_coconutripe-1,,SartangKhoina,50_coconutripe,naɾikol,naɾikol,n a ɾ i k o l,,Abraham2018,,,^n a ɾ i k o l$,default
 BugunSingchung-50_coconutripe-1,,BugunSingchung,50_coconutripe,naɾikol,naɾikol,n a ɾ i k o l,,Abraham2018,,,^n a ɾ i k o l$,default
@@ -4144,10 +4082,7 @@ BugunNamphri-54_cow-2,,BugunNamphri,54_cow,ʃhua; suvəva,suvəva,s u v ə v a,,
 SherdukpenShergaon-54_cow-1,,SherdukpenShergaon,54_cow,spu,spu,s p u,,Abraham2018,,,^s p u$,default
 SartangKhoitam-55_crocodile-1,,SartangKhoitam,55_crocodile,khuwa,khuwa,kʰ u w a,,Abraham2018,,,^kh u w a$,default
 ChugParchu-55_crocodile-1,,ChugParchu,55_crocodile,khudon,khudon,kʰ u d o n,,Abraham2018,,,^kh u d o n$,default
-SartangDarbuA-55_crocodile-1,,SartangDarbuA,55_crocodile,–,–,,,Abraham2018,,,^–$,default
-LishLish-55_crocodile-1,,LishLish,55_crocodile,–,–,,,Abraham2018,,,^–$,default
 SherdukpenRupa-55_crocodile-1,,SherdukpenRupa,55_crocodile,khodei,khodei,kʰ o d e i,,Abraham2018,,,^kh o d e i$,default
-SartangDarbuB-55_crocodile-1,,SartangDarbuB,55_crocodile,–,–,,,Abraham2018,,,^–$,default
 SartangKhoina-55_crocodile-1,,SartangKhoina,55_crocodile,khuwa,khuwa,kʰ u w a,,Abraham2018,,,^kh u w a$,default
 BugunSingchung-55_crocodile-1,,BugunSingchung,55_crocodile,khavoi,khavoi,kʰ a v o i,,Abraham2018,,,^kh a v o i$,default
 BugunWangho-55_crocodile-1,,BugunWangho,55_crocodile,khawai,khawai,kʰ a w a i,,Abraham2018,,,^kh a w a i$,default
@@ -4621,7 +4556,7 @@ BugunBichom-92_foot-2,,BugunBichom,92_foot,lei; lue,lue,l u e,,Abraham2018,,,^l 
 BugunKaspi-92_foot-1,,BugunKaspi,92_foot,lai,lai,l a i,,Abraham2018,,,^l a i$,default
 BugunNamphri-92_foot-1,,BugunNamphri,92_foot,lai,lai,l a i,,Abraham2018,,,^l a i$,default
 SherdukpenShergaon-92_foot-1,,SherdukpenShergaon,92_foot,laʔ,laʔ,l a ʔ,,Abraham2018,,,^l a ʔ$,default
-SartangKhoitam-93_four-1,,SartangKhoitam,93_four,pʃi,pʃi,pʃ i,,Abraham2018,,,^pʃ i$,default
+SartangKhoitam-93_four-1,,SartangKhoitam,93_four,pʃi,pʃi,p ʃ i,,Abraham2018,,,^pʃ i$,default
 ChugParchu-93_four-1,,ChugParchu,93_four,psi,psi,p s i,,Abraham2018,,,^p s i$,default
 SartangDarbuA-93_four-1,,SartangDarbuA,93_four,psi,psi,p s i,,Abraham2018,,,^p s i$,default
 LishLish-93_four-1,,LishLish,93_four,phəhi,phəhi,pʰ ə h i,,Abraham2018,,,^ph ə h i$,default
@@ -4768,8 +4703,6 @@ BugunBichom-103_hair-1,,BugunBichom,103_hair,khazijaŋ,khazijaŋ,kʰ a z i j a �
 BugunKaspi-103_hair-1,,BugunKaspi,103_hair,khazijaŋ,khazijaŋ,kʰ a z i j a ŋ,,Abraham2018,,,^kh a z i j a ŋ$,default
 BugunNamphri-103_hair-1,,BugunNamphri,103_hair,khazijaŋ,khazijaŋ,kʰ a z i j a ŋ,,Abraham2018,,,^kh a z i j a ŋ$,default
 SherdukpenShergaon-103_hair-1,,SherdukpenShergaon,103_hair,gə̆zaŋ,gə̆zaŋ,g ə̆ z a ŋ,,Abraham2018,,,^g ə̆ z a ŋ$,default
-SartangKhoitam-104_hammer-1,,SartangKhoitam,104_hammer,–,–,,,Abraham2018,,,^–$,default
-ChugParchu-104_hammer-1,,ChugParchu,104_hammer,–,–,,,Abraham2018,,,^–$,default
 SartangDarbuA-104_hammer-1,,SartangDarbuA,104_hammer,thuŋ,thuŋ,tʰ u ŋ,,Abraham2018,,,^th u ŋ$,default
 LishLish-104_hammer-1,,LishLish,104_hammer,toŋ,toŋ,t o ŋ,,Abraham2018,,,^t o ŋ$,default
 SherdukpenRupa-104_hammer-1,,SherdukpenRupa,104_hammer,thuŋ,thuŋ,tʰ u ŋ,,Abraham2018,,,^th u ŋ$,default
@@ -4904,7 +4837,6 @@ ChugParchu-117_insect-1,,ChugParchu,117_insect,khroŋtʃuŋ,khroŋtʃuŋ,kʰ r o
 SartangDarbuA-117_insect-1,,SartangDarbuA,117_insect,saŋdʒoʔ,saŋdʒoʔ,s a ŋ dʒ o ʔ,,Abraham2018,,,^s a ŋ dʒ o ʔ$,default
 LishLish-117_insect-1,,LishLish,117_insect,phu,phu,pʰ u,,Abraham2018,,,^ph u$,default
 SherdukpenRupa-117_insect-1,,SherdukpenRupa,117_insect,phy,phy,pʰ y,,Abraham2018,,,^ph y$,default
-SartangDarbuB-117_insect-1,,SartangDarbuB,117_insect,–,–,,,Abraham2018,,,^–$,default
 SartangKhoina-117_insect-1,,SartangKhoina,117_insect,phu,phu,pʰ u,,Abraham2018,,,^ph u$,default
 BugunSingchung-117_insect-1,,BugunSingchung,117_insect,bĕtʃoo,bĕtʃoo,b ĕ tʃ oː,,Abraham2018,,,^b ĕ tʃ oo$,default
 BugunWangho-117_insect-1,,BugunWangho,117_insect,pə̆tʃoo,pə̆tʃoo,p ə̆ tʃ oː,,Abraham2018,,,^p ə̆ tʃ oo$,default
@@ -5003,14 +4935,10 @@ BugunBichom-128_man-1,,BugunBichom,128_man,bəfəə,bəfəə,b ə f əː,,Abraha
 BugunKaspi-128_man-1,,BugunKaspi,128_man,bran,bran,b r a n,,Abraham2018,,,^b r a n$,default
 BugunNamphri-128_man-1,,BugunNamphri,128_man,bran,bran,b r a n,,Abraham2018,,,^b r a n$,default
 SherdukpenShergaon-128_man-1,,SherdukpenShergaon,128_man,dʒihu,dʒihu,dʒ i h u,,Abraham2018,,,^dʒ i h u$,default
-SartangKhoitam-129_mango-1,,SartangKhoitam,129_mango,–; am,–,,,Abraham2018,,,^–$,default
-SartangKhoitam-129_mango-2,,SartangKhoitam,129_mango,–; am,am,a m,,Abraham2018,,,^a m$,default
-ChugParchu-129_mango-1,,ChugParchu,129_mango,–; am,–,,,Abraham2018,,,^–$,default
-ChugParchu-129_mango-2,,ChugParchu,129_mango,–; am,am,a m,,Abraham2018,,,^a m$,default
-SartangDarbuA-129_mango-1,,SartangDarbuA,129_mango,–; am,–,,,Abraham2018,,,^–$,default
-SartangDarbuA-129_mango-2,,SartangDarbuA,129_mango,–; am,am,a m,,Abraham2018,,,^a m$,default
-LishLish-129_mango-1,,LishLish,129_mango,–; am,–,,,Abraham2018,,,^–$,default
-LishLish-129_mango-2,,LishLish,129_mango,–; am,am,a m,,Abraham2018,,,^a m$,default
+SartangKhoitam-129_mango-1,,SartangKhoitam,129_mango,–; am,am,a m,,Abraham2018,,,^a m$,default
+ChugParchu-129_mango-1,,ChugParchu,129_mango,–; am,am,a m,,Abraham2018,,,^a m$,default
+SartangDarbuA-129_mango-1,,SartangDarbuA,129_mango,–; am,am,a m,,Abraham2018,,,^a m$,default
+LishLish-129_mango-1,,LishLish,129_mango,–; am,am,a m,,Abraham2018,,,^a m$,default
 SherdukpenRupa-129_mango-1,,SherdukpenRupa,129_mango,am,am,a m,,Abraham2018,,,^a m$,default
 SartangDarbuB-129_mango-1,,SartangDarbuB,129_mango,am,am,a m,,Abraham2018,,,^a m$,default
 SartangKhoina-129_mango-1,,SartangKhoina,129_mango,am,am,a m,,Abraham2018,,,^a m$,default
@@ -5361,7 +5289,6 @@ BugunBichom-155_one-1,,BugunBichom,155_one,dʒijo,dʒijo,dʒ i j o,,Abraham2018,
 BugunKaspi-155_one-1,,BugunKaspi,155_one,dʒe,dʒe,dʒ e,,Abraham2018,,,^dʒ e$,default
 BugunNamphri-155_one-1,,BugunNamphri,155_one,dʒe,dʒe,dʒ e,,Abraham2018,,,^dʒ e$,default
 SherdukpenShergaon-155_one-1,,SherdukpenShergaon,155_one,han,han,h a n,,Abraham2018,,,^h a n$,default
-SartangKhoitam-156_onion-1,,SartangKhoitam,156_onion,–,–,,,Abraham2018,,,^–$,default
 ChugParchu-156_onion-1,,ChugParchu,156_onion,tʃoŋ,tʃoŋ,tʃ o ŋ,,Abraham2018,,,^tʃ o ŋ$,default
 SartangDarbuA-156_onion-1,,SartangDarbuA,156_onion,moŋtʃi,moŋtʃi,m o ŋ tʃ i,,Abraham2018,,,^m o ŋ tʃ i$,default
 LishLish-156_onion-1,,LishLish,156_onion,tʃoŋ,tʃoŋ,tʃ o ŋ,,Abraham2018,,,^tʃ o ŋ$,default
@@ -5418,7 +5345,6 @@ BugunBichom-160_path-1,,BugunBichom,160_path,luməa,luməa,l u m ə a,,Abraham20
 BugunKaspi-160_path-1,,BugunKaspi,160_path,ləmuthuaʔ,ləmuthuaʔ,l ə m u tʰ u a ʔ,,Abraham2018,,,^l ə m u th u a ʔ$,default
 BugunNamphri-160_path-1,,BugunNamphri,160_path,ləmuaʃija,ləmuaʃija,l ə m u a ʃ i j a,,Abraham2018,,,^l ə m u a ʃ i j a$,default
 SherdukpenShergaon-160_path-1,,SherdukpenShergaon,160_path,ləmu,ləmu,l ə m u,,Abraham2018,,,^l ə m u$,default
-SartangKhoitam-161_peanut-1,,SartangKhoitam,161_peanut,–,–,,,Abraham2018,,,^–$,default
 ChugParchu-161_peanut-1,,ChugParchu,161_peanut,badam,badam,b a d a m,,Abraham2018,,,^b a d a m$,default
 SartangDarbuA-161_peanut-1,,SartangDarbuA,161_peanut,badam,badam,b a d a m,,Abraham2018,,,^b a d a m$,default
 LishLish-161_peanut-1,,LishLish,161_peanut,maŋkha,maŋkha,m a ŋ kʰ a,,Abraham2018,,,^m a ŋ kh a$,default
@@ -5437,11 +5363,9 @@ SartangDarbuA-162_person-1,,SartangDarbuA,162_person,athek,athek,a tʰ e k,,Abra
 LishLish-162_person-1,,LishLish,162_person,bŭdihin,bŭdihin,b ŭ d i h i n,,Abraham2018,,,^b ŭ d i h i n$,default
 SherdukpenRupa-162_person-1,,SherdukpenRupa,162_person,dʒiɾiŋ,dʒiɾiŋ,dʒ i ɾ i ŋ,,Abraham2018,,,^dʒ i ɾ i ŋ$,default
 SartangDarbuB-162_person-1,,SartangDarbuB,162_person,hanendoʔ,hanendoʔ,h a n e n d o ʔ,,Abraham2018,,,^h a n e n d o ʔ$,default
-SartangKhoina-162_person-1,,SartangKhoina,162_person,–,–,,,Abraham2018,,,^–$,default
 BugunSingchung-162_person-1,,BugunSingchung,162_person,bran,bran,b r a n,,Abraham2018,,,^b r a n$,default
 BugunWangho-162_person-1,,BugunWangho,162_person,bran,bran,b r a n,,Abraham2018,,,^b r a n$,default
 BugunBichom-162_person-1,,BugunBichom,162_person,bran,bran,b r a n,,Abraham2018,,,^b r a n$,default
-BugunKaspi-162_person-1,,BugunKaspi,162_person,–,–,,,Abraham2018,,,^–$,default
 BugunNamphri-162_person-1,,BugunNamphri,162_person,tharathamaŋ,tharathamaŋ,tʰ a r a tʰ a m a ŋ,,Abraham2018,,,^th a r a th a m a ŋ$,default
 SherdukpenShergaon-162_person-1,,SherdukpenShergaon,162_person,dʒiɾiŋ,dʒiɾiŋ,dʒ i ɾ i ŋ,,Abraham2018,,,^dʒ i ɾ i ŋ$,default
 SartangKhoitam-163_pig-1,,SartangKhoitam,163_pig,swaʔ,swaʔ,sʷ a ʔ,,Abraham2018,,,^sw a ʔ$,default
@@ -5484,13 +5408,8 @@ BugunBichom-165_potato-1,,BugunBichom,165_potato,mətʃə,mətʃə,m ə tʃ ə,,
 BugunKaspi-165_potato-1,,BugunKaspi,165_potato,madʒie,madʒie,m a dʒ i e,,Abraham2018,,,^m a dʒ i e$,default
 BugunNamphri-165_potato-1,,BugunNamphri,165_potato,madʒua,madʒua,m a dʒ u a,,Abraham2018,,,^m a dʒ u a$,default
 SherdukpenShergaon-165_potato-1,,SherdukpenShergaon,165_potato,dʒu,dʒu,dʒ u,,Abraham2018,,,^dʒ u$,default
-SartangKhoitam-166_rabbit-1,,SartangKhoitam,166_rabbit,–,–,,,Abraham2018,,,^–$,default
-ChugParchu-166_rabbit-1,,ChugParchu,166_rabbit,–,–,,,Abraham2018,,,^–$,default
-SartangDarbuA-166_rabbit-1,,SartangDarbuA,166_rabbit,–,–,,,Abraham2018,,,^–$,default
-LishLish-166_rabbit-1,,LishLish,166_rabbit,–,–,,,Abraham2018,,,^–$,default
 SherdukpenRupa-166_rabbit-1,,SherdukpenRupa,166_rabbit,khoha,khoha,kʰ o h a,,Abraham2018,,,^kh o h a$,default
 SartangDarbuB-166_rabbit-1,,SartangDarbuB,166_rabbit,kaɾgos,kaɾgos,k a ɾ g o s,,Abraham2018,,,^k a ɾ g o s$,default
-SartangKhoina-166_rabbit-1,,SartangKhoina,166_rabbit,–,–,,,Abraham2018,,,^–$,default
 BugunSingchung-166_rabbit-1,,BugunSingchung,166_rabbit,truk,truk,t r u k,,Abraham2018,,,^t r u k$,default
 BugunWangho-166_rabbit-1,,BugunWangho,166_rabbit,truk,truk,t r u k,,Abraham2018,,,^t r u k$,default
 BugunBichom-166_rabbit-1,,BugunBichom,166_rabbit,kaɾgos,kaɾgos,k a ɾ g o s,,Abraham2018,,,^k a ɾ g o s$,default
@@ -5632,9 +5551,6 @@ BugunNamphri-178_root-1,,BugunNamphri,178_root,eraŋ,eraŋ,e r a ŋ,,Abraham2018
 SherdukpenShergaon-178_root-1,,SherdukpenShergaon,178_root,rabo,rabo,r a b o,,Abraham2018,,,^r a b o$,default
 SartangKhoitam-179_rottenfruit-1,,SartangKhoitam,179_rottenfruit,hũlũbe,hũlũbe,h ũ l ũ b e,,Abraham2018,,,^h ũ l ũ b e$,default
 ChugParchu-179_rottenfruit-1,,ChugParchu,179_rottenfruit,ɲaŋoŋloŋ,ɲaŋoŋloŋ,ɲ a ŋ o ŋ l o ŋ,,Abraham2018,,,^ɲ a ŋ o ŋ l o ŋ$,default
-SartangDarbuA-179_rottenfruit-1,,SartangDarbuA,179_rottenfruit,–,–,,,Abraham2018,,,^–$,default
-LishLish-179_rottenfruit-1,,LishLish,179_rottenfruit,–,–,,,Abraham2018,,,^–$,default
-SherdukpenRupa-179_rottenfruit-1,,SherdukpenRupa,179_rottenfruit,–,–,,,Abraham2018,,,^–$,default
 SartangDarbuB-179_rottenfruit-1,,SartangDarbuB,179_rottenfruit,anuŋ,anuŋ,a n u ŋ,,Abraham2018,,,^a n u ŋ$,default
 SartangKhoina-179_rottenfruit-1,,SartangKhoina,179_rottenfruit,gafuŋ,gafuŋ,g a f u ŋ,,Abraham2018,,,^g a f u ŋ$,default
 BugunSingchung-179_rottenfruit-1,,BugunSingchung,179_rottenfruit,eʃuŋ,eʃuŋ,e ʃ u ŋ,,Abraham2018,,,^e ʃ u ŋ$,default
@@ -5684,8 +5600,6 @@ BugunNamphri-182_sand-1,,BugunNamphri,182_sand,bali,bali,b a l i,,Abraham2018,,,
 SherdukpenShergaon-182_sand-1,,SherdukpenShergaon,182_sand,betʃo,betʃo,b e tʃ o,,Abraham2018,,,^b e tʃ o$,default
 SartangKhoitam-183_sea-1,,SartangKhoitam,183_sea,laʔto,laʔto,l a ʔ t o,,Abraham2018,,,^l a ʔ t o$,default
 ChugParchu-183_sea-1,,ChugParchu,183_sea,tʃumkhuki,tʃumkhuki,tʃ u m kʰ u k i,,Abraham2018,,,^tʃ u m kh u k i$,default
-SartangDarbuA-183_sea-1,,SartangDarbuA,183_sea,–,–,,,Abraham2018,,,^–$,default
-LishLish-183_sea-1,,LishLish,183_sea,–,–,,,Abraham2018,,,^–$,default
 SherdukpenRupa-183_sea-1,,SherdukpenRupa,183_sea,thozamtʃuʃinmu,thozamtʃuʃinmu,tʰ o z a m tʃ u ʃ i n m u,,Abraham2018,,,^th o z a m tʃ u ʃ i n m u$,default
 SartangDarbuB-183_sea-1,,SartangDarbuB,183_sea,khokhaŋkheh̥,khokhaŋkheh̥,kʰ o kʰ a ŋ kʰ e h̥,,Abraham2018,,,^kh o kh a ŋ kh e h̥$,default
 SartangKhoina-183_sea-1,,SartangKhoina,183_sea,digiŋhu,digiŋhu,d i g i ŋ h u,,Abraham2018,,,^d i g i ŋ h u$,default
@@ -5694,7 +5608,6 @@ BugunWangho-183_sea-1,,BugunWangho,183_sea,tʃumoŋkhou; kharuwai,tʃumoŋkhou,t
 BugunWangho-183_sea-2,,BugunWangho,183_sea,tʃumoŋkhou; kharuwai,kharuwai,kʰ a r u w a i,,Abraham2018,,,^kh a r u w a i$,default
 BugunBichom-183_sea-1,,BugunBichom,183_sea,khobu; təpməkhən,khobu,kʰ o b u,,Abraham2018,,,^kh o b u$,default
 BugunBichom-183_sea-2,,BugunBichom,183_sea,khobu; təpməkhən,təpməkhən,t ə p m ə kʰ ə n,,Abraham2018,,,^t ə p m ə kh ə n$,default
-BugunKaspi-183_sea-1,,BugunKaspi,183_sea,–,–,,,Abraham2018,,,^–$,default
 BugunNamphri-183_sea-1,,BugunNamphri,183_sea,khamua,khamua,kʰ a m u a,,Abraham2018,,,^kh a m u a$,default
 SherdukpenShergaon-183_sea-1,,SherdukpenShergaon,183_sea,dʒamtʃutʃetmo,dʒamtʃutʃetmo,dʒ a m tʃ u tʃ e t m o,,Abraham2018,,,^dʒ a m tʃ u tʃ e t m o$,default
 SartangKhoitam-184_seed-1,,SartangKhoitam,184_seed,ari,ari,a r i,,Abraham2018,,,^a r i$,default
@@ -5894,7 +5807,6 @@ BugunKaspi-199_sour-1,,BugunKaspi,199_sour,tʃuŋ,tʃuŋ,tʃ u ŋ,,Abraham2018,,
 BugunNamphri-199_sour-1,,BugunNamphri,199_sour,etʃiŋ,etʃiŋ,e tʃ i ŋ,,Abraham2018,,,^e tʃ i ŋ$,default
 SherdukpenShergaon-199_sour-1,,SherdukpenShergaon,199_sour,kheti,kheti,kʰ e t i,,Abraham2018,,,^kh e t i$,default
 SartangKhoitam-200_spear-1,,SartangKhoitam,200_spear,dʒuŋ,dʒuŋ,dʒ u ŋ,,Abraham2018,,,^dʒ u ŋ$,default
-ChugParchu-200_spear-1,,ChugParchu,200_spear,–,–,,,Abraham2018,,,^–$,default
 SartangDarbuA-200_spear-1,,SartangDarbuA,200_spear,dʒoŋ,dʒoŋ,dʒ o ŋ,,Abraham2018,,,^dʒ o ŋ$,default
 LishLish-200_spear-1,,LishLish,200_spear,tiŋkaŋ,tiŋkaŋ,t i ŋ k a ŋ,,Abraham2018,,,^t i ŋ k a ŋ$,default
 SherdukpenRupa-200_spear-1,,SherdukpenRupa,200_spear,zat̪i,zat̪i,z a t̪ i,,Abraham2018,,,^z a t̪ i$,default
@@ -6275,8 +6187,6 @@ BugunBichom-289_water-1,,BugunBichom,289_water,khou,khou,kʰ o u,,Abraham2018,,,
 BugunKaspi-289_water-1,,BugunKaspi,289_water,khou,khou,kʰ o u,,Abraham2018,,,^kh o u$,default
 BugunNamphri-289_water-1,,BugunNamphri,289_water,khou,khou,kʰ o u,,Abraham2018,,,^kh o u$,default
 SherdukpenShergaon-289_water-1,,SherdukpenShergaon,289_water,kho,kho,kʰ o,,Abraham2018,,,^kh o$,default
-SartangKhoitam-290_week-1,,SartangKhoitam,290_week,–,–,,,Abraham2018,,,^–$,default
-ChugParchu-290_week-1,,ChugParchu,290_week,–,–,,,Abraham2018,,,^–$,default
 SartangDarbuA-290_week-1,,SartangDarbuA,290_week,nĭmisik,nĭmisik,n ĭ m i s i k,,Abraham2018,,,^n ĭ m i s i k$,default
 LishLish-290_week-1,,LishLish,290_week,dunkhahin,dunkhahin,d u n kʰ a h i n,,Abraham2018,,,^d u n kh a h i n$,default
 SherdukpenRupa-290_week-1,,SherdukpenRupa,290_week,niniʃik,niniʃik,n i n i ʃ i k,,Abraham2018,,,^n i n i ʃ i k$,default
@@ -6529,7 +6439,6 @@ NamreiBisai-222_thunder-1,,NamreiBisai,222_thunder,gijaŋbəra,gijaŋbəra,g i j
 DammaiRurang-222_thunder-1,,DammaiRurang,222_thunder,nadʒaŋgaŋ,nadʒaŋgaŋ,n a dʒ a ŋ g a ŋ,,Abraham2018,,,^n a dʒ a ŋ g a ŋ$,default
 DammaiDibin-222_thunder-1,,DammaiDibin,222_thunder,nadʒaŋgəŋ,nadʒaŋgəŋ,n a dʒ a ŋ g ə ŋ,,Abraham2018,,,^n a dʒ a ŋ g ə ŋ$,default
 MijiNafra-183_sea-1,,MijiNafra,183_sea,stərilu,stərilu,s t ə r i l u,,Abraham2018,,,^s t ə r i l u$,default
-HrusoAkaJamiri-183_sea-1,,HrusoAkaJamiri,183_sea,–,–,,,Abraham2018,,,^–$,default
 NamreiNabolang-183_sea-1,,NamreiNabolang,183_sea,ɕətərəlou,ɕətərəlou,ɕ ə t ə r ə l o u,,Abraham2018,,,^ɕ ə t ə r ə l o u$,default
 NamreiBisai-183_sea-1,,NamreiBisai,183_sea,ɕətərəlou,ɕətərəlou,ɕ ə t ə r ə l o u,,Abraham2018,,,^ɕ ə t ə r ə l o u$,default
 DammaiRurang-183_sea-1,,DammaiRurang,183_sea,və,və,v ə,,Abraham2018,,,^v ə$,default
@@ -6690,14 +6599,10 @@ NamreiNabolang-165_potato-1,,NamreiNabolang,165_potato,laɕoɲija,laɕoɲija,l a
 NamreiBisai-165_potato-1,,NamreiBisai,165_potato,laʃoɲija,laʃoɲija,l a ʃ o ɲ i j a,,Abraham2018,,,^l a ʃ o ɲ i j a$,default
 DammaiRurang-165_potato-1,,DammaiRurang,165_potato,lasiɲio,lasiɲio,l a s i ɲ i o,,Abraham2018,,,^l a s i ɲ i o$,default
 DammaiDibin-165_potato-1,,DammaiDibin,165_potato,lasiɲau,lasiɲau,l a s i ɲ a u,,Abraham2018,,,^l a s i ɲ a u$,default
-MijiNafra-42_cauliflower-1,,MijiNafra,42_cauliflower,–,–,,,Abraham2018,,,^–$,default
-HrusoAkaJamiri-42_cauliflower-1,,HrusoAkaJamiri,42_cauliflower,–,–,,,Abraham2018,,,^–$,default
 NamreiNabolang-42_cauliflower-1,,NamreiNabolang,42_cauliflower,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
 NamreiBisai-42_cauliflower-1,,NamreiBisai,42_cauliflower,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
 DammaiRurang-42_cauliflower-1,,DammaiRurang,42_cauliflower,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
 DammaiDibin-42_cauliflower-1,,DammaiDibin,42_cauliflower,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
-MijiNafra-39_cabbage-1,,MijiNafra,39_cabbage,–,–,,,Abraham2018,,,^–$,default
-HrusoAkaJamiri-39_cabbage-1,,HrusoAkaJamiri,39_cabbage,–,–,,,Abraham2018,,,^–$,default
 NamreiNabolang-39_cabbage-1,,NamreiNabolang,39_cabbage,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
 NamreiBisai-39_cabbage-1,,NamreiBisai,39_cabbage,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
 DammaiRurang-39_cabbage-1,,DammaiRurang,39_cabbage,kobi,kobi,k o b i,,Abraham2018,,,^k o b i$,default
@@ -6759,8 +6664,6 @@ DammaiRurang-96_fruit-1,,DammaiRurang,96_fruit,uthen,uthen,u tʰ e n,,Abraham201
 DammaiDibin-96_fruit-1,,DammaiDibin,96_fruit,uthen,uthen,u tʰ e n,,Abraham2018,,,^u th e n$,default
 NamreiNabolang-118_jackfruit-1,,NamreiNabolang,118_jackfruit,dʒagutan,dʒagutan,dʒ a g u t a n,,Abraham2018,,,^dʒ a g u t a n$,default
 DammaiRurang-118_jackfruit-1,,DammaiRurang,118_jackfruit,kotal,kotal,k o t a l,,Abraham2018,,,^k o t a l$,default
-MijiNafra-50_coconutripe-1,,MijiNafra,50_coconutripe,–,–,,,Abraham2018,,,^–$,default
-HrusoAkaJamiri-50_coconutripe-1,,HrusoAkaJamiri,50_coconutripe,–,–,,,Abraham2018,,,^–$,default
 NamreiNabolang-50_coconutripe-1,,NamreiNabolang,50_coconutripe,naɾikol,naɾikol,n a ɾ i k o l,,Abraham2018,,,^n a ɾ i k o l$,default
 NamreiBisai-50_coconutripe-1,,NamreiBisai,50_coconutripe,naɾikol,naɾikol,n a ɾ i k o l,,Abraham2018,,,^n a ɾ i k o l$,default
 DammaiRurang-50_coconutripe-1,,DammaiRurang,50_coconutripe,naɾikol,naɾikol,n a ɾ i k o l,,Abraham2018,,,^n a ɾ i k o l$,default
@@ -6771,8 +6674,7 @@ NamreiNabolang-19_banana-1,,NamreiNabolang,19_banana,ləlaŋ,ləlaŋ,l ə l a ŋ
 NamreiBisai-19_banana-1,,NamreiBisai,19_banana,ləlaŋ,ləlaŋ,l ə l a ŋ,,Abraham2018,,,^l ə l a ŋ$,default
 DammaiRurang-19_banana-1,,DammaiRurang,19_banana,rilaŋ,rilaŋ,r i l a ŋ,,Abraham2018,,,^r i l a ŋ$,default
 DammaiDibin-19_banana-1,,DammaiDibin,19_banana,rilaŋ,rilaŋ,r i l a ŋ,,Abraham2018,,,^r i l a ŋ$,default
-MijiNafra-129_mango-1,,MijiNafra,129_mango,–; am,–,,,Abraham2018,,,^–$,default
-MijiNafra-129_mango-2,,MijiNafra,129_mango,–; am,am,a m,,Abraham2018,,,^a m$,default
+MijiNafra-129_mango-1,,MijiNafra,129_mango,–; am,am,a m,,Abraham2018,,,^a m$,default
 HrusoAkaJamiri-129_mango-1,,HrusoAkaJamiri,129_mango,am,am,a m,,Abraham2018,,,^a m$,default
 NamreiBisai-129_mango-1,,NamreiBisai,129_mango,am,am,a m,,Abraham2018,,,^a m$,default
 DammaiDibin-129_mango-1,,DammaiDibin,129_mango,am,am,a m,,Abraham2018,,,^a m$,default
@@ -6890,11 +6792,9 @@ NamreiNabolang-134_monkey-1,,NamreiNabolang,134_monkey,ʃəbo,ʃəbo,ʃ ə b o,,
 NamreiBisai-134_monkey-1,,NamreiBisai,134_monkey,ʃubo,ʃubo,ʃ u b o,,Abraham2018,,,^ʃ u b o$,default
 DammaiRurang-134_monkey-1,,DammaiRurang,134_monkey,ʃubo,ʃubo,ʃ u b o,,Abraham2018,,,^ʃ u b o$,default
 DammaiDibin-134_monkey-1,,DammaiDibin,134_monkey,ʃubo,ʃubo,ʃ u b o,,Abraham2018,,,^ʃ u b o$,default
-MijiNafra-166_rabbit-1,,MijiNafra,166_rabbit,–,–,,,Abraham2018,,,^–$,default
 HrusoAkaJamiri-166_rabbit-1,,HrusoAkaJamiri,166_rabbit,pohapohu,pohapohu,p o h a p o h u,,Abraham2018,,,^p o h a p o h u$,default
 NamreiNabolang-166_rabbit-1,,NamreiNabolang,166_rabbit,ʃidʒam,ʃidʒam,ʃ i dʒ a m,,Abraham2018,,,^ʃ i dʒ a m$,default
 NamreiBisai-166_rabbit-1,,NamreiBisai,166_rabbit,kaɾgos,kaɾgos,k a ɾ g o s,,Abraham2018,,,^k a ɾ g o s$,default
-DammaiRurang-166_rabbit-1,,DammaiRurang,166_rabbit,–,–,,,Abraham2018,,,^–$,default
 DammaiDibin-166_rabbit-1,,DammaiDibin,166_rabbit,dʒuk,dʒuk,dʒ u k,,Abraham2018,,,^dʒ u k$,default
 MijiNafra-195_snake-1,,MijiNafra,195_snake,ɲabəu,ɲabəu,ɲ a b ə u,,Abraham2018,,,^ɲ a b ə u$,default
 HrusoAkaJamiri-195_snake-1,,HrusoAkaJamiri,195_snake,by,by,b y,,Abraham2018,,,^b y$,default
@@ -6911,7 +6811,6 @@ DammaiDibin-55_crocodile-1,,DammaiDibin,55_crocodile,vəphi,vəphi,v ə pʰ i,,A
 MijiNafra-112_houselizardgecko-1,,MijiNafra,112_houselizardgecko,busimən,busimən,b u s i m ə n,,Abraham2018,,,^b u s i m ə n$,default
 HrusoAkaJamiri-112_houselizardgecko-1,,HrusoAkaJamiri,112_houselizardgecko,dadʒə,dadʒə,d a dʒ ə,,Abraham2018,,,^d a dʒ ə$,default
 NamreiNabolang-112_houselizardgecko-1,,NamreiNabolang,112_houselizardgecko,gusuman,gusuman,g u s u m a n,,Abraham2018,,,^g u s u m a n$,default
-NamreiBisai-112_houselizardgecko-1,,NamreiBisai,112_houselizardgecko,–,–,,,Abraham2018,,,^–$,default
 DammaiRurang-112_houselizardgecko-1,,DammaiRurang,112_houselizardgecko,bitʃaptʃi,bitʃaptʃi,b i tʃ a p tʃ i,,Abraham2018,,,^b i tʃ a p tʃ i$,default
 DammaiDibin-112_houselizardgecko-1,,DammaiDibin,112_houselizardgecko,bətʃabətʃi,bətʃabətʃi,b ə tʃ a b ə tʃ i,,Abraham2018,,,^b ə tʃ a b ə tʃ i$,default
 MijiNafra-282_turtle-1,,MijiNafra,282_turtle,adʒiro,adʒiro,a dʒ i r o,,Abraham2018,,,^a dʒ i r o$,default
@@ -7466,7 +7365,6 @@ NamreiNabolang-194_smoke-1,,NamreiNabolang,194_smoke,maikhən,maikhən,m a i kʰ
 NamreiBisai-194_smoke-1,,NamreiBisai,194_smoke,maikhən,maikhən,m a i kʰ ə n,,Abraham2018,,,^m a i kh ə n$,default
 DammaiRurang-194_smoke-1,,DammaiRurang,194_smoke,maikhən,maikhən,m a i kʰ ə n,,Abraham2018,,,^m a i kh ə n$,default
 DammaiDibin-194_smoke-1,,DammaiDibin,194_smoke,maikhən,maikhən,m a i kʰ ə n,,Abraham2018,,,^m a i kh ə n$,default
-MijiNafra-40_candle-1,,MijiNafra,40_candle,–,–,,,Abraham2018,,,^–$,default
 HrusoAkaJamiri-40_candle-1,,HrusoAkaJamiri,40_candle,mumbati,mumbati,m u m b a t i,,Abraham2018,,,^m u m b a t i$,default
 NamreiNabolang-40_candle-1,,NamreiNabolang,40_candle,mairiaŋ,mairiaŋ,m a i r i a ŋ,,Abraham2018,,,^m a i r i a ŋ$,default
 NamreiBisai-40_candle-1,,NamreiBisai,40_candle,mumbati,mumbati,m u m b a t i,,Abraham2018,,,^m u m b a t i$,default
@@ -7938,7 +7836,7 @@ NamreiBisai-193_small-1,,NamreiBisai,193_small,mijadʒui,mijadʒui,m i j a dʒ u
 DammaiRurang-193_small-1,,DammaiRurang,193_small,mijadʒui,mijadʒui,m i j a dʒ u i,,Abraham2018,,,^m i j a dʒ u i$,default
 DammaiDibin-193_small-1,,DammaiDibin,193_small,mijadʒui,mijadʒui,m i j a dʒ u i,,Abraham2018,,,^m i j a dʒ u i$,default
 MijiNafra-127_long-1,,MijiNafra,127_long,məpijaŋ,məpijaŋ,m ə p i j a ŋ,,Abraham2018,,,^m ə p i j a ŋ$,default
-HrusoAkaJamiri-127_long-1,,HrusoAkaJamiri,127_long,pʃu,pʃu,pʃ u,,Abraham2018,,,^pʃ u$,default
+HrusoAkaJamiri-127_long-1,,HrusoAkaJamiri,127_long,pʃu,pʃu,p ʃ u,,Abraham2018,,,^pʃ u$,default
 NamreiNabolang-127_long-1,,NamreiNabolang,127_long,məpijaŋ,məpijaŋ,m ə p i j a ŋ,,Abraham2018,,,^m ə p i j a ŋ$,default
 NamreiBisai-127_long-1,,NamreiBisai,127_long,məpijaŋ,məpijaŋ,m ə p i j a ŋ,,Abraham2018,,,^m ə p i j a ŋ$,default
 DammaiRurang-127_long-1,,DammaiRurang,127_long,məpijaŋ,məpijaŋ,m ə p i j a ŋ,,Abraham2018,,,^m ə p i j a ŋ$,default
