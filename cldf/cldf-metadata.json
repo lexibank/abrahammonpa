@@ -7,7 +7,7 @@
         "http://concepticon.clld.org/contributions/Abraham-2018-307"
     ],
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Abraham et al.'s \"Sociolinguistic Research on Monpa\" from 2018",
@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/abrahammonpa",
-            "dc:created": "v2.0-6-g620de90"
+            "dc:created": "v2.0-7-g5c1ed6e"
         },
         {
             "rdf:type": "prov:Entity",

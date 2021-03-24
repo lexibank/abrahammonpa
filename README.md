@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Abraham, Binny, Kara Sako, Elina Kinny, and Isapdaile Zeliang (2018):  Sociolinguistic Research among Selected Groups in Western Arunachal Pradesh: Highlighting Monpa. Dallas: SIL International.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -39,14 +39,14 @@ This dataset comprises some 31 Sino-Tibetan varieties, mostly from Monpa, but al
 
 Name               | GitHub user | Description | Role
 ---                | ---         | --- | --- 
-Johann-Mattis List | @LinguList  | maintainer, patron | author 
-Mei-Shin Wu        | @MacyL      | maintainer | author
-Yunfan Lai         | @laiyunfan  | maintainer | author
+Johann-Mattis List | @LinguList  | maintainer, patron | other 
+Mei-Shin Wu        | @MacyL      | maintainer | other
+Yunfan Lai         | @laiyunfan  | maintainer | other
 Wiktionary         | https://en.wiktionary.org/ | digitization | DataCurator, Distributor
-Binny Abraham | | data collection | DataCollector
-Kara Sako | | data collection | DataCollector
-Elina Kinny | | data collection | DataCollector
-Isapdaile Zeliang | | data collection | DataCollector
+Binny Abraham | | data collection | Author
+Kara Sako | | data collection | Author
+Elina Kinny | | data collection | Author
+Isapdaile Zeliang | | data collection | Author
 
 
 
