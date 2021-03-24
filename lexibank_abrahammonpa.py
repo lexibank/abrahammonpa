@@ -2,7 +2,7 @@ from collections import defaultdict
 
 from pathlib import Path
 from pylexibank.dataset import Dataset as BaseDataset 
-from pylexibank import Language
+from pylexibank import Language, FormSpec
 from pylexibank import progressbar
 
 from clldutils.misc import slug
@@ -24,6 +24,9 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "abrahammonpa"
     language_class = CustomLanguage
+    form_spec = FormSpec(
+            missing_data=("–", "-")
+            )
 
     def cmd_makecldf(self, args):
         """

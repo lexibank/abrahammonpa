@@ -27,13 +27,13 @@ This dataset comprises some 31 Sino-Tibetan varieties, mostly from Monpa, but al
 
 - **Varieties:** 30
 - **Concepts:** 306
-- **Lexemes:** 8,315
+- **Lexemes:** 8,213
 - **Sources:** 1
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
-- **Tokens:** 38,097
-- **Segments:** 97 (0 BIPA errors, 0 CTLS sound class errors, 97 CLTS modified)
-- **Inventory size (avg):** 45.47
+- **Tokens:** 38,103
+- **Segments:** 96 (0 BIPA errors, 0 CTLS sound class errors, 96 CLTS modified)
+- **Inventory size (avg):** 45.27
 
 # Contributors
 
