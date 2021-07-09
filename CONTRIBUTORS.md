@@ -2,9 +2,9 @@
 
 Name               | GitHub user | Description | Role
 ---                | ---         | --- | --- 
-Johann-Mattis List | @LinguList  | maintainer, patron | other 
-Mei-Shin Wu        | @MacyL      | maintainer | other
-Yunfan Lai         | @laiyunfan  | maintainer | other
+Johann-Mattis List | @LinguList  | maintainer, patron | Other 
+Mei-Shin Wu        | @MacyL      | maintainer | Other
+Yunfan Lai         | @laiyunfan  | maintainer | Other
 Wiktionary         | https://en.wiktionary.org/ | digitization | DataCurator, Distributor
 Binny Abraham | | data collection | Author
 Kara Sako | | data collection | Author
