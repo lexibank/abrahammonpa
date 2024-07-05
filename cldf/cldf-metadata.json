@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/abrahammonpa",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0-1-ga0aad74",
+            "dc:created": "v3.0-2-gf5c2629",
             "dc:title": "Repository"
         },
         {
@@ -243,7 +243,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 307,
+            "dc:extent": 306,
             "tableSchema": {
                 "columns": [
                     {
