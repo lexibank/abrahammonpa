@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/abrahammonpa",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0",
+            "dc:created": "v3.0-1-ga0aad74",
             "dc:title": "Repository"
         },
         {

@@ -48,8 +48,8 @@ This dataset comprises some 31 Sino-Tibetan varieties, mostly from Monpa, but al
 Name               | GitHub user | Description | Role
 ---                | ---         | --- | ---
 Johann-Mattis List | @LinguList  | maintainer, patron | Editor
-Mei-Shin Wu        | @MacyL      | maintainer | Other
-Yunfan Lai         | @laiyunfan  | maintainer | Other
+Mei-Shin Wu        | @MacyL      | Orthography profile | Other
+Yunfan Lai         | @laiyunfan  | Orthography profile | Other
 Wiktionary         | https://en.wiktionary.org/ | digitization | DataCurator, Distributor
 Binny Abraham | | data collection | Author
 Kara Sako | | data collection | Author
