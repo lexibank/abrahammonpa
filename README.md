@@ -33,29 +33,28 @@ This dataset comprises some 31 Sino-Tibetan varieties, mostly from Monpa, but al
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 30
-- **Concepts:** 306
+- **Varieties:** 30 (linked to 16 different Glottocodes)
+- **Concepts:** 306 (linked to 304 different Concepticon concept sets)
 - **Lexemes:** 8,213
 - **Sources:** 1
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
 - **Tokens:** 38,103
-- **Segments:** 96 (0 BIPA errors, 0 CTLS sound class errors, 96 CLTS modified)
+- **Segments:** 96 (0 BIPA errors, 0 CLTS sound class errors, 96 CLTS modified)
 - **Inventory size (avg):** 45.27
 
 # Contributors
 
 Name               | GitHub user | Description | Role
----                | ---         | --- | --- 
-Johann-Mattis List | @LinguList  | maintainer, patron | Other 
-Mei-Shin Wu        | @MacyL      | maintainer | Other
-Yunfan Lai         | @laiyunfan  | maintainer | Other
+---                | ---         | --- | ---
+Johann-Mattis List | @LinguList  | maintainer, patron | Editor
+Mei-Shin Wu        | @MacyL      | Orthography profile | Other
+Yunfan Lai         | @laiyunfan  | Orthography profile | Other
 Wiktionary         | https://en.wiktionary.org/ | digitization | DataCurator, Distributor
 Binny Abraham | | data collection | Author
 Kara Sako | | data collection | Author
 Elina Kinny | | data collection | Author
 Isapdaile Zeliang | | data collection | Author
-
 
 
 

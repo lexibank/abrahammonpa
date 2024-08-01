@@ -22,6 +22,7 @@ class Dataset(pylexibank.Dataset):
     id = "abrahammonpa"
     language_class = CustomLanguage
     form_spec = pylexibank.FormSpec(missing_data=("–", "-"))
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     def cmd_makecldf(self, args):
         data = []
